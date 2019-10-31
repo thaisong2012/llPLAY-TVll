@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-ID="we-play.tv" tvg-name="True Premier Football HD 1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="sport",True Premier Football HD 1 																																																																													
 https://vip.we-play.tv/live/true-epl-1_hd/playlist.m3u8 																																																																													
 #EXTINF:-1 tvg-ID="we-play.tv" tvg-name="True Premier Football HD 2" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="sport",True Premier Football HD 2 																																																																													
@@ -216,5 +217,4 @@ https://vip.we-play.tv/live/olympic/playlist.m3u8
 #EXTINF:-1 tvg-ID="we-play.tv" tvg-name="Outdoor Channel" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title="ent",Outdoor Channel 																																																																													
 https://vip.we-play.tv/live/outdoor/playlist.m3u8 																																																																													
 #EXTINF:-1 tvg-ID="we-play.tv" tvg-name="True Asian Series HD" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-asian-series.jpg" group-title="ent",True Asian Series HD 																																																																													
-https://vip.we-play.tv/live/trueasianhd/playlist.m3u8																																																																													
-																																																																													
+https://vip.we-play.tv/live/trueasianhd/playlist.m3u8
