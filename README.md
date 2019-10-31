@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="we-play.tv" tvg-name="True Premier Football HD 1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="sport",True Premier Football HD 1 																																																																													
+#EXTINF:-1 tvg-name="True Premier Football HD 1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="sport",True Premier Football HD 1 																																																																													
 https://vip.we-play.tv/live/true-epl-1_hd/playlist.m3u8 																																																																													
-#EXTINF:-1 tvg-ID="we-play.tv" tvg-name="True Premier Football HD 2" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="sport",True Premier Football HD 2 																																																																													
+#EXTINF:-1 tvg-name="True Premier Football HD 2" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="sport",True Premier Football HD 2 																																																																													
 https://vip.we-play.tv/live/tpf2/playlist.m3u8 																																																																													
 #EXTINF:-1 tvg-ID="we-play.tv" tvg-name="True Premier Football HD 3" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg" group-title="sport",True Premier Football HD 3 																																																																													
 https://vip.we-play.tv/live/tpf3/playlist.m3u8 																																																																													
