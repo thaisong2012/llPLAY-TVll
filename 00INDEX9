@@ -1,59 +1,852 @@
 {
-"name": "💖 August 2021",
-"author": "HELLO TV",
-"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
-"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/00INDEX9",
-"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+name: "🇹🇭Thai TV",
+author: "@HELLO TV",
+image: "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+url: "https://docs.google.com/uc?export=download&id=1MCrPFBf6TZ7PVsOjy61ONIYrA9JYhHVt",
+info: "ช่องและรายการทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 
 
 
-"groups": [
+stations: [
 
 
 
 {
-"name": "Thai TV",
-"image": "https://cdn.countryflags.com/thumbs/thailand/flag-square-250.png",
-"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/01THAITV9",
-"import": false
+name: "17 October 2021",  
+image: "https://image.flaticon.com/icons/png/512/1809/1809239.png",  
+url: "xxcc",
+info: "HELLO TV"
+},
+
+
+
+{
+name: "ททบ.5",
+image: "https://www.doofree88.com/storage/live/channel-5-hd.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
 },
 {
-"name": "Thai ASIA Sports",
-"image": "https://yt3.ggpht.com/ytc/AKedOLQbT2d7XOIvGlr1vb_UGSB_TKWwDA11TjzzPu4D=s900-c-k-c0x00ffffff-no-rj",
-"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/02THAISPORTS9.txt",
-"import": false
+name: "ททบ.5",
+image: "https://www.doofree88.com/storage/live/channel-5-hd.png",
+url: "https://www.inwiptv.com/player_demo.php?channel=27190",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "ททบ.5",  
+image: "https://www.doofree88.com/storage/live/channel-5-hd.png",
+url: "https://we-play.live/watching/tv/ch5-hd",
+referer: "https://we-play.live/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "NBT",  
+image: "https://www.doofree88.com/storage/live/nbt.png",  
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-nbt&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "NBT",  
+image: "https://www.doofree88.com/storage/live/nbt.png",  
+url: "https://www.inwiptv.com/player_demo.php?channel=27189",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "NBT",  
+image: "https://www.doofree88.com/storage/live/nbt.png",  
+url: "https://we-play.live/watching/tv/11-nbt",
+referer: "https://we-play.live/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "TPBS",
+image: "https://www.doofree88.com/storage/live/thai-pbs.png",  
+url: "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "TPBS",
+image: "https://www.doofree88.com/storage/live/thai-pbs.png",  
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tpbs&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "TPBS",
+image: "https://www.doofree88.com/storage/live/thai-pbs.png",  
+url: "https://we-play.live/watching/tv/thai-pbs",
+referer: "https://we-play.live/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "TPBS",
+image: "https://www.doofree88.com/storage/live/thai-pbs.png",  
+url: "https://www.inwiptv.com/player_demo.php?channel=27188",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "ALTV by Thaipbs",  
+image: "https://www.altv.tv/_nuxt/img/altv4-dark.92802e3.png",  
+url: "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "ALTV by Thaipbs",  
+image: "https://www.altv.tv/_nuxt/img/altv4-dark.92802e3.png",  
+url: "https://www.altv.tv/live",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "โทรทัศน์รัฐสภา",
+image: "https://i.imgur.com/Jrqo8JP.png",
+url: "http://tpchannel.org/main",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "โทรทัศน์รัฐสภา",
+image: "https://i.imgur.com/Jrqo8JP.png",
+url: "http://live.parliament.go.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "โทรทัศน์รัฐสภา",
+image: "https://i.imgur.com/Jrqo8JP.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tptv&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "TNN",
+image: "https://static.wikia.nocookie.net/logopedia/images/f/fd/CZCeur17_400x400.jpg",
+url: "https://www.tnnthailand.com/live",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "TNN",
+image: "https://static.wikia.nocookie.net/logopedia/images/f/fd/CZCeur17_400x400.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tnn24&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "TNN",
+image: "https://static.wikia.nocookie.net/logopedia/images/f/fd/CZCeur17_400x400.jpg",  
+url: "https://www.inwiptv.com/player_demo.php?channel=27179",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "JKN18",
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-new&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "JKN18",
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png",
+url:"https://www.doofootball.com/dootv/live/newtv",
+info: "HELLO TV",
+desktop: "true"
 },
 
 {
-"name": "DOCUMENTARY",
-"image": "https://img.freepik.com/free-vector/flat-design-world-wildlife-day_23-2148845226.jpg",
-"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/03DOCUMENTARY8.txt",
-"import": false
+name: "Nation TV",
+image: "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-nation&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
 },
 {
-"name": "MOVIES&SERIES",
-"image": "https://images-na.ssl-images-amazon.com/images/I/81ZtkDz95CL.png",
-"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04MOVIES8.txt",
-"import": false
+name: "Nation TV",
+image: "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
+url: "https://www.inwiptv.com/player_demo.php?channel=27162",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
 },
 {
-"name": "KIDS",
-"image": "https://d1yjjnpx0p53s8.cloudfront.net/small_logo_400x400_copy.jpg",
-"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/05KIDS.txt",
-"import": false
+name: "Nation TV",
+image: "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
+url: "https://www.adintrend.tv/hd/ch37?t=live",
+referer: "https://www.adintrend.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
 },
 {
-"name": "VARIETY",
-"image": "https://crazyleafdesign.com/blog/wp-content/uploads/2016/10/variety-14_1x.png",
-"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/06VARIETY.txt",
-"import": false
+name: "Workpoint",
+image: "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
 },
 {
-"name": "MUSIC",
-"image": "https://media.nu.nl/m/0aox0epa8ich_sqr256.jpg/165-bezoekers-enschedese-discotheek-besmet-met-coronavirus.jpg",
-"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/07MUSICTV.txt",
-"import": false
+name: "Workpoint",
+image: "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+url: "https://www.inwiptv.com/player_demo.php?channel=27159",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
 },
+{
+name: "Workpoint",
+image: "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+url: "https://we-play.live/watching/tv/workpoint",
+referer: "https://we-play.live/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "True4u",
+image: "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+url: "https://true4u.com/live/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "True4u",
+image: "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+url: "https://www.inwiptv.com/player_demo.php?channel=27156",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "True4u",
+image: "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-24u&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "GMM25",
+image: "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-gmmchannel&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "GMM25",
+image: "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+url: "https://www.inwiptv.com/player_demo.php?channel=27153",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "GMM25",
+image: "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+url: "https://www.adintrend.tv/hd/m/ch0",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "GMM25",
+image: "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+url: "https://www.we-play.live/watching/tv/gmm25",
+referer: "https://www.we-play.live/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "CH8",
+image: "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-ch8&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "CH8",
+image: "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+url: "https://www.inwiptv.com/player_demo.php?channel=27147",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "CH8",
+image: "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+url: "https://www.adintrend.tv/hd/ch33?t=live",
+referer: "https://www.adintrend.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "CH8",
+image: "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+url: "https://www.thaich8.com/live?var_link=720p",
+referer: "https://www.thaich8.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "MONO29",
+image: "https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-mono&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "MONO29",
+image: "https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",
+url: "https://www.inwiptv.com/player_demo.php?channel=27144",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "MONO29",
+image: "https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",
+url: "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w942587042.m3u8",
+referer: "https://mono29.com/livetv",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "MONO29",
+image: "https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",
+url: "https://www.adintrend.tv/hd/ch38?t=live",
+referer: "https://www.adintrend.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Mcot HD",
+image: "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-mcot&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "Mcot HD",
+image: "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+url: "https://www.inwiptv.com/player_demo.php?channel=27141",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Mcot HD",
+image: "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+url: "https://we-play.live/watching/tv/mcot-hd",
+referer: "https://we-play.live/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Mcot HD",
+image: "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+url: "https://www.adintrend.tv/hd/ch9",
+referer: "https://www.adintrend.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+
+{
+name: "One31 HD",
+image: "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+url: "https://www.inwiptv.com/player_demo.php?channel=27140",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "One31 HD",
+image: "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+url: "https://we-play.live/watching/tv/one-hd",
+referer: "https://we-play.live/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "One31 HD",
+image: "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+url: "https://www.one31.net/live",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "One31 HD",
+image: "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-gmmone&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "Thairath HD",
+image: "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+url: "https://www.inwiptv.com/player_demo.php?channel=27138",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Thairath HD",
+image: "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+url: "https://we-play.live/watching/tv/thairath-tv",
+referer: "https://we-play.live/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Thairath HD",
+image: "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+url: "https://www.adintrend.tv/hd/ch39",
+referer: "https://www.adintrend.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Thairath HD",
+image: "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-thairath&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "3HD",
+image: "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-ch3&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "3HD",
+image: "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+url: "https://www.inwiptv.com/player_demo.php?channel=27137",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "3HD",
+image: "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+url: "https://we-play.live/watching/tv/ch3-hd",
+referer: "https://we-play.live/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "3HD",
+image: "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+url: "https://www.adintrend.tv/hd/ch3",
+referer: "https://www.adintrend.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Amarin TV",
+image: "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-amarin&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "Amarin TV",
+image: "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+url: "https://www.inwiptv.com/player_demo.php?channel=27135",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Amarin TV",
+image: "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+url: "https://www.adintrend.tv/hd/ch26",
+referer: "https://www.adintrend.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "7HD",
+image: "https://www.doofree88.com/storage/live/channel-7-hd.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-ch7&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "7HD",
+image: "https://www.doofree88.com/storage/live/channel-7-hd.png",
+url: "https://www.inwiptv.com/player_demo.php?channel=27132",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "7HD",
+image: "https://www.doofree88.com/storage/live/channel-7-hd.png",
+url: "https://www.we-play.live/watching/tv/ch7-hd",
+referer: "https://www.we-play.live/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "7HD",
+image: "https://www.doofree88.com/storage/live/channel-7-hd.png",
+url: "https://www.ball8k.com/channel?ch=7hd",
+referer: "https://www.ball8k.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "PPTV HD",
+image: "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-pptv&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "PPTV HD",
+image: "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+url: "https://www-live.pptvhd36.com/api/live_player/program/1",
+referer: "https://www-live.pptvhd36.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "PPTV HD",
+image: "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+url: "https://www.adintrend.tv/hd/ch25",
+referer: "https://www.adintrend.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "PPTV HD",
+image: "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+url: "https://www.ball8k.com/channel?ch=pptv",
+referer: "https://www.ball8k.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+
+
+
+{
+name: "แสงจันทร์",
+image: "https://www.inwiptv.com/postor/20210504230700%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.jpg",
+url: "https://www.inwiptv.com/player_demo.php?channel=60254",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "ถิ่นใต้",
+image: "https://www.inwiptv.com/postor/20200208001241%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
+url: "https://www.inwiptv.com/player_demo.php?channel=61235",
+referer: "https://www.inwiptv.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Cable Channel 37",
+image: "https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",
+url: "http://www.cablechannel37.com/17128842/cable-channel-37-live",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+
+
+
+{
+name: "Voice TV 24 ชม.",
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",             
+url: "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
+referer: "https://voicetv.co.th/",
+userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null exoplayer_video",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "MVTV Voice TV",
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-voice&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "MVTV Voice TV",
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",
+url: "https://www.mvtv.co.th/channel/v2h2",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Topnews",
+image: "https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.png",              
+url: "https://live.topnews.co.th/hls/topnews.m3u8",
+referer: "https://www.topnews.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "NEWS 1",
+image: "https://www.doofree88.com/storage/live/tvAqYVZqJtDoNIcY0Hn26PPjwgYEXpQwQVJoaFwd.png",              
+url: "https://server1.streamssl.com/stream/news1_hi.m3u8",
+referer: "https://news1live.com/",
+userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Police TV",
+image: "https://www.policetv.tv/wp-content/uploads/2019/10/cropped-LOGO-POLICE-2019_512.png",
+url: "https://www.policetv.tv/",
+referer: "https://www.policetv.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+
+
+{
+name: "MVTV Series",
+image: "https://www.mvtv.co.th/wp-content/uploads/2021/02/mvmall_serie.png",
+url: "https://www.mvtv.co.th/channel/mvtv-series",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "V2H8",
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/01/V2H8-LOGO.png",
+url: "https://www.mvtv.co.th/channel/v2h8",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "MVTV FIVE",
+image: "https://www.mvtv.co.th/wp-content/uploads/2020/02/MVTV-FIVE.png",
+url: "https://www.mvtv.co.th/channel/mvtv_home",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "TVB Thai",
+image: "https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",
+url: "https://www.mvtv.co.th/channel/tvb-thai",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Mix Major Channel",
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png",
+url: "https://www.mvtv.co.th/channel/mix-major-channel",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "V2H2",
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/06/V2H2-LOGO-PNG.png",
+url: "https://www.mvtv.co.th/channel/v2h2",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "สยาม",
+image: "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg",
+url: "https://www.mvtv.co.th/channel/siamchannel",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "ลิโด้",
+image: "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg",
+url: "https://www.mvtv.co.th/channel/lidochannell",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "สกาล่า",
+image: "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg",
+url: "https://www.mvtv.co.th/channel/sakalachannel",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "ราม่า",
+image: "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg",
+url: "https://www.mvtv.co.th/channel/ramachannel",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+
+
+{
+name: "มูเตลู",
+image: "https://www.mvtv.co.th/wp-content/uploads/2020/06/%E0%B8%A1%E0%B8%B9%E0%B9%80%E0%B8%A5%E0%B8%95%E0%B8%B9.png",
+url: "https://www.mvtv.co.th/channel/mutalu",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer": "true"
+},
+{
+name: "MVLAO TV",
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",
+url: "https://www.mvtv.co.th/channel/mvlao-tv",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer": "true"
+},
+{
+name: "MVM TV",
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/01/07-mvm.png",
+url: "https://www.mvtv.co.th/channel/v2h8-mvm",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer": "true"
+},
+{
+name: "บันเทิงเกิน100",
+image: "https://www.mvtv.co.th/wp-content/uploads/2020/02/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2-66-e1580530430749.png",
+url: "https://www.mvtv.co.th/channel/banteng100",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "HAPPY TV 65",
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png",
+url: "https://www.mvtv.co.th/channel/happy-tv",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "ถูกดี ทีวี",
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/01/tukdee.png",
+url: "https://www.mvtv.co.th/channel/sanook-tv",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "ไทบ้าน ทีวี",
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png",
+url: "https://www.mvtv.co.th/channel/thaiban",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "69TV สื่อออนไลน์",
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",
+url: "https://www.mvtv.co.th/channel/%e0%b8%a1%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%99",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "TVD 10",
+image: "https://www.mvtv.co.th/wp-content/uploads/2020/11/TVD10.png",
+url: "https://www.mvtv.co.th/channel/tvd10",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "ไทยอีสาน TV",
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/01/05-esan-tv.png",
+url: "https://www.mvtv.co.th/channel/thaiesantv",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "55CH",
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/01/TVD2.png",
+url: "https://www.mvtv.co.th/channel/55ch",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "V2H9",
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/01/v2h9.png",
+url: "https://www.mvtv.co.th/channel/v2h9",
+referer: "https://www.mvtv.co.th/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+
+
+{
+name: "MRTV",  
+image: "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012021/mrtv.png",  
+url: "https://cdn6.goprimetime.info/feed/202105171329/LC17/playlist.m3u8",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+
 
 
 ]
