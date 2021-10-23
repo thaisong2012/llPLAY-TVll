@@ -1,553 +1,553 @@
-﻿{
-"name: ""🎼 MUSIC TV"","
-"author: ""@HELLO TV"","
-"image: ""https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png"","
-"url: ""https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/07MUSICTV.txt"","
-"info: ""ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆ เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี"","
-
-
-stations: [
-  
-
-{
-"name: ""16 October 2021"",  "
-"image: ""https://image.flaticon.com/icons/png/512/1809/1809239.png"",  "
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-
-{
-"name: ""แสงจันทร์"","
-"image: ""https://www.inwiptv.com/postor/20210504230700%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.jpg"","
-"url: ""https://www.inwiptv.com/player_demo.php?channel=60254"","
-"referer: ""https://www.inwiptv.com/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""SexyKPop TV"","
-"image: ""https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png"","
-"url: ""https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""A3Bikini TV"","
-"image: ""http://www.nettvpro.live/uploads/allimg/21/1-2103162105300-L.jpg"","
-"url: ""https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Pluto TV Liv In Concert"","
-"image: ""https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/PTV-Live-in-Concert655440.jpg"","
-"url: ""http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-
-{
-"name: ""The COUNTRY Network"","
-"image: ""https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png"","
-"url: ""https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TCN-RAD/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""COUNTRY MUSIC ENTERTAINMENT"","
-"image: ""https://static.wixstatic.com/media/072657_9d226797ae9348678da054d18c009925~mv2.png"","
-"url: ""https://www.countrymusicentertainment.com/watch-live"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""CMC TV"","
-"image: ""https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png"","
-"url: ""https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""CMC USA"","
-"image: ""https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png"","
-"url: ""https://www.cmctvusa.com/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""CMT Music"","
-"image: ""https://images.squarespace-cdn.com/content/v1/5a4ade2ff43b5576b2947387/1515097337806-O5TQSIC2XBO8QAWO2WXL/ke17ZwdGBToddI8pDm48kPx25wW2-RVvoRgxIT6HShBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwGbtSA7WutlFA3XjmDXUDFwmxX_uEhqHOBUlPnU0mYmf1Qvd6diXKmxQIX-f1CXeo/cmtmusic.jpg?format=750w"","
-"url: ""https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Stryk TV"","
-"image: ""https://stryktv.com/wp-content/uploads/2019/07/logo-1.png"",             "
-"url: ""https://player.twitch.tv/?channel=stryktv_live&parent=stryktv.com"","
-"referer: ""https://stryktv.com/"","
-"userAgent: ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null exoplayer_video"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-
-{
-"name: ""Channel V Asia"",  "
-"image: ""https://mir-s3-cdn-cf.behance.net/projects/404/6348447.546c15d0864b1.jpg"",  "
-"url: ""https://cdn6.goprimetime.info/feed/202105171329/LC14/playlist.m3u8"","
-"userAgent: ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"", "
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-
-
-{
-"name: ""MTV USA"","
-"image: ""https://ustvgo.tv/wp-content/uploads/2019/08/mtv.jpg"","
-"url: ""https://ustvgo.tv/mtv"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""AMTV"","
-"image: ""https://upload.wikimedia.org/wikipedia/commons/f/f3/AMTV.png"","
-"url: ""http://yoursports.stream/ing/mtv"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""MTV Love"","
-"image: ""https://www.itizaps.net/zapper/logo/m/mtv-love.png"","
-"url: ""https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=8ad1&deviceDNT=0&deviceModel=0"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""MTV Block Party"","
-"image: ""https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png"","
-"url: ""https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""MTV YO!"","
-"image: ""https://rivevideo.com/wp-content/uploads/2019/11/YO-MTV-600x130.jpg"","
-"url: ""https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""MTV Biggest Pop"","
-"image: ""https://rivevideo.com/wp-content/uploads/2019/11/MTV-biggest-pop-600x130.jpg"","
-"url: ""https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""MTV Spankin New"","
-"image: ""https://rivevideo.com/wp-content/uploads/2019/11/MTV-spankin-new-600x130.jpg"","
-"url: ""https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Channel V International"","
-"image: ""http://www.frocus.net/images/logotv/channel-v.jpg"","
-"url: ""https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/index.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-
-{
-"name: ""Stingray Qello"","
-"image: ""https://lh3.googleusercontent.com/6JCdyYSlp8t5pYSLMmx9Hn7xVcOdDAR_-zZokbQRp7Mlz-AGwkfm2tv57B2btvXuWuM=s200"","
-"url: ""https://csm-e-stv.tls1.yospace.com/csm/live/211935407.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Stingray Djazz"","
-"image: ""https://upload.wikimedia.org/wikipedia/commons/1/14/Stingray_Djazz.png"","
-"url: ""https://stirr.ott-channels.stingray.com/djazz/master.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-
-{
-"name: ""Vevo POP"","
-"image: ""https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png"","
-"url: ""https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a467bae26bbfb7c82e67b/live.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Vevo Country"","
-"image: ""https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png"","
-"url: ""https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/f66d9d3fb088443baf9abae38ae01fef/live.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Vevo Latino"","
-"image: ""https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png"","
-"url: ""https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/782b647b2e38471e80cae5e7bdc3f1dc/live.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Vevo Regueton"","
-"image: ""https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png"","
-"url: ""https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Vevo Hiphop"","
-"image: ""https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png"","
-"url: ""https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Vevo R&B"","
-"image: ""https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png"","
-"url: ""https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/b9c8b190e98b4556ad764a9eeeff4c4b/live.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Vevo 70s"","
-"image: ""https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png"","
-"url: ""https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd484e389101d109ac61cf5d/live.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Vevo 80s"","
-"image: ""https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png"","
-"url: ""https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/a65cf7ba93664eb083d95152fe717270/live.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Vevo 90s"","
-"image: ""https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png"","
-"url: ""https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/51f1a0da9da049098a8cec541bddfae5/live.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Vevo 00s"","
-"image: ""https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png"","
-"url: ""https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Qwest TV Jazz"","
-"image: ""https://qwest.tv/images/QLogoMusicMeets.png"","
-"url: ""https://qwest-jazz-plex.amagi.tv/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Qwest TV Classic"","
-"image: ""https://qwest.tv/images/QLogoMusicMeets.png"","
-"url: ""https://qwest-classic-plex.amagi.tv/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Qwest TV Mix"","
-"image: ""https://qwest.tv/images/QLogoMusicMeets.png"","
-"url: ""https://qwest-mix-plex.amagi.tv/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-
-{
-"name: ""Today's Country"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=todayscountry"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Country Hits"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=countryhits"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Pop Latino"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=poplatino"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Musica Urbana"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=musicaurbana"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Tropicales"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=tropicales"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Mexicana"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=mexicana"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Alternative"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=alternative"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Indie"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=indie"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Hit List"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=hitlist"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"}, "
-{
-"name: ""Pop Hits"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=pophits"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},  "
-{
-"name: ""Pop & Country"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=popncountry"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"}, "
-{
-"name: ""Teen Beats"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/ /mc?ch=teenbeats"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"}, "
-{
-"name: ""Music Choice Max"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=mc_max"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"}, "
-{
-"name: ""Dance/EDM"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=dance"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Y2K"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=y2k"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""90s"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=90s"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"}, "
-{
-"name: ""80s"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=80s"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"}, "
-{
-"name: ""Soft Rock"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=softrock"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"}, "
-{
-"name: ""Brits+Hits"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=britsnhits"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"}, "
-{
-"name: ""Hiphop-R&B"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=hiphopnrnb"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"}, "
-{
-"name: ""RAB"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=rap"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"}, "
-{
-"name: ""R&B Soul"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=rnbsoul"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"}, "
-{
-"name: ""Throwback Jamz"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=throwbackjamz"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"}, "
-{
-"name: ""RAB2K"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=rap2k"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Rock"","
-"image:""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=rock"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Metal"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=metal"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Kidz Only"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=kidzonly"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""KIDZ BOP"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=kidzbop"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Learn & Play"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=learnnplay"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Family Hits"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=familyhits"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Toddler Tunes"","
-"image: ""https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw"","
-"url: ""https://photocall.tv/o6tq/mc?ch=toddlertunes"","
-"referer: ""http://photocall.tv/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-
-
-
-
-
-]
-}
+{	
+name: "🎼 MUSIC TV",	
+author: "@HELLO TV",	
+image: "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",	
+url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/07MUSICTV.txt",	
+info: "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆ เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",	
+	
+	
+stations: [	
+  	
+	
+{	
+name: "16 October 2021",  	
+image: "https://image.flaticon.com/icons/png/512/1809/1809239.png",  	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "แสงจันทร์",	
+image: "https://www.inwiptv.com/postor/20210504230700%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.jpg",	
+url: "https://www.inwiptv.com/player_demo.php?channel=60254",	
+referer: "https://www.inwiptv.com/",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "SexyKPop TV",	
+image: "https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png",	
+url: "https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "A3Bikini TV",	
+image: "http://www.nettvpro.live/uploads/allimg/21/1-2103162105300-L.jpg",	
+url: "https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Pluto TV Liv In Concert",	
+image: "https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/PTV-Live-in-Concert655440.jpg",	
+url: "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "The COUNTRY Network",	
+image: "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",	
+url: "https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TCN-RAD/playlist.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "COUNTRY MUSIC ENTERTAINMENT",	
+image: "https://static.wixstatic.com/media/072657_9d226797ae9348678da054d18c009925~mv2.png",	
+url: "https://www.countrymusicentertainment.com/watch-live",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "CMC TV",	
+image: "https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png",	
+url: "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "CMC USA",	
+image: "https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png",	
+url: "https://www.cmctvusa.com/",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "CMT Music",	
+image: "https://images.squarespace-cdn.com/content/v1/5a4ade2ff43b5576b2947387/1515097337806-O5TQSIC2XBO8QAWO2WXL/ke17ZwdGBToddI8pDm48kPx25wW2-RVvoRgxIT6HShBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwGbtSA7WutlFA3XjmDXUDFwmxX_uEhqHOBUlPnU0mYmf1Qvd6diXKmxQIX-f1CXeo/cmtmusic.jpg?format=750w",	
+url: "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Stryk TV",	
+image: "https://stryktv.com/wp-content/uploads/2019/07/logo-1.png",             	
+url: "https://player.twitch.tv/?channel=stryktv_live&parent=stryktv.com",	
+referer: "https://stryktv.com/",	
+userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null exoplayer_video",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "Channel V Asia",  	
+image: "https://mir-s3-cdn-cf.behance.net/projects/404/6348447.546c15d0864b1.jpg",  	
+url: "https://cdn6.goprimetime.info/feed/202105171329/LC14/playlist.m3u8",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+	
+	
+{	
+name: "MTV USA",	
+image: "https://ustvgo.tv/wp-content/uploads/2019/08/mtv.jpg",	
+url: "https://ustvgo.tv/mtv",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "AMTV",	
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/AMTV.png",	
+url: "http://yoursports.stream/ing/mtv",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "MTV Love",	
+image: "https://www.itizaps.net/zapper/logo/m/mtv-love.png",	
+url: "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=8ad1&deviceDNT=0&deviceModel=0",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "MTV Block Party",	
+image: "https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png",	
+url: "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "MTV YO!",	
+image: "https://rivevideo.com/wp-content/uploads/2019/11/YO-MTV-600x130.jpg",	
+url: "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "MTV Biggest Pop",	
+image: "https://rivevideo.com/wp-content/uploads/2019/11/MTV-biggest-pop-600x130.jpg",	
+url: "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "MTV Spankin New",	
+image: "https://rivevideo.com/wp-content/uploads/2019/11/MTV-spankin-new-600x130.jpg",	
+url: "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Channel V International",	
+image: "http://www.frocus.net/images/logotv/channel-v.jpg",	
+url: "https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/index.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "Stingray Qello",	
+image: "https://lh3.googleusercontent.com/6JCdyYSlp8t5pYSLMmx9Hn7xVcOdDAR_-zZokbQRp7Mlz-AGwkfm2tv57B2btvXuWuM=s200",	
+url: "https://csm-e-stv.tls1.yospace.com/csm/live/211935407.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Stingray Djazz",	
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Stingray_Djazz.png",	
+url: "https://stirr.ott-channels.stingray.com/djazz/master.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "Vevo POP",	
+image: "https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png",	
+url: "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a467bae26bbfb7c82e67b/live.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Vevo Country",	
+image: "https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png",	
+url: "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/f66d9d3fb088443baf9abae38ae01fef/live.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Vevo Latino",	
+image: "https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png",	
+url: "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/782b647b2e38471e80cae5e7bdc3f1dc/live.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Vevo Regueton",	
+image: "https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png",	
+url: "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Vevo Hiphop",	
+image: "https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png",	
+url: "https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Vevo R&B",	
+image: "https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png",	
+url: "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/b9c8b190e98b4556ad764a9eeeff4c4b/live.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Vevo 70s",	
+image: "https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png",	
+url: "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd484e389101d109ac61cf5d/live.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Vevo 80s",	
+image: "https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png",	
+url: "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/a65cf7ba93664eb083d95152fe717270/live.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Vevo 90s",	
+image: "https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png",	
+url: "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/51f1a0da9da049098a8cec541bddfae5/live.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Vevo 00s",	
+image: "https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png",	
+url: "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Qwest TV Jazz",	
+image: "https://qwest.tv/images/QLogoMusicMeets.png",	
+url: "https://qwest-jazz-plex.amagi.tv/playlist.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Qwest TV Classic",	
+image: "https://qwest.tv/images/QLogoMusicMeets.png",	
+url: "https://qwest-classic-plex.amagi.tv/playlist.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Qwest TV Mix",	
+image: "https://qwest.tv/images/QLogoMusicMeets.png",	
+url: "https://qwest-mix-plex.amagi.tv/playlist.m3u8",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "Today's Country",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=todayscountry",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Country Hits",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=countryhits",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Pop Latino",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=poplatino",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Musica Urbana",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=musicaurbana",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Tropicales",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=tropicales",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Mexicana",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=mexicana",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Alternative",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=alternative",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Indie",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=indie",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Hit List",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=hitlist",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+}, 	
+{	
+name: "Pop Hits",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=pophits",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},  	
+{	
+name: "Pop & Country",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=popncountry",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+}, 	
+{	
+name: "Teen Beats",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/ /mc?ch=teenbeats",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+}, 	
+{	
+name: "Music Choice Max",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=mc_max",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+}, 	
+{	
+name: "Dance/EDM",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=dance",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Y2K",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=y2k",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "90s",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=90s",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+}, 	
+{	
+name: "80s",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=80s",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+}, 	
+{	
+name: "Soft Rock",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=softrock",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+}, 	
+{	
+name: "Brits+Hits",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=britsnhits",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+}, 	
+{	
+name: "Hiphop-R&B",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=hiphopnrnb",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+}, 	
+{	
+name: "RAB",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=rap",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+}, 	
+{	
+name: "R&B Soul",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=rnbsoul",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+}, 	
+{	
+name: "Throwback Jamz",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=throwbackjamz",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+}, 	
+{	
+name: "RAB2K",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=rap2k",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Rock",	
+image:"https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=rock",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Metal",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=metal",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Kidz Only",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=kidzonly",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "KIDZ BOP",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=kidzbop",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Learn & Play",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=learnnplay",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Family Hits",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=familyhits",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Toddler Tunes",	
+image: "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",	
+url: "https://photocall.tv/o6tq/mc?ch=toddlertunes",	
+referer: "http://photocall.tv/",	
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",	
+info: "HELLO TV",	
+playInNatPlayer: "true"	
+},	
+	
+	
+	
+	
+	
+]	
+}	
