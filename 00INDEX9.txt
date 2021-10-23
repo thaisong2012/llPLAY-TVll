@@ -1,0 +1,60 @@
+{
+"name": "💖 August 2021",
+"author": "HELLO TV",
+"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+"url": "https://docs.google.com/uc?export=download&id=1oltHa66WstBlYdwuKVEktTdrIsQnXduM",
+"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+
+
+
+"groups": [
+
+
+
+{
+"name": "Thai TV",
+"image": "https://cdn.countryflags.com/thumbs/thailand/flag-square-250.png",
+"url": "https://docs.google.com/uc?export=download&id=1MCrPFBf6TZ7PVsOjy61ONIYrA9JYhHVt",
+"import": false
+},
+{
+"name": "Thai ASIA Sports",
+"image": "https://yt3.ggpht.com/ytc/AKedOLQbT2d7XOIvGlr1vb_UGSB_TKWwDA11TjzzPu4D=s900-c-k-c0x00ffffff-no-rj",
+"url": "https://docs.google.com/uc?export=download&id=1NEMQqNezp-o6-5IDB3fjqi-2QJQI_YcF",
+"import": false
+},
+
+{
+"name": "DOCUMENTARY",
+"image": "https://img.freepik.com/free-vector/flat-design-world-wildlife-day_23-2148845226.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1R1UxD0CqVOAFWV1D9UCUx0f5AJ-N4MJ1",
+"import": false
+},
+{
+"name": "MOVIES&SERIES",
+"image": "https://images-na.ssl-images-amazon.com/images/I/81ZtkDz95CL.png",
+"url": "https://docs.google.com/uc?export=download&id=1gWCQOwHfuXCPB6K_GdJje-u0lHR6rf-b",
+"import": false
+},
+{
+"name": "KIDS",
+"image": "https://d1yjjnpx0p53s8.cloudfront.net/small_logo_400x400_copy.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1UtXgmHb0sFUzkRyEKnCT4TQg9auw81hg",
+"import": false
+},
+{
+"name": "VARIETY",
+"image": "https://crazyleafdesign.com/blog/wp-content/uploads/2016/10/variety-14_1x.png",
+"url": "https://docs.google.com/uc?export=download&id=17pDpMtx3aGERfasLe0CSHMY88MRVWaN2",
+"import": false
+},
+{
+"name": "MUSIC",
+"image": "https://media.nu.nl/m/0aox0epa8ich_sqr256.jpg/165-bezoekers-enschedese-discotheek-besmet-met-coronavirus.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1X4CzTF3ZYfaaBMMSXD9dzBrvMCwGarBw",
+"import": false
+},
+
+
+]
+}
