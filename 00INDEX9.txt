@@ -14,7 +14,7 @@
 {
 "name": "Thai TV",
 "image": "https://cdn.countryflags.com/thumbs/thailand/flag-square-250.png",
-"url": "https://docs.google.com/uc?export=download&id=1MCrPFBf6TZ7PVsOjy61ONIYrA9JYhHVt",
+"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/01THAITV9.txt",
 "import": false
 },
 {
