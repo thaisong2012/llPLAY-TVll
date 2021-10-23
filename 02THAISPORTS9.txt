@@ -825,14 +825,7 @@ url: "https://cctv5txyh5ca.liveplay.myqcloud.com/live/cctv5plus_2/index.m3u8",
 info: "HELLO TV",	
 playInNatPlayer: "true"	
 },	
-	
-	
-	
-	
-	
-	
-	
-	
+			
 ]	
 }	
 	
