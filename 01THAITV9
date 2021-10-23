@@ -1,9 +1,9 @@
 ﻿{
-"name: ""🇹🇭Thai TV"","
-"author: ""@HELLO TV"","
-"image: ""https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png"","
+"name: ""🇹🇭Thai TV"",
+"author: ""@HELLO TV"",
+"image: ""https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png"",
 "url: ""https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/01THAITV9" ","
-"info: ""ช่องและรายการทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี"","
+"info: ""ช่องและรายการทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี"",
 
 
 
@@ -13,38 +13,37 @@ stations: [
 
 {
 "name: ""17 October 2021"",  "
-"image: ""https://image.flaticon.com/icons/png/512/1809/1809239.png"",  "
+"image: ""https://image.flaticon.com/icons/png/512/1809/1809239.png"",
 "url: ""xxcc"","
 "info: ""HELLO TV"""
-"},"
-
+"},
 
 
 {
 "name: ""ททบ.5"","
-"image: ""https://www.doofree88.com/storage/live/channel-5-hd.png"","
-"url:""https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f"","
-"referer: ""https://dooball66.com"","
-"userAgent: ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"", "
-"info: ""HELLO TV"","
+"image: ""https://www.doofree88.com/storage/live/channel-5-hd.png"",
+"url:""https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f"",
+"referer: ""https://dooball66.com"",
+"userAgent: ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"",
+"info: ""HELLO TV"",
 "desktop: ""true"""
-"},"
+"},
 {
 "name: ""ททบ.5"","
-"image: ""https://www.doofree88.com/storage/live/channel-5-hd.png"","
-"url: ""https://www.inwiptv.com/player_demo.php?channel=27190"","
-"referer: ""https://www.inwiptv.com/"","
+"image: ""https://www.doofree88.com/storage/live/channel-5-hd.png"",
+"url: ""https://www.inwiptv.com/player_demo.php?channel=27190"",
+"referer: ""https://www.inwiptv.com/"",
 "info: ""HELLO TV"","
 "playInNatPlayer: ""true"""
 "},"
 {
-"name: ""ททบ.5"",  "
-"image: ""https://www.doofree88.com/storage/live/channel-5-hd.png"","
-"url: ""https://we-play.live/watching/tv/ch5-hd"","
-"referer: ""https://we-play.live/"","
-"info: ""HELLO TV"","
+"name: ""ททบ.5"",
+"image: ""https://www.doofree88.com/storage/live/channel-5-hd.png"",
+"url: ""https://we-play.live/watching/tv/ch5-hd"",
+"referer: ""https://we-play.live/"",
+"info: ""HELLO TV"",
 "playInNatPlayer: ""true"""
-"},"
+"},
 {
 "name: ""NBT"",  "
 "image: ""https://www.doofree88.com/storage/live/nbt.png"",  "
