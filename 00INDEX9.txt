@@ -20,38 +20,38 @@
 {
 "name": "Thai ASIA Sports",
 "image": "https://yt3.ggpht.com/ytc/AKedOLQbT2d7XOIvGlr1vb_UGSB_TKWwDA11TjzzPu4D=s900-c-k-c0x00ffffff-no-rj",
-"url": "https://docs.google.com/uc?export=download&id=1NEMQqNezp-o6-5IDB3fjqi-2QJQI_YcF",
+"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/02THAISPORTS9.txt",
 "import": false
 },
 
 {
 "name": "DOCUMENTARY",
 "image": "https://img.freepik.com/free-vector/flat-design-world-wildlife-day_23-2148845226.jpg",
-"url": "https://docs.google.com/uc?export=download&id=1R1UxD0CqVOAFWV1D9UCUx0f5AJ-N4MJ1",
+"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/03DOCUMENTARY8.txt",
 "import": false
 },
 {
 "name": "MOVIES&SERIES",
 "image": "https://images-na.ssl-images-amazon.com/images/I/81ZtkDz95CL.png",
-"url": "https://docs.google.com/uc?export=download&id=1gWCQOwHfuXCPB6K_GdJje-u0lHR6rf-b",
+"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04MOVIES8.txt",
 "import": false
 },
 {
 "name": "KIDS",
 "image": "https://d1yjjnpx0p53s8.cloudfront.net/small_logo_400x400_copy.jpg",
-"url": "https://docs.google.com/uc?export=download&id=1UtXgmHb0sFUzkRyEKnCT4TQg9auw81hg",
+"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/05KIDS.txt",
 "import": false
 },
 {
 "name": "VARIETY",
 "image": "https://crazyleafdesign.com/blog/wp-content/uploads/2016/10/variety-14_1x.png",
-"url": "https://docs.google.com/uc?export=download&id=17pDpMtx3aGERfasLe0CSHMY88MRVWaN2",
+"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/06VARIETY.txt",
 "import": false
 },
 {
 "name": "MUSIC",
 "image": "https://media.nu.nl/m/0aox0epa8ich_sqr256.jpg/165-bezoekers-enschedese-discotheek-besmet-met-coronavirus.jpg",
-"url": "https://docs.google.com/uc?export=download&id=1X4CzTF3ZYfaaBMMSXD9dzBrvMCwGarBw",
+"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/07MUSICTV.txt",
 "import": false
 },
 
