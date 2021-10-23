@@ -1,9 +1,9 @@
-﻿{
-"name: ""🐞 DOCUMENTARY"","
-"author: ""@HELLO TV"","
-"image: ""https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png"","
-"url: ""https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/03DOCUMENTARY8.txt"","
-"info: ""ช่องและรายการทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆ เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี"","
+{
+name: "🐞 DOCUMENTARY",
+author: "@HELLO TV",
+image: "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+url: "https://docs.google.com/uc?export=download&id=1R1UxD0CqVOAFWV1D9UCUx0f5AJ-N4MJ1",
+info: "ช่องและรายการทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆ เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 
 
 
@@ -14,417 +14,417 @@ stations: [
 
 
 {
-"name: ""21 September 2021"",  "
-"image: ""https://image.flaticon.com/icons/png/512/1809/1809239.png"",  "
-"url: ""https://androidtvtech.blogspot.com/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "21 September 2021",  
+image: "https://image.flaticon.com/icons/png/512/1809/1809239.png",  
+url: "https://androidtvtech.blogspot.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 
 
 {
-"name: ""สำรวจโลก"",  "
-"image: ""https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg"",  "
-"url: ""https://cdn6.goprimetime.info/feed/202105171329/LC8/playlist.m3u8"","
-"userAgent: ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"", "
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "สำรวจโลก",  
+image: "https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg",  
+url: "https://cdn6.goprimetime.info/feed/202105171329/LC8/playlist.m3u8",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 
 
 {
-"name: ""Discovery Channel"","
-"image: ""https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg"","
-"url:""https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f"","
-"referer: ""https://dooball66.com"","
-"userAgent: ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"", "
-"info: ""HELLO TV"","
-"desktop: ""true"""
-"},"
+name: "Discovery Channel",
+image: "https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
 {
-"name: ""Discovery Channel"","
-"image: ""https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg"","
-"url: ""https://we-play.tv/watching/tv/discovery-channel"","
-"referer: ""https://we-play.tv/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Discovery Channel",
+image: "https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg",
+url: "https://we-play.tv/watching/tv/discovery-channel",
+referer: "https://we-play.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Discovery Channel"",  "
-"image: ""https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg"",  "
-"url: ""https://www.doofootball.com/dootv/live/discovery#main_dootv"","
-"referer: ""https://www.doofootball.com/"","
-"userAgent: ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"", "
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Discovery Channel",  
+image: "https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg",  
+url: "https://www.doofootball.com/dootv/live/discovery#main_dootv",
+referer: "https://www.doofootball.com/",
+userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Discovery Asia"","
-"image: ""https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg"","
-"url:""https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f"","
-"referer: ""https://dooball66.com"","
-"userAgent: ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"", "
-"info: ""HELLO TV"","
-"desktop: ""true"""
-"},"
+name: "Discovery Asia",
+image: "https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
 {
-"name: ""Discovery Asia"","
-"image: ""https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg"","
-"url: ""https://we-play.tv/watching/tv/discovery-asia"","
-"referer: ""https://we-play.tv/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Discovery Asia",
+image: "https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg",
+url: "https://we-play.tv/watching/tv/discovery-asia",
+referer: "https://we-play.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Discovery Asia"",  "
-"image: ""https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg"",  "
-"url: ""https://www.doofootball.com/dootv/live/discoveryasia#main_dootv"","
-"referer: ""https://www.doofootball.com/"","
-"userAgent: ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"", "
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Discovery Asia",  
+image: "https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg",  
+url: "https://www.doofootball.com/dootv/live/discoveryasia#main_dootv",
+referer: "https://www.doofootball.com/",
+userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Discovery Asia"",  "
-"image: ""https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg"",  "
-"url: ""https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8"","
-"referer: ""https://www.doomovie-hd.com/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Discovery Asia",  
+image: "https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg",  
+url: "https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8",
+referer: "https://www.doomovie-hd.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Nat Geo Graphic"","
-"image: ""https://www.we-play.tv//uploads/posters/national-geographic-poster1602705795.jpeg"","
-"url:""https://embed-dev.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmcb4rf66f"","
-"referer: ""https://dooball66.com"","
-"userAgent: ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"", "
-"info: ""HELLO TV"","
-"desktop: ""true"""
-"},"
+name: "Nat Geo Graphic",
+image: "https://www.we-play.tv//uploads/posters/national-geographic-poster1602705795.jpeg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
 {
-"name: ""Nat Geo Graphic"","
-"image: ""https://www.we-play.tv//uploads/posters/national-geographic-poster1602705795.jpeg"","
-"url: ""https://we-play.tv/watching/tv/national-geographic"","
-"referer: ""https://we-play.tv/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Nat Geo Graphic",
+image: "https://www.we-play.tv//uploads/posters/national-geographic-poster1602705795.jpeg",
+url: "https://we-play.tv/watching/tv/national-geographic",
+referer: "https://we-play.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Nat Geo Graphic"","
-"image: ""https://www.we-play.tv//uploads/posters/national-geographic-poster1602705795.jpeg"","
-"url: ""https://www.doofootball.com/dootv/live/natgeo#main_dootv"","
-"referer: ""https://www.doofootball.com/"","
-"userAgent: ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"", "
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Nat Geo Graphic",
+image: "https://www.we-play.tv//uploads/posters/national-geographic-poster1602705795.jpeg",
+url: "https://www.doofootball.com/dootv/live/natgeo#main_dootv",
+referer: "https://www.doofootball.com/",
+userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Nat Geo Wild"","
-"image: ""https://www.we-play.tv//uploads/posters/nat-geo-wild-poster1602705760.jpeg"","
-"url: ""https://we-play.tv/watching/tv/nat-geo-wild"","
-"referer: ""https://we-play.tv/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Nat Geo Wild",
+image: "https://www.we-play.tv//uploads/posters/nat-geo-wild-poster1602705760.jpeg",
+url: "https://we-play.tv/watching/tv/nat-geo-wild",
+referer: "https://we-play.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Nat Geo Wild"","
-"image: ""https://www.we-play.tv//uploads/posters/nat-geo-wild-poster1602705760.jpeg"","
-"url: ""https://www.doofootball.com/dootv/live/natgeowild#main_dootv"","
-"referer: ""https://www.doofootball.com/"","
-"userAgent: ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"", "
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Nat Geo Wild",
+image: "https://www.we-play.tv//uploads/posters/nat-geo-wild-poster1602705760.jpeg",
+url: "https://www.doofootball.com/dootv/live/natgeowild#main_dootv",
+referer: "https://www.doofootball.com/",
+userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Animal Planet"","
-"image: ""https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg"","
-"url:""https://embed-dev.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f"","
-"referer: ""https://dooball66.com"","
-"userAgent: ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"", "
-"info: ""HELLO TV"","
-"desktop: ""true"""
-"},"
+name: "Animal Planet",
+image: "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
 {
-"name: ""Animal Planet"","
-"image: ""https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg"","
-"url: ""https://we-play.tv/watching/tv/animal-planet"","
-"referer: ""https://we-play.tv/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Animal Planet",
+image: "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+url: "https://we-play.tv/watching/tv/animal-planet",
+referer: "https://we-play.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Animal Planet"","
-"image: ""https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg"","
-"url: ""https://www.doofootball.com/dootv/live/animalplanet#main_dootv"","
-"referer: ""https://www.doofootball.com/"","
-"userAgent: ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"", "
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Animal Planet",
+image: "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+url: "https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
+referer: "https://www.doofootball.com/",
+userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""History HD"","
-"image: ""https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg"","
-"url:""https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f"","
-"referer: ""https://dooball66.com"","
-"userAgent: ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"", "
-"info: ""HELLO TV"","
-"desktop: ""true"""
-"},"
+name: "History HD",
+image: "https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
 {
-"name: ""History HD"","
-"image: ""https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg"","
-"url: ""https://we-play.tv/watching/tv/history-hd"","
-"referer: ""https://we-play.tv/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "History HD",
+image: "https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg",
+url: "https://we-play.tv/watching/tv/history-hd",
+referer: "https://we-play.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""H2"","
-"image: ""https://www.we-play.tv//uploads/posters/history-h2-poster1602705634.jpeg"","
-"url: ""https://we-play.tv/watching/tv/history-h2"","
-"referer: ""https://we-play.tv/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "H2",
+image: "https://www.we-play.tv//uploads/posters/history-h2-poster1602705634.jpeg",
+url: "https://we-play.tv/watching/tv/history-h2",
+referer: "https://we-play.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""H2"","
-"image: ""https://www.we-play.tv//uploads/posters/history-h2-poster1602705634.jpeg"","
-"url: ""https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8"","
-"referer: ""https://www.doomovie-hd.com/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-
-
-
-
-{
-"name: ""Love Nature TH"","
-"image: ""https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg"","
-"url: ""https://we-play.tv/watching/tv/lovenature-4k"","
-"referer: ""https://we-play.tv/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Love Nature USA"","
-"image: ""https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg"","
-"url: ""https://bamus-eng-roku.amagi.tv/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""True Explore Wild"","
-"image: ""https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240"","
-"url:""https://embed-dev.blackboxsys.net/player.php?channel=sd-expwild&api_key=hmcb4rf66f"","
-"referer: ""https://dooball66.com"","
-"userAgent: ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"", "
-"info: ""HELLO TV"","
-"desktop: ""true"""
-"},"
-{
-"name: ""True Explore SCI"","
-"image: ""https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F76f8506f-b775-4a6f-ba79-752ecb8ee516.png&w=320&h=240"","
-"url: ""https://www.doofootball.com/dootv/live/truesci#main_dootv"","
-"referer: ""https://www.doofootball.com/"","
-"userAgent: ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"", "
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-
-
-
-{
-"name: ""TLC"","
-"image: ""https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png"","
-"url: ""https://we-play.tv/watching/tv/tlc-hd"","
-"referer: ""https://we-play.tv/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Food Network"","
-"image: ""https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png"","
-"url:""https://embed-dev.blackboxsys.net/player.php?channel=hd-food&api_key=hmcb4rf66f"","
-"referer: ""https://dooball66.com"","
-"userAgent: ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"", "
-"info: ""HELLO TV"","
-"desktop: ""true"""
-"},"
-{
-"name: ""Food Network"","
-"image: ""https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png"",              "
-"url: ""https://www.doofootball.com/dootv/live/foodnetwork#main_dootv"","
-"referer: ""https://www.doofootball.com/"","
-"userAgent: ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"", "
-"info: ""HELLO TV"""
-"}, "
-{
-"name: ""Asian Food Network"","
-"image: ""https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png"","
-"url:""https://embed-dev.blackboxsys.net/player.php?channel=sd-asianfood&api_key=hmcb4rf66f"","
-"referer: ""https://dooball66.com"","
-"userAgent: ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"", "
-"info: ""HELLO TV"","
-"desktop: ""true"""
-"},"
-{
-"name: ""Asian Food Network"","
-"image: ""https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png"","
-"url: ""https://we-play.tv/watching/tv/asian-food-channel"","
-"referer: ""https://we-play.tv/"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Asian Food Network "","
-"image: ""https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png"",              "
-"url: ""https://www.doofootball.com/dootv/live/afc#main_dootv"","
-"referer: ""https://www.doofootball.com/"","
-"userAgent: ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"", "
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""ifood.tv"","
-"image: ""https://cookingguruseries.com/wp-content/uploads/2015/12/IFoodTV.png"","
-"url: ""https://ft-ifood-roku.amagi.tv/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Food52"","
-"image: ""https://images.food52.com/me1gfdrBaWRS4sA1RO9LDKSharA=/fit-in/1200x1200/e3cd1cb9-f04c-4c5e-90df-b0241b8a8dfb--Screen_Shot_2013-07-11_at_5.58.26_PM.png"","
-"url: ""https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-food52/CDN/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-
-
+name: "H2",
+image: "https://www.we-play.tv//uploads/posters/history-h2-poster1602705634.jpeg",
+url: "https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8",
+referer: "https://www.doomovie-hd.com/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 
 
 
 
 {
-"name: ""CGTN Documentary"","
-"image: ""https://static.wikia.nocookie.net/logopedia/images/b/bb/CGTN_Documentary.png"","
-"url: ""https://livedoc.cgtn.com/500d/prog_index.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Love Nature TH",
+image: "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
+url: "https://we-play.tv/watching/tv/lovenature-4k",
+referer: "https://we-play.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Russia Today Documentary"","
-"image: ""https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png"","
-"url: ""https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-
+name: "Love Nature USA",
+image: "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
+url: "https://bamus-eng-roku.amagi.tv/playlist.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Outdoor Channel"","
-"image: ""https://www.we-play.tv//uploads/posters/outdoor-channel-poster1602705824.jpeg"","
-"url: ""https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "True Explore Wild",
+image: "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-expwild&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
 {
-"name: ""Outside TV"","
-"image: ""http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png"","
-"url: ""https://outsidetv-roku-us.amagi.tv/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Way Point"","
-"image: ""https://lh3.googleusercontent.com/Y75swKZiF976cC34ingBDNaAUexKFuZ6A5CsOkCs_LG9Epqmhlru0S1ydV5bf4f4DYQ=s180-rw"","
-"url: ""https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""PURSUIT UP"","
-"image: ""https://images.squarespace-cdn.com/content/v1/5d70010bf3397e0001480afb/1570829868597-Z2S8LNRVVP3U7E1DNHUX/ke17ZwdGBToddI8pDm48kPCKOULcG7ZXqZGAlYEl4XcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcMMuyR7W_UPKdK9p3vyVTzhnUa15Q8j3BDmW4KTWRryj-ARwCt95ic6X0v16xT7d3/9+PursuitUP-1024x401.png"","
-"url: ""https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""HUNT Channel"","
-"image: ""https://www.pngkit.com/png/full/206-2062370_hunt-hunt-channel.png"","
-"url: ""https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""Outdoor America"","
-"image: ""https://www.outdooramerica.com/wp-content/uploads/2020/04/Outdoor-America-logo-color.png"","
-"url: ""https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""TV Agro HD"","
-"image: ""http://tvagro.tv/wp-content/uploads/2019/05/logo-tvagro-png-letras-blancas.png"","
-"url: ""http://179.1.7.198:1935/live/TVAgroHD.stream_360p/.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
-{
-"name: ""The Pet Collective"","
-"image: ""https://www.viewlift.com/common/assets/img/clients/thepetcollective.png"","
-"url: ""https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "True Explore SCI",
+image: "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F76f8506f-b775-4a6f-ba79-752ecb8ee516.png&w=320&h=240",
+url: "https://www.doofootball.com/dootv/live/truesci#main_dootv",
+referer: "https://www.doofootball.com/",
+userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 
 
 
 {
-"name: ""NASA"","
-"image: ""https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/hkmknt.png"","
-"url: ""https://www.nasa.gov/multimedia/nasatv/index.html"","
-"referer: ""https://www.nasa.gov/"","
-"userAgent: ""Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "TLC",
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",
+url: "https://we-play.tv/watching/tv/tlc-hd",
+referer: "https://we-play.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Food Network",
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-food&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "Food Network",
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",              
+url: "https://www.doofootball.com/dootv/live/foodnetwork#main_dootv",
+referer: "https://www.doofootball.com/",
+userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+info: "HELLO TV"
+}, 
+{
+name: "Asian Food Network",
+image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-asianfood&api_key=hmcb4rf66f",
+referer: "https://dooball66.com",
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+info: "HELLO TV",
+desktop: "true"
+},
+{
+name: "Asian Food Network",
+image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
+url: "https://we-play.tv/watching/tv/asian-food-channel",
+referer: "https://we-play.tv/",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Asian Food Network ",
+image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
+url: "https://www.doofootball.com/dootv/live/afc#main_dootv",
+referer: "https://www.doofootball.com/",
+userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "ifood.tv",
+image: "https://cookingguruseries.com/wp-content/uploads/2015/12/IFoodTV.png",
+url: "https://ft-ifood-roku.amagi.tv/playlist.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Food52",
+image: "https://images.food52.com/me1gfdrBaWRS4sA1RO9LDKSharA=/fit-in/1200x1200/e3cd1cb9-f04c-4c5e-90df-b0241b8a8dfb--Screen_Shot_2013-07-11_at_5.58.26_PM.png",
+url: "https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-food52/CDN/playlist.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+
+
+
+
 
 
 {
-"name: ""Nove IT"","
-"image: ""https://www.tvdream.net/img/nove-bg.jpg"","
-"url: ""https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "CGTN Documentary",
+image: "https://static.wikia.nocookie.net/logopedia/images/b/bb/CGTN_Documentary.png",
+url: "https://livedoc.cgtn.com/500d/prog_index.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""DMAX IT"","
-"image: ""https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg"","
-"url: ""https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Russia Today Documentary",
+image: "https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png",
+url: "https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+
 {
-"name: ""Food Network IT"","
-"image: ""https://www.we-play.tv//uploads/posters/-poster1602704522.jpeg"","
-"url: ""https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Outdoor Channel",
+image: "https://www.we-play.tv//uploads/posters/outdoor-channel-poster1602705824.jpeg",
+url: "https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Giallo IT"","
-"image: ""https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/640px-Giallo_-_Logo_2014.svg.png"","
-"url: ""https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Outside TV",
+image: "http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png",
+url: "https://outsidetv-roku-us.amagi.tv/playlist.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 {
-"name: ""Real Time IT"","
-"image: ""https://upload.wikimedia.org/wikipedia/en/0/02/Discovery_Real_Time_2011_logo.png"","
-"url: ""https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8"","
-"info: ""HELLO TV"","
-"playInNatPlayer: ""true"""
-"},"
+name: "Way Point",
+image: "https://lh3.googleusercontent.com/Y75swKZiF976cC34ingBDNaAUexKFuZ6A5CsOkCs_LG9Epqmhlru0S1ydV5bf4f4DYQ=s180-rw",
+url: "https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "PURSUIT UP",
+image: "https://images.squarespace-cdn.com/content/v1/5d70010bf3397e0001480afb/1570829868597-Z2S8LNRVVP3U7E1DNHUX/ke17ZwdGBToddI8pDm48kPCKOULcG7ZXqZGAlYEl4XcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcMMuyR7W_UPKdK9p3vyVTzhnUa15Q8j3BDmW4KTWRryj-ARwCt95ic6X0v16xT7d3/9+PursuitUP-1024x401.png",
+url: "https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "HUNT Channel",
+image: "https://www.pngkit.com/png/full/206-2062370_hunt-hunt-channel.png",
+url: "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Outdoor America",
+image: "https://www.outdooramerica.com/wp-content/uploads/2020/04/Outdoor-America-logo-color.png",
+url: "https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "TV Agro HD",
+image: "http://tvagro.tv/wp-content/uploads/2019/05/logo-tvagro-png-letras-blancas.png",
+url: "http://179.1.7.198:1935/live/TVAgroHD.stream_360p/.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "The Pet Collective",
+image: "https://www.viewlift.com/common/assets/img/clients/thepetcollective.png",
+url: "https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+
+
+
+{
+name: "NASA",
+image: "https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/hkmknt.png",
+url: "https://www.nasa.gov/multimedia/nasatv/index.html",
+referer: "https://www.nasa.gov/",
+userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+
+
+{
+name: "Nove IT",
+image: "https://www.tvdream.net/img/nove-bg.jpg",
+url: "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "DMAX IT",
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",
+url: "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Food Network IT",
+image: "https://www.we-play.tv//uploads/posters/-poster1602704522.jpeg",
+url: "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Giallo IT",
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/640px-Giallo_-_Logo_2014.svg.png",
+url: "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
+{
+name: "Real Time IT",
+image: "https://upload.wikimedia.org/wikipedia/en/0/02/Discovery_Real_Time_2011_logo.png",
+url: "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8",
+info: "HELLO TV",
+playInNatPlayer: "true"
+},
 
 
 
