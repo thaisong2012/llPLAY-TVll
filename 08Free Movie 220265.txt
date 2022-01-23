@@ -1,0 +1,120 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
+https://moviehdfree.xyz/view/fe08b65f-aaca-5219-b523-5637ce6a035e.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/10/The-Matrix-Resurrections-2021.jpg",The Matrix Resurrections 2021
+https://moviehdfree.xyz/view/7e902ff0-77d2-52db-9b53-6b3913b44c99.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Venom-2-Let-There-Be-Carnage-20212.jpg",Venom 2 Let There Be Carnage (2021) เวน่อม 2 พากย์ไทย
+https://moviehdfree.xyz/view/0e87c3c2-cdc3-5499-889f-0aafbac11a11.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8688B5B68FFE2192FBDF5470AE4ABFB0B707E1A39B3D87EEA49F5B260CA6C95C/scale?width=1200&aspectRatio=1.78&format=jpeg",Captain america the first avenger(พากย์ไทย)
+https://we-play.live/watching/movie/captain-america-the-first-avenger-2011
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8CBE51B9FD6AC3D0DA841C005AF40AC02CD9AF034F4D05B9E9603B62F2925287/scale?width=1200&aspectRatio=1.78&format=jpeg",Avengers(พากย์ไทย)
+https://we-play.live/watching/movie/the-avengers-2012
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7EE7CA07D843F608FC608F602AF4B5A21B26E9A793BEA710F6523BA33926F7CB/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron man 3(พากย์ไทย)
+https://we-play.live/watching/movie/iron-man-3-2013
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6B60566D04E81C32C9F7D506EF20A139407D06991EB37E63F5F82584FA8CF75C/scale?width=1200&aspectRatio=1.78&format=jpeg",Thor the dark world(พากย์ไทย)
+https://we-play.live/watching/movie/thor-the-dark-world-2013
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D39AEF2EF594967E006DAB64477E3B3A9E81F0D3072A1ED0C418EF4243C059F9/scale?width=1200&aspectRatio=1.78&format=jpeg",Captain america the winter soldier(พากย์ไทย)
+https://we-play.live/watching/movie/captain-america-the-winter-soldier-2014
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3FAFBC0A49231243C13DCC537CF805918DD39E79681650B6DC690A5082F393FA/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy(พากย์ไทย)
+https://we-play.live/watching/movie/guardians-of-the-galaxy-2014
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/64033DD4698B5885812AB2198C1C97DAEA553C9B66171D29106669DF32735EAF/scale?width=1200&aspectRatio=1.78&format=jpeg",Avengers age of ultron(พากย์ไทย)
+https://we-play.live/watching/movie/avengers-age-of-ultron-2015
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C5B56444C580F7B569E3764D1BE6456EC77241C664A07E02B570AE74DDD0772D/scale?width=1200&aspectRatio=1.78&format=jpeg",Antman(พากย์ไทย)
+https://moviefree4k.com/Ant-Man-%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%A1
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5BA553D18292B94398C333B7D0AA57A4CC31B22399E0C2BC429A42F52822F1B2/scale?width=1200&aspectRatio=1.78&format=jpeg",Captian america civil war(พากย์ไทย)
+https://we-play.live/watching/movie/captain-america-civil-war-2016
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B38531224478FFF92A483CBD9CCF2C36A5CE4DD97015BDEA6D8C327E66924521/scale?width=1200&aspectRatio=1.78&format=jpeg",Doctor strange(พากย์ไทย)
+https://we-play.live/watching/movie/doctor-strange-2016
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A0EB6E13C739DD631FABFE831E32DDB2944B5BBA295041E3A79C3ABDD79BB702/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy vol 2(พากย์ไทย)
+https://we-play.live/watching/movie/guardians-of-the-galaxy-vol-2-2017
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3EC1975DE892AB50F1D8EC1196223C0466A2959F30169FB282288A289288D39D/scale?width=1200&aspectRatio=1.78&format=jpeg",Thor ragnarok(พากย์ไทย)
+https://we-play.live/watching/movie/thor-ragnarok-2017
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E90552AB059BC4AD0B3D1CBC415E613970758C609053CDBEBF253A5524B2AF84/scale?width=1200&aspectRatio=1.78&format=jpeg",Black panther(พากย์ไทย)
+https://moviefree4k.com/Black-Panther-%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9254FA3B4385331D34717C2C5BF8D08394D9C67B2D3DD44B2FFC4597BBE463D4/scale?width=1200&aspectRatio=1.78&format=jpeg",Avengers infinity war(พากย์ไทย)
+https://we-play.live/watching/movie/avengers-infinity-war-2018
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/604BE9FE5D4AE6BC8D7A222EEA8CF081DEBC2C3CEC1B30401315E62CEB6B9124/scale?width=1200&aspectRatio=1.78&format=jpeg",Ant man and the wasp(พากย์ไทย)
+https://we-play.live/watching/movie/antman-and-the-wasp-2018
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E81041AC780ECCC4E38FD82B4C35D20932F0EA87318B8F3BE90C907EAF271AA5/scale?width=1200&aspectRatio=1.78&format=jpeg",Captain marvel(พากย์ไทย)
+https://we-play.live/watching/movie/captain-marvel-2019
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1E18287B290450D7C9C6D93C017DD078296FC6F74C16C1FDE445A266B3A52330/scale?width=1200&aspectRatio=1.78&format=jpeg",Avengers endgame(พากย์ไทย)
+https://we-play.live/watching/movie/avengers-endgame-2019
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://image.tmdb.org/t/p/original//muth4OYamXf41G2evdrLEg8d3om.jpg",Spiderman(พากย์ไทย)
+https://we-play.live/watching/movie/spiderman-2002
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.metalbridges.com/wp-content/uploads/2014/01/The-Amazing-Spider-Man-2-Full-HD-Poster.jpg",Spiderman 2(พากย์ไทย)
+https://we-play.live/watching/movie/spiderman-2-2004
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://images.alphacoders.com/657/thumb-1920-657891.jpg",spiderman 3(พากย์ไทย)
+https://we-play.live/watching/movie/spiderman-3-2007
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://2.bp.blogspot.com/-zbF8HDgRRWQ/Tuj5ZhLs1jI/AAAAAAAAAhI/MiMbXTXeirc/s1600/The+Amazing+Spider-Man_Banner_01.png",The amazing spiderman(พากย์ไทย)
+https://we-play.live/watching/movie/the-amazing-spiderman-2012
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://i.pinimg.com/736x/8e/38/c2/8e38c235314629b322b54cf8333b7c57.jpg",The amazing spiderman 2(พากย์ไทย)
+https://we-play.live/watching/movie/the-amazing-spiderman-2-2014
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/styles/image_1170x658/public/ct_series_f_primary_image/spiderman_homecoming_-_keyart.jpg?itok=-nQcKrew",spiderman homecoming(พากย์ไทย)
+https://we-play.live/watching/movie/spiderman-homecoming-2017
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/tv/tv-films-spider-man-far-from-home-key-art.jpg/jcr:content/renditions/landscape-tablet.935.526.jpg",spiderman far from home(พากย์ไทย)
+https://we-play.live/watching/movie/spiderman-far-from-home-2019
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F125B2D8C8D6907B63842F4A9F02EB321472C86C7AB97B01636D7D6655BAEB88/scale?width=1200&aspectRatio=1.78&format=jpeg",X men dark phoenix(พากย์ไทย)
+https://037moviefree.com/movie/x-men-dark-phoenix-x-%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-%e0%b8%94%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%81-%e0%b8%9f%e0%b8%b5%e0%b8%99%e0%b8%b4%e0%b8%81%e0%b8%8b%e0%b9%8c/
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/03/logan.jpg",LOGAN(พากย์ไทย)
+https://037moviefree.com/movie/logan-%e0%b9%82%e0%b8%a5%e0%b9%81%e0%b8%81%e0%b8%99-%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0-%e0%b8%a7%e0%b8%b9%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b9%80%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b8%b5%e0%b8%99/
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FDAC925D40960AAF0BC99F7DEBAAAF08925434E0CF2A4F85106E63E5BA784F69/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Apocalypse(พากย์ไทย)
+https://037moviefree.com/movie/x-men-8-apocalypse-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c-%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-%e0%b8%ad%e0%b9%82%e0%b8%9e%e0%b8%84%e0%b8%b2%e0%b8%a5%e0%b8%b4%e0%b8%9b%e0%b8%aa/
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6D04FC0DEF25924AD09D4A79295564197B9F9B8736C037D739C5A42FC727FACB/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Days of future fast(พากย์ไทย)
+https://037moviefree.com/movie/x-men-7-days-of-future-past-%e0%b8%aa%e0%b8%87%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%a1%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%b4%e0%b8%86%e0%b8%b2%e0%b8%95%e0%b8%81%e0%b8%b9%e0%b9%89%e0%b8%ad%e0%b8%99/
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2020/06/the-wolverine.jpg",X MEN The wolverine(พากย์ไทย)
+https://037moviefree.com/movie/x-men-6-the-wolverine-%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0-%e0%b8%a7%e0%b8%b9%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b9%80%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b8%b5%e0%b8%99/
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F56864AF85BC87F91A236075684D2794D9793F1838B70517937AD2AA5FF2BDF/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN First class(พากย์ไทย)
+https://037moviefree.com/movie/x-men-5-first-class-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c-%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87/
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99455C1AEE676E171A91F16D6B2845B66C1228B3726FDBC01EB011716BE27A56/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Origins wolverine(พากย์ไทย)
+https://037moviefree.com/movie/x-men-4-origins-wolverine-%e0%b8%81%e0%b8%b3%e0%b9%80%e0%b8%99%e0%b8%b4%e0%b8%94%e0%b8%a7%e0%b8%b9%e0%b8%a5%e0%b8%9f%e0%b9%8c%e0%b9%80%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b8%b5%e0%b8%99/
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/05/The-Last-Stand.jpg",X MEN The last stand(พากย์ไทย)
+https://037moviefree.com/movie/x-men-3-the-last-stand-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-3-%e0%b8%a3%e0%b8%a7%e0%b8%a1%e0%b8%9e%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b8%9b%e0%b8%a3/
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F352567CD85F1D533D0E588F35EE6A1B4588F65314ECC2EF33241FB9BB98CB4A/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN United(พากย์ไทย)
+https://037moviefree.com/movie/x-men-2-united-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-2-%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a1%e0%b8%99%e0%b8%b8%e0%b8%a9%e0%b8%a2%e0%b9%8c%e0%b8%9e/
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/328A8652DAF741DEAE89ABB407E7868478C7E4ED847BAAD7B2377B71C680FB72/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN(พากย์ไทย)
+https://037moviefree.com/movie/x-men-1-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c-%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-1-%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a1%e0%b8%99%e0%b8%b8%e0%b8%a9%e0%b8%a2%e0%b9%8c%e0%b8%9e/
+
+
+
+
+
+
+
+
