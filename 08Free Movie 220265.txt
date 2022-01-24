@@ -12,18 +12,6 @@ https://moviehdfree.xyz/view/0e87c3c2-cdc3-5499-889f-0aafbac11a11.m3u8
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Eternals-2021.jpg",Eternals (2021) อีเทอร์นอลส์ ฮีโร่พลังเทพเจ้า(พากย์ไทย)
 https://moviehdfree.xyz/files/cbd5ee215786bc1c16787e9a8efcc349_.txt
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
-https://moviehdfree.xyz/view/fe08b65f-aaca-5219-b523-5637ce6a035e.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/10/The-Matrix-Resurrections-2021.jpg",The Matrix Resurrections 2021
-https://moviehdfree.xyz/view/7e902ff0-77d2-52db-9b53-6b3913b44c99.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Venom-2-Let-There-Be-Carnage-20212.jpg",Venom 2 Let There Be Carnage (2021) เวน่อม 2 พากย์ไทย
-https://moviehdfree.xyz/view/0e87c3c2-cdc3-5499-889f-0aafbac11a11.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Eternals-2021.jpg",Eternals (2021) อีเทอร์นอลส์ ฮีโร่พลังเทพเจ้า(พากย์ไทย)
-https://moviehdfree.xyz/files/cbd5ee215786bc1c16787e9a8efcc349_.txt
-
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8CBE51B9FD6AC3D0DA841C005AF40AC02CD9AF034F4D05B9E9603B62F2925287/scale?width=1200&aspectRatio=1.78&format=jpeg",Avengers(พากย์ไทย)
 https://we-play.live/watching/movie/the-avengers-2012
 
