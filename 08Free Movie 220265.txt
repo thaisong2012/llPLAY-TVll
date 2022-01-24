@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://newmovies-hd.org/wp-content/uploads/2021/11/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-No-Time-to-Die-1.jpg",no time to die 007 พยัคฆ์ร้ายฝ่าเวลามรณะ
+https://we-play.live/watching/movie/no-time-to-die-2021
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
 https://mx1.buff-sdd.xyz/media/61ee066b38ac22Bc/720/hls/index.m3u8
