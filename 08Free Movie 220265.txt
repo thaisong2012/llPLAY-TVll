@@ -33,7 +33,7 @@ https://we-play.live/watching/movie/the-avengers-2012
 https://we-play.live/watching/movie/iron-man-3-2013
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6B60566D04E81C32C9F7D506EF20A139407D06991EB37E63F5F82584FA8CF75C/scale?width=1200&aspectRatio=1.78&format=jpeg",Thor the dark world(พากย์ไทย)
-https://we-play.live/watching/movie/thor-the-dark-world-2013
+https://www.doomovie-hd.com/?r=movie_view&id=12528
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D39AEF2EF594967E006DAB64477E3B3A9E81F0D3072A1ED0C418EF4243C059F9/scale?width=1200&aspectRatio=1.78&format=jpeg",Captain america the winter soldier(พากย์ไทย)
 https://we-play.live/watching/movie/captain-america-the-winter-soldier-2014
