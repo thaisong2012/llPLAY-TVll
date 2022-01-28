@@ -125,7 +125,8 @@ https://037moviefree.com/movie/x-men-2-united-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/328A8652DAF741DEAE89ABB407E7868478C7E4ED847BAAD7B2377B71C680FB72/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN(พากย์ไทย)
 https://037moviefree.com/movie/x-men-1-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c-%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-1-%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a1%e0%b8%99%e0%b8%b8%e0%b8%a9%e0%b8%a2%e0%b9%8c%e0%b8%9e/
 
-EXTINF:-1 group-title="2021" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 1 (TH) https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-sport-hd-1-th/
+#EXTINF:-1 group-title="2021" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 1 (TH)
+https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-sport-hd-1-th/
 #EXTINF:-1 group-title="2021" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 2 (TH) https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-sport-hd-2-th/
 #EXTINF:-1 group-title="2021" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 3 (TH) https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-sport-hd-3-th/
 #EXTINF:-1 group-title="2021" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 4 (TH) https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-sport-hd-4-th/
