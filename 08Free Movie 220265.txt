@@ -131,4 +131,3 @@ https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-sport-hd-1-th/
 #EXTINF:-1 group-title="2021" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 3 (TH) https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-sport-hd-3-th/
 #EXTINF:-1 group-title="2021" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 4 (TH) https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-sport-hd-4-th/
 #EXTINF:-1 group-title="2021" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-premier-football.png",True Premier Football HD 1 https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-premier-football/
-
