@@ -24,7 +24,7 @@ https://cdn.badroids.is/vod/disk2/movies/jb7wne.mp4
 https://p2p.cherry1678.com/view/29dd2c9c-63c6-5c58-9078-7d0ece0530a0.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CA328C5E2D42E7A7B46417E87B31CA32CA81EF592D0C63F0B6111A6D68869C78/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 2 (พากย์ไทย)
-https://p2p.cherry1678.com/view/e393a791-fc49-52e6-8e2d-5c81466bdb4b.m3u8
+https://p2p.cherry1678.com/files/a87d8ddd72d5cfd3f5961e753f899e89_original.txt
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7EE7CA07D843F608FC608F602AF4B5A21B26E9A793BEA710F6523BA33926F7CB/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 3 (พากย์ไทย)
 https://p2p.cherry1678.com/view/72451d82-e392-5f2c-a0db-baf2e0df4b2b.m3u8
