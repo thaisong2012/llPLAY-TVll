@@ -20,13 +20,13 @@ https://cdn.badroids.is/vod/disk2/movies/jb7dad.mp4
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xKnKivKMoYJjIpxmKNG.jpg",THE WORLD IS NOT ENOUGH (1999) พยัคฆ์ร้ายดับแผนครองโลก
 https://cdn.badroids.is/vod/disk2/movies/jb7wne.mp4
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5B5F22E0E37CF72BA1D2E1A8778BA6100C4ED9AC22245DFD8C84AE814DC63F8B/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron man(พากย์ไทย)
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5B5F22E0E37CF72BA1D2E1A8778BA6100C4ED9AC22245DFD8C84AE814DC63F8B/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 1 (พากย์ไทย)
 https://we-play.live/watching/movie/iron-man-2008
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CA328C5E2D42E7A7B46417E87B31CA32CA81EF592D0C63F0B6111A6D68869C78/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron man 2(พากย์ไทย)
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CA328C5E2D42E7A7B46417E87B31CA32CA81EF592D0C63F0B6111A6D68869C78/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 2 (พากย์ไทย)
 https://we-play.live/watching/movie/iron-man-2-2010
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7EE7CA07D843F608FC608F602AF4B5A21B26E9A793BEA710F6523BA33926F7CB/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron man 3(พากย์ไทย)
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7EE7CA07D843F608FC608F602AF4B5A21B26E9A793BEA710F6523BA33926F7CB/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 3 (พากย์ไทย)
 https://we-play.live/watching/movie/iron-man-3-2013
 
 
