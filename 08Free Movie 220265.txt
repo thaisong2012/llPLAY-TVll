@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/11/No-Time-To-Die-2021.jpg",No time to die (2021) 007 พยัคฆ์ร้ายฝ่าเวลามรณะ
-https://we-play.live/watching/movie/no-time-to-die-2021
+https://lb1.one3up.com/hls/d347b5a57bb5904d91e40459aed6df34/d347b5a57bb5904d91e40459aed6df34.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/dSsO0R0seiUzDHfY82N.jpg",SPECTRE (2015) 007 องค์กรลับดับพยัคฆ์ร้าย
 https://www.037hdmovie.com/2019/11/06/spectre-007-2015-%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b8%81%e0%b8%a3%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b8%9e%e0%b8%a2%e0%b8%b1%e0%b8%84%e0%b8%86%e0%b9%8c%e0%b8%a3%e0%b9%89-2/
