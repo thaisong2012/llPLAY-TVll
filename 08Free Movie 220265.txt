@@ -6,16 +6,16 @@ https://lb1.one3up.com/hls/d347b5a57bb5904d91e40459aed6df34/d347b5a57bb5904d91e4
 https://lb1.one3up.com/hls/db1284bad2d5e2e1a36b37c286097c08/db1284bad2d5e2e1a36b37c286097c08.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/TAAeckGgeVa6zacXktk.jpg",SKYFALL (2012) 007 พลิกรหัสพิฆาตพยัคฆ์ร้าย
-https://lb1.one3up.com/hls/fa76d3f425b3c1bb8308b93ffe5182a1/fa76d3f425b3c1bb8308b93ffe5182a1.m3u8
+https://lb1.one3up.com/hls/85771b63e8ec5878029795b00220428a/85771b63e8ec5878029795b00220428a.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/sAIPTM3gms8QpzPrbkX.jpg",Quantum of Solace (2008) 007 พยัคฆ์ร้ายทวงแค้นระห่ำโลก
-https://lb1.one3up.com/hls/fa76d3f425b3c1bb8308b93ffe5182a1/fa76d3f425b3c1bb8308b93ffe5182a1.m3u8
+https://lb1.one3up.com/hls/73021c80ac657d87f01cccdfe17073db/73021c80ac657d87f01cccdfe17073db.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/VXHrQiiZm0b1ktMg0Ci.jpg",Casino Royale (2006)007 พยัคฆ์ร้ายเดิมพันระห่ำโลก
-https://www.037hdmovie.com/2015/09/08/james-bond-007-casino-royale-2006-%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%aa%e0%b9%8c-%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c-007-%e0%b8%a0%e0%b8%b2%e0%b8%84-21/
+https://lb1.one3up.com/hls/73021c80ac657d87f01cccdfe17073db/73021c80ac657d87f01cccdfe17073db.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/iYCoSUI3PKanim11zvx.jpg",Die Another Day (2002) 007 พยัคฆ์ร้ายท้ามรณะ
-https://www.037hdmovie.com/2015/09/08/james-bond-007-die-another-day-2002-%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%aa%e0%b9%8c-%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c-007-%e0%b8%a0%e0%b8%b2%e0%b8%84-20/
+https://lb1.one3up.com/hls/d41c3aa598c9a77d81ecf40600d7d2e7/d41c3aa598c9a77d81ecf40600d7d2e7.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xKnKivKMoYJjIpxmKNG.jpg",THE WORLD IS NOT ENOUGH (1999) พยัคฆ์ร้ายดับแผนครองโลก
 https://www.037hdmovie.com/2015/09/08/james-bond-007-the-world-is-not-enough-1999-%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%aa%e0%b9%8c-%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c-007-%e0%b8%a0%e0%b8%b2%e0%b8%84-19/
