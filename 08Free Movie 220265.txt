@@ -3,7 +3,7 @@
 https://lb1.one3up.com/hls/d347b5a57bb5904d91e40459aed6df34/d347b5a57bb5904d91e40459aed6df34.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/dSsO0R0seiUzDHfY82N.jpg",SPECTRE (2015) 007 องค์กรลับดับพยัคฆ์ร้าย
-https://lb1.one3up.com/hls/db1284bad2d5e2e1a36b37c286097c08/db1284bad2d5e2e1a36b37c286097c08.m3u8
+https://lb1.one3up.com/hls/7f6803ecb78540ac885e748fcf18cfb7/7f6803ecb78540ac885e748fcf18cfb7.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/TAAeckGgeVa6zacXktk.jpg",SKYFALL (2012) 007 พลิกรหัสพิฆาตพยัคฆ์ร้าย
 https://lb1.one3up.com/hls/85771b63e8ec5878029795b00220428a/85771b63e8ec5878029795b00220428a.m3u8
