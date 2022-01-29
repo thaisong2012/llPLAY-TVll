@@ -15,11 +15,10 @@ https://lb1.one3up.com/hls/73021c80ac657d87f01cccdfe17073db/73021c80ac657d87f01c
 https://lb1.one3up.com/hls/dbd5e59de68ac416b42c6f2d361b0aa2/dbd5e59de68ac416b42c6f2d361b0aa2.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/iYCoSUI3PKanim11zvx.jpg",Die Another Day (2002) 007 พยัคฆ์ร้ายท้ามรณะ
-https://www.037hdmovie.com/2015/09/08/james-bond-007-die-another-day-2002-%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%aa%e0%b9%8c-%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c-007-%e0%b8%a0%e0%b8%b2%e0%b8%84-20/
+https://cdn.badroids.is/vod/disk2/movies/jb7dad.mp4
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xKnKivKMoYJjIpxmKNG.jpg",THE WORLD IS NOT ENOUGH (1999) พยัคฆ์ร้ายดับแผนครองโลก
-https://www.doomovie-hd.com/?r=movie_view&id=22292&disc=19
-
+https://cdn.badroids.is/vod/disk2/movies/jb7wne.mp4
 
 
 
