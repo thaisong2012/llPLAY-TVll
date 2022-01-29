@@ -31,8 +31,6 @@ https://we-play.live/watching/movie/iron-man-3-2013
 
 
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
-https://mx1.buff-sdd.xyz/media/61ee066b38ac22Bc/720/hls/index.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/10/The-Matrix-Resurrections-2021.jpg",The Matrix Resurrections 2021
 https://moviehdfree.xyz/view/7e902ff0-77d2-52db-9b53-6b3913b44c99.m3u8
@@ -121,7 +119,8 @@ https://we-play.live/watching/movie/spiderman-homecoming-2017
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/tv/tv-films-spider-man-far-from-home-key-art.jpg/jcr:content/renditions/landscape-tablet.935.526.jpg",spiderman far from home(พากย์ไทย)
 https://we-play.live/watching/movie/spiderman-far-from-home-2019
 
-
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
+https://mx1.buff-sdd.xyz/media/61ee066b38ac22Bc/720/hls/index.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F125B2D8C8D6907B63842F4A9F02EB321472C86C7AB97B01636D7D6655BAEB88/scale?width=1200&aspectRatio=1.78&format=jpeg",X men dark phoenix(พากย์ไทย)
 https://037moviefree.com/movie/x-men-dark-phoenix-x-%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-%e0%b8%94%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%81-%e0%b8%9f%e0%b8%b5%e0%b8%99%e0%b8%b4%e0%b8%81%e0%b8%8b%e0%b9%8c/
