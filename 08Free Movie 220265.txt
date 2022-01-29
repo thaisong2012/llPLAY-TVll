@@ -20,10 +20,14 @@ https://cdn.badroids.is/vod/disk2/movies/jb7dad.mp4
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xKnKivKMoYJjIpxmKNG.jpg",THE WORLD IS NOT ENOUGH (1999) พยัคฆ์ร้ายดับแผนครองโลก
 https://cdn.badroids.is/vod/disk2/movies/jb7wne.mp4
 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5B5F22E0E37CF72BA1D2E1A8778BA6100C4ED9AC22245DFD8C84AE814DC63F8B/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron man(พากย์ไทย)
+https://we-play.live/watching/movie/iron-man-2008
 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CA328C5E2D42E7A7B46417E87B31CA32CA81EF592D0C63F0B6111A6D68869C78/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron man 2(พากย์ไทย)
+https://we-play.live/watching/movie/iron-man-2-2010
 
-
-
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7EE7CA07D843F608FC608F602AF4B5A21B26E9A793BEA710F6523BA33926F7CB/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron man 3(พากย์ไทย)
+https://we-play.live/watching/movie/iron-man-3-2013
 
 
 
@@ -39,11 +43,9 @@ https://moviehdfree.xyz/view/0e87c3c2-cdc3-5499-889f-0aafbac11a11.m3u8
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Eternals-2021.jpg",Eternals (2021) อีเทอร์นอลส์ ฮีโร่พลังเทพเจ้า(พากย์ไทย)
 https://moviehdfree.xyz/files/cbd5ee215786bc1c16787e9a8efcc349_.txt
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5B5F22E0E37CF72BA1D2E1A8778BA6100C4ED9AC22245DFD8C84AE814DC63F8B/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron man(พากย์ไทย)
-https://we-play.live/watching/movie/iron-man-2008
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CA328C5E2D42E7A7B46417E87B31CA32CA81EF592D0C63F0B6111A6D68869C78/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron man 2(พากย์ไทย)
-https://we-play.live/watching/movie/iron-man-2-2010
+
+
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/973899DBFBE0A2D5588681989AD0C57E85010167E3F4023CE44CBB4615AFB677/scale?width=1200&aspectRatio=1.78&format=jpeg",THOR(พากย์ไทย)
 https://we-play.live/watching/movie/thor-2011
@@ -54,8 +56,7 @@ https://we-play.live/watching/movie/captain-america-the-first-avenger-2011
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8CBE51B9FD6AC3D0DA841C005AF40AC02CD9AF034F4D05B9E9603B62F2925287/scale?width=1200&aspectRatio=1.78&format=jpeg",Avengers(พากย์ไทย)
 https://we-play.live/watching/movie/the-avengers-2012
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7EE7CA07D843F608FC608F602AF4B5A21B26E9A793BEA710F6523BA33926F7CB/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron man 3(พากย์ไทย)
-https://we-play.live/watching/movie/iron-man-3-2013
+
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6B60566D04E81C32C9F7D506EF20A139407D06991EB37E63F5F82584FA8CF75C/scale?width=1200&aspectRatio=1.78&format=jpeg",Thor the dark world(พากย์ไทย)
 https://www.doomovie-hd.com/?r=movie_view&id=12528
@@ -119,6 +120,8 @@ https://we-play.live/watching/movie/spiderman-homecoming-2017
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/tv/tv-films-spider-man-far-from-home-key-art.jpg/jcr:content/renditions/landscape-tablet.935.526.jpg",spiderman far from home(พากย์ไทย)
 https://we-play.live/watching/movie/spiderman-far-from-home-2019
+
+
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F125B2D8C8D6907B63842F4A9F02EB321472C86C7AB97B01636D7D6655BAEB88/scale?width=1200&aspectRatio=1.78&format=jpeg",X men dark phoenix(พากย์ไทย)
 https://037moviefree.com/movie/x-men-dark-phoenix-x-%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-%e0%b8%94%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%81-%e0%b8%9f%e0%b8%b5%e0%b8%99%e0%b8%b4%e0%b8%81%e0%b8%8b%e0%b9%8c/
