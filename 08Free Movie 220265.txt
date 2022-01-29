@@ -12,7 +12,7 @@ https://lb1.one3up.com/hls/85771b63e8ec5878029795b00220428a/85771b63e8ec58780297
 https://lb1.one3up.com/hls/73021c80ac657d87f01cccdfe17073db/73021c80ac657d87f01cccdfe17073db.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/VXHrQiiZm0b1ktMg0Ci.jpg",Casino Royale (2006)007 พยัคฆ์ร้ายเดิมพันระห่ำโลก
-https://lb1.one3up.com/hls/73021c80ac657d87f01cccdfe17073db/73021c80ac657d87f01cccdfe17073db.m3u8
+https://lb1.one3up.com/hls/dbd5e59de68ac416b42c6f2d361b0aa2/dbd5e59de68ac416b42c6f2d361b0aa2.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/iYCoSUI3PKanim11zvx.jpg",Die Another Day (2002) 007 พยัคฆ์ร้ายท้ามรณะ
 https://lb1.one3up.com/hls/d41c3aa598c9a77d81ecf40600d7d2e7/d41c3aa598c9a77d81ecf40600d7d2e7.m3u8
