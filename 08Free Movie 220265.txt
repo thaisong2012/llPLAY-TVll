@@ -121,17 +121,19 @@ https://we-play.live/watching/movie/spiderman-far-from-home-2019
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
 https://mx1.buff-sdd.xyz/media/61ee066b38ac22Bc/720/hls/index.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F125B2D8C8D6907B63842F4A9F02EB321472C86C7AB97B01636D7D6655BAEB88/scale?width=1200&aspectRatio=1.78&format=jpeg",X men dark phoenix(พากย์ไทย)
-https://037moviefree.com/movie/x-men-dark-phoenix-x-%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-%e0%b8%94%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%81-%e0%b8%9f%e0%b8%b5%e0%b8%99%e0%b8%b4%e0%b8%81%e0%b8%8b%e0%b9%8c/
-
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/03/logan.jpg",LOGAN(พากย์ไทย)
 https://037moviefree.com/movie/logan-%e0%b9%82%e0%b8%a5%e0%b9%81%e0%b8%81%e0%b8%99-%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0-%e0%b8%a7%e0%b8%b9%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b9%80%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b8%b5%e0%b8%99/
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FDAC925D40960AAF0BC99F7DEBAAAF08925434E0CF2A4F85106E63E5BA784F69/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Apocalypse(พากย์ไทย)
-https://037moviefree.com/movie/x-men-8-apocalypse-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c-%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-%e0%b8%ad%e0%b9%82%e0%b8%9e%e0%b8%84%e0%b8%b2%e0%b8%a5%e0%b8%b4%e0%b8%9b%e0%b8%aa/
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6D04FC0DEF25924AD09D4A79295564197B9F9B8736C037D739C5A42FC727FACB/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Days of future fast(พากย์ไทย)
-https://037moviefree.com/movie/x-men-7-days-of-future-past-%e0%b8%aa%e0%b8%87%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%a1%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%b4%e0%b8%86%e0%b8%b2%e0%b8%95%e0%b8%81%e0%b8%b9%e0%b9%89%e0%b8%ad%e0%b8%99/
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F125B2D8C8D6907B63842F4A9F02EB321472C86C7AB97B01636D7D6655BAEB88/scale?width=1200&aspectRatio=1.78&format=jpeg",X men dark phoenix (2014) พากย์ไทย
+https://p2p.cherry1678.com/view/532813e1-c475-58d3-ab8b-ed61e91f3666.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FDAC925D40960AAF0BC99F7DEBAAAF08925434E0CF2A4F85106E63E5BA784F69/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Apocalypse (2016) พากย์ไทย
+https://p2p.cherry1678.com/view/c59ba366-c639-5d33-b3f5-d6a8fa74bf80.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6D04FC0DEF25924AD09D4A79295564197B9F9B8736C037D739C5A42FC727FACB/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Days of future fast (2014) พากย์ไทย
+https://p2p.cherry1678.com/view/532813e1-c475-58d3-ab8b-ed61e91f3666.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2020/06/the-wolverine.jpg",X MEN The wolverine(พากย์ไทย)
 https://037moviefree.com/movie/x-men-6-the-wolverine-%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0-%e0%b8%a7%e0%b8%b9%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b9%80%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b8%b5%e0%b8%99/
