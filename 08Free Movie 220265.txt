@@ -148,8 +148,8 @@ https://p2p.cherry1678.com/view/4b902443-ecad-5a0d-8bc3-309f1ed97713.m3u8
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/05/The-Last-Stand.jpg",X Men The last stand (2006) พากย์ไทย
 https://p2p.cherry1678.com/view/c3f7bcfb-5a07-5734-a80f-9d0151265cd3.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F352567CD85F1D533D0E588F35EE6A1B4588F65314ECC2EF33241FB9BB98CB4A/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN United(พากย์ไทย)
-https://037moviefree.com/movie/x-men-2-united-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-2-%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a1%e0%b8%99%e0%b8%b8%e0%b8%a9%e0%b8%a2%e0%b9%8c%e0%b8%9e/
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F352567CD85F1D533D0E588F35EE6A1B4588F65314ECC2EF33241FB9BB98CB4A/scale?width=1200&aspectRatio=1.78&format=jpeg",X Men United (2003) พากย์ไทย
+https://p2p.cherry1678.com/view/4c5d64f8-8a73-536d-be9d-b4a0a4d7132a.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/328A8652DAF741DEAE89ABB407E7868478C7E4ED847BAAD7B2377B71C680FB72/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN(พากย์ไทย)
-https://037moviefree.com/movie/x-men-1-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c-%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-1-%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a1%e0%b8%99%e0%b8%b8%e0%b8%a9%e0%b8%a2%e0%b9%8c%e0%b8%9e/
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/328A8652DAF741DEAE89ABB407E7868478C7E4ED847BAAD7B2377B71C680FB72/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 1 ศึกมนุษย์พลังเหนือโลก (2000) พากย์ไทย
+https://p2p.cherry1678.com/view/13957adf-f07e-5748-acde-2b8ed3474f7d.m3u8
