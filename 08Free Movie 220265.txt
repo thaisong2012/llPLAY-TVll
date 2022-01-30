@@ -139,14 +139,14 @@ https://p2p.cherry1678.com/view/532813e1-c475-58d3-ab8b-ed61e91f3666.m3u8
 https://lb1.one3up.com/hls/e72b4f410b5f92627a922a139ba3983c/e72b4f410b5f92627a922a139ba3983c.m3u8
 
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F56864AF85BC87F91A236075684D2794D9793F1838B70517937AD2AA5FF2BDF/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN First class(พากย์ไทย)
-https://037moviefree.com/movie/x-men-5-first-class-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c-%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87/
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F56864AF85BC87F91A236075684D2794D9793F1838B70517937AD2AA5FF2BDF/scale?width=1200&aspectRatio=1.78&format=jpeg",X Men First class (2011) พากย์ไทย
+https://p2p.cherry1678.com/view/13456409-0b03-5aeb-be05-62c7b3e51996.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99455C1AEE676E171A91F16D6B2845B66C1228B3726FDBC01EB011716BE27A56/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Origins wolverine(พากย์ไทย)
-https://037moviefree.com/movie/x-men-4-origins-wolverine-%e0%b8%81%e0%b8%b3%e0%b9%80%e0%b8%99%e0%b8%b4%e0%b8%94%e0%b8%a7%e0%b8%b9%e0%b8%a5%e0%b8%9f%e0%b9%8c%e0%b9%80%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b8%b5%e0%b8%99/
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99455C1AEE676E171A91F16D6B2845B66C1228B3726FDBC01EB011716BE27A56/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Origins wolverine (2009) พากย์ไทย
+https://p2p.cherry1678.com/view/4b902443-ecad-5a0d-8bc3-309f1ed97713.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/05/The-Last-Stand.jpg",X MEN The last stand(พากย์ไทย)
-https://037moviefree.com/movie/x-men-3-the-last-stand-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-3-%e0%b8%a3%e0%b8%a7%e0%b8%a1%e0%b8%9e%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b8%9b%e0%b8%a3/
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/05/The-Last-Stand.jpg",X Men The last stand (2006) พากย์ไทย
+https://p2p.cherry1678.com/view/c3f7bcfb-5a07-5734-a80f-9d0151265cd3.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F352567CD85F1D533D0E588F35EE6A1B4588F65314ECC2EF33241FB9BB98CB4A/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN United(พากย์ไทย)
 https://037moviefree.com/movie/x-men-2-united-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%99-2-%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a1%e0%b8%99%e0%b8%b8%e0%b8%a9%e0%b8%a2%e0%b9%8c%e0%b8%9e/
