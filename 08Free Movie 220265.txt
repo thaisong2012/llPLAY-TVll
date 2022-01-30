@@ -29,8 +29,6 @@ https://p2p.cherry1678.com/files/a87d8ddd72d5cfd3f5961e753f899e89_original.txt
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7EE7CA07D843F608FC608F602AF4B5A21B26E9A793BEA710F6523BA33926F7CB/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 3 (พากย์ไทย)
 https://p2p.cherry1678.com/files/62208d35b4ba2a93f664b80ba9507460_original.txt
 
-
-
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/10/The-Matrix-Resurrections-2021.jpg",The Matrix Resurrections 2021
 https://moviehdfree.xyz/view/7e902ff0-77d2-52db-9b53-6b3913b44c99.m3u8
 
@@ -126,29 +124,29 @@ https://037moviefree.com/movie/logan-%e0%b9%82%e0%b8%a5%e0%b9%81%e0%b8%81%e0%b8%
 
 
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F125B2D8C8D6907B63842F4A9F02EB321472C86C7AB97B01636D7D6655BAEB88/scale?width=1200&aspectRatio=1.78&format=jpeg",X Men dark phoenix (2019) พากย์ไทย
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F125B2D8C8D6907B63842F4A9F02EB321472C86C7AB97B01636D7D6655BAEB88/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 8 Dark phoenix (2019) พากย์ไทย
 https://lb1.one3up.com/hls/4b43d5566eef4dc967fe8f2c997b48b5/4b43d5566eef4dc967fe8f2c997b48b5.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FDAC925D40960AAF0BC99F7DEBAAAF08925434E0CF2A4F85106E63E5BA784F69/scale?width=1200&aspectRatio=1.78&format=jpeg",X Men Apocalypse (2016) พากย์ไทย
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FDAC925D40960AAF0BC99F7DEBAAAF08925434E0CF2A4F85106E63E5BA784F69/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 7 Apocalypse (2016) พากย์ไทย
 https://p2p.cherry1678.com/view/c59ba366-c639-5d33-b3f5-d6a8fa74bf80.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6D04FC0DEF25924AD09D4A79295564197B9F9B8736C037D739C5A42FC727FACB/scale?width=1200&aspectRatio=1.78&format=jpeg",X Men Days of future fast (2014) พากย์ไทย
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6D04FC0DEF25924AD09D4A79295564197B9F9B8736C037D739C5A42FC727FACB/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 6 Days of future fast (2014) พากย์ไทย
 https://p2p.cherry1678.com/view/532813e1-c475-58d3-ab8b-ed61e91f3666.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2020/06/the-wolverine.jpg",X MEN The Wolverine (2013) พากย์ไทย
 https://lb1.one3up.com/hls/e72b4f410b5f92627a922a139ba3983c/e72b4f410b5f92627a922a139ba3983c.m3u8
 
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F56864AF85BC87F91A236075684D2794D9793F1838B70517937AD2AA5FF2BDF/scale?width=1200&aspectRatio=1.78&format=jpeg",X Men First class (2011) พากย์ไทย
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F56864AF85BC87F91A236075684D2794D9793F1838B70517937AD2AA5FF2BDF/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 5 First class (2011) พากย์ไทย
 https://p2p.cherry1678.com/view/13456409-0b03-5aeb-be05-62c7b3e51996.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99455C1AEE676E171A91F16D6B2845B66C1228B3726FDBC01EB011716BE27A56/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Origins wolverine (2009) พากย์ไทย
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99455C1AEE676E171A91F16D6B2845B66C1228B3726FDBC01EB011716BE27A56/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 4 Origins wolverine (2009) พากย์ไทย
 https://p2p.cherry1678.com/view/4b902443-ecad-5a0d-8bc3-309f1ed97713.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/05/The-Last-Stand.jpg",X Men The last stand (2006) พากย์ไทย
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/05/The-Last-Stand.jpg",X MEN 3 The last stand (2006) พากย์ไทย
 https://p2p.cherry1678.com/view/c3f7bcfb-5a07-5734-a80f-9d0151265cd3.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F352567CD85F1D533D0E588F35EE6A1B4588F65314ECC2EF33241FB9BB98CB4A/scale?width=1200&aspectRatio=1.78&format=jpeg",X Men United (2003) พากย์ไทย
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F352567CD85F1D533D0E588F35EE6A1B4588F65314ECC2EF33241FB9BB98CB4A/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 2 United (2003) พากย์ไทย
 https://p2p.cherry1678.com/view/4c5d64f8-8a73-536d-be9d-b4a0a4d7132a.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/328A8652DAF741DEAE89ABB407E7868478C7E4ED847BAAD7B2377B71C680FB72/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 1 ศึกมนุษย์พลังเหนือโลก (2000) พากย์ไทย
