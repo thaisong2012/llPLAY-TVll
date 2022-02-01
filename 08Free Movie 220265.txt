@@ -66,17 +66,23 @@ https://lb1.one3up.com/hls/fea352bc6f0d948741fad80188a59f99/fea352bc6f0d948741fa
 https://lb1.one3up.com/hls/92defc1d987ffadee9388cc97d31c833/92defc1d987ffadee9388cc97d31c833.m3u8
 
 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/XGsK1QFFQ6pi1zft7Bp.jpg",CAPTAIN AMERICA 1 THE FIRST AVENGER กัปตันอเมริกา 1 อเวนเจอร์ที่ 1  (2011) พากย์ไทย
+https://lb1.one3up.com/hls/66004e5d7ec3ac7603b27dcc0d1e0159/66004e5d7ec3ac7603b27dcc0d1e0159.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/2SfZP8iczhLaZM3OmXz.jpg",CAPTAIN AMERICA 2 THE WINTER SOLDIER กัปตันอเมริกา 2 เดอะวินเทอร์โซลเจอร์ (2014) พากย์ไทย
+https://lb1.one3up.com/hls/f8963e04a3b206963d5b9ee6ca445e86/f8963e04a3b206963d5b9ee6ca445e86.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Pf8CwgYsVc5x0nNI0qx.jpg",CAPTAIN AMERICA 3 : CIVIL WAR กัปตัน อเมริกา 3 ศึกฮีโร่ระห่ำโลก (2016) พากย์ไทย
+https://lb1.one3up.com/hls/95d6ddf0951032632926b3f2944b04ec/95d6ddf0951032632926b3f2944b04ec.m3u8
 
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8688B5B68FFE2192FBDF5470AE4ABFB0B707E1A39B3D87EEA49F5B260CA6C95C/scale?width=1200&aspectRatio=1.78&format=jpeg",Captain america the first avenger(พากย์ไทย)
-https://we-play.live/watching/movie/captain-america-the-first-avenger-2011
+
+
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8CBE51B9FD6AC3D0DA841C005AF40AC02CD9AF034F4D05B9E9603B62F2925287/scale?width=1200&aspectRatio=1.78&format=jpeg",Avengers(พากย์ไทย)
 https://we-play.live/watching/movie/the-avengers-2012
 
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D39AEF2EF594967E006DAB64477E3B3A9E81F0D3072A1ED0C418EF4243C059F9/scale?width=1200&aspectRatio=1.78&format=jpeg",Captain america the winter soldier(พากย์ไทย)
-https://we-play.live/watching/movie/captain-america-the-winter-soldier-2014
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3FAFBC0A49231243C13DCC537CF805918DD39E79681650B6DC690A5082F393FA/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy(พากย์ไทย)
 https://we-play.live/watching/movie/guardians-of-the-galaxy-2014
@@ -87,8 +93,6 @@ https://we-play.live/watching/movie/avengers-age-of-ultron-2015
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C5B56444C580F7B569E3764D1BE6456EC77241C664A07E02B570AE74DDD0772D/scale?width=1200&aspectRatio=1.78&format=jpeg",Antman(พากย์ไทย)
 https://moviefree4k.com/Ant-Man-%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%A1
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5BA553D18292B94398C333B7D0AA57A4CC31B22399E0C2BC429A42F52822F1B2/scale?width=1200&aspectRatio=1.78&format=jpeg",Captian america civil war(พากย์ไทย)
-https://we-play.live/watching/movie/captain-america-civil-war-2016
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B38531224478FFF92A483CBD9CCF2C36A5CE4DD97015BDEA6D8C327E66924521/scale?width=1200&aspectRatio=1.78&format=jpeg",Doctor strange(พากย์ไทย)
 https://we-play.live/watching/movie/doctor-strange-2016
