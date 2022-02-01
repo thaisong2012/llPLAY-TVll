@@ -75,10 +75,6 @@ https://we-play.live/watching/movie/captain-america-the-first-avenger-2011
 https://we-play.live/watching/movie/the-avengers-2012
 
 
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6B60566D04E81C32C9F7D506EF20A139407D06991EB37E63F5F82584FA8CF75C/scale?width=1200&aspectRatio=1.78&format=jpeg",Thor the dark world(พากย์ไทย)
-https://www.doomovie-hd.com/?r=movie_view&id=12528
-
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D39AEF2EF594967E006DAB64477E3B3A9E81F0D3072A1ED0C418EF4243C059F9/scale?width=1200&aspectRatio=1.78&format=jpeg",Captain america the winter soldier(พากย์ไทย)
 https://we-play.live/watching/movie/captain-america-the-winter-soldier-2014
 
@@ -99,9 +95,6 @@ https://we-play.live/watching/movie/doctor-strange-2016
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A0EB6E13C739DD631FABFE831E32DDB2944B5BBA295041E3A79C3ABDD79BB702/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy vol 2(พากย์ไทย)
 https://we-play.live/watching/movie/guardians-of-the-galaxy-vol-2-2017
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3EC1975DE892AB50F1D8EC1196223C0466A2959F30169FB282288A289288D39D/scale?width=1200&aspectRatio=1.78&format=jpeg",Thor ragnarok(พากย์ไทย)
-https://we-play.live/watching/movie/thor-ragnarok-2017
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E90552AB059BC4AD0B3D1CBC415E613970758C609053CDBEBF253A5524B2AF84/scale?width=1200&aspectRatio=1.78&format=jpeg",Black panther(พากย์ไทย)
 https://moviefree4k.com/Black-Panther-%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C
