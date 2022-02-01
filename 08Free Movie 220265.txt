@@ -56,8 +56,17 @@ https://moviehdfree.xyz/files/cbd5ee215786bc1c16787e9a8efcc349_.txt
 
 
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/973899DBFBE0A2D5588681989AD0C57E85010167E3F4023CE44CBB4615AFB677/scale?width=1200&aspectRatio=1.78&format=jpeg",THOR(พากย์ไทย)
-https://we-play.live/watching/movie/thor-2011
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/iYJghzoYEeJjtqpotEZ.jpg",THOR 1 ธอร์ 1 เทพเจ้าสายฟ้า (2011) พากย์ไทย
+https://lb1.one3up.com/hls/5fc73b68d397b7eff063a06a8c76218c/5fc73b68d397b7eff063a06a8c76218c.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/UB5q7QHzw7bShFPsnn0.jpg",THOR 2: THE DARK WORLD ธอร์ 2 เทพเจ้าสายฟ้าโลกาทมิฬ (2013) พากย์ไทย
+https://lb1.one3up.com/hls/fea352bc6f0d948741fad80188a59f99/fea352bc6f0d948741fad80188a59f99.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/3RQ3useGOT7f7hEsGgN.jpg",THOR RAGNAROK ศึกอวสานเทพเจ้า (2017) พากย์ไทย
+https://lb1.one3up.com/hls/92defc1d987ffadee9388cc97d31c833/92defc1d987ffadee9388cc97d31c833.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8688B5B68FFE2192FBDF5470AE4ABFB0B707E1A39B3D87EEA49F5B260CA6C95C/scale?width=1200&aspectRatio=1.78&format=jpeg",Captain america the first avenger(พากย์ไทย)
 https://we-play.live/watching/movie/captain-america-the-first-avenger-2011
