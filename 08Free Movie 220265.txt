@@ -95,14 +95,14 @@ https://we-play.live/watching/movie/captain-marvel-2019
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1E18287B290450D7C9C6D93C017DD078296FC6F74C16C1FDE445A266B3A52330/scale?width=1200&aspectRatio=1.78&format=jpeg",Avengers endgame(พากย์ไทย)
 https://we-play.live/watching/movie/avengers-endgame-2019
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://image.tmdb.org/t/p/original//muth4OYamXf41G2evdrLEg8d3om.jpg",Spiderman(พากย์ไทย)
-https://we-play.live/watching/movie/spiderman-2002
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://image.tmdb.org/t/p/original//muth4OYamXf41G2evdrLEg8d3om.jpg",Spider-Man 2002 (พากย์ไทย)
+https://p2p.cherry1678.com/view/0793d05f-e7b8-502d-bcd9-3f77449a8a47.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.metalbridges.com/wp-content/uploads/2014/01/The-Amazing-Spider-Man-2-Full-HD-Poster.jpg",Spiderman 2(พากย์ไทย)
-https://we-play.live/watching/movie/spiderman-2-2004
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.metalbridges.com/wp-content/uploads/2014/01/The-Amazing-Spider-Man-2-Full-HD-Poster.jpg",Spider-Man 2 2004 (พากย์ไทย)
+https://p2p.cherry1678.com/view/790d512b-64b8-5222-b221-cf2ce0cac2b3.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://images.alphacoders.com/657/thumb-1920-657891.jpg",spiderman 3(พากย์ไทย)
-https://we-play.live/watching/movie/spiderman-3-2007
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://images.alphacoders.com/657/thumb-1920-657891.jpg",Spider-Man 3 2007 (พากย์ไทย)
+https://p2p.cherry1678.com/view/58dd2d74-792d-5049-904e-81f3b7afc88e.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://2.bp.blogspot.com/-zbF8HDgRRWQ/Tuj5ZhLs1jI/AAAAAAAAAhI/MiMbXTXeirc/s1600/The+Amazing+Spider-Man_Banner_01.png",The Amazing Spider-Man 2012 (พากย์ไทย)
 https://p2p.cherry1678.com/view/be8cbd65-958c-5008-bbc5-14cd0e08afcc.m3u8
