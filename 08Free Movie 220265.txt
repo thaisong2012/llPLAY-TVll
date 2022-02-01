@@ -96,7 +96,7 @@ https://we-play.live/watching/movie/captain-marvel-2019
 https://we-play.live/watching/movie/avengers-endgame-2019
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://image.tmdb.org/t/p/original//muth4OYamXf41G2evdrLEg8d3om.jpg",Spider-Man 2002 (พากย์ไทย)
-https://lb1.one3up.com/hls/e9a530b8a9a4851da1591f6dcf0d58a4/e9a530b8a9a4851da1591f6dcf0d58a4.m3u8
+https://p2p.cherry1678.com/view/0793d05f-e7b8-502d-bcd9-3f77449a8a47.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.metalbridges.com/wp-content/uploads/2014/01/The-Amazing-Spider-Man-2-Full-HD-Poster.jpg",Spider-Man 2 2004 (พากย์ไทย)
 https://p2p.cherry1678.com/view/790d512b-64b8-5222-b221-cf2ce0cac2b3.m3u8
