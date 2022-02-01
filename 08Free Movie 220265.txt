@@ -46,7 +46,8 @@ https://moviehdfree.xyz/view/7e902ff0-77d2-52db-9b53-6b3913b44c99.m3u8
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Venom-2-Let-There-Be-Carnage-20212.jpg",Venom 2 Let There Be Carnage (2021) เวน่อม 2 พากย์ไทย
 https://moviehdfree.xyz/view/0e87c3c2-cdc3-5499-889f-0aafbac11a11.m3u8
 
-
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/10/Venom-2018.jpg",Venom 1 (2018) พากย์ไทย
+https://lb1.one3up.com/hls/c47fdf0eb7421020cae518fbe4d9b5e6/c47fdf0eb7421020cae518fbe4d9b5e6.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Eternals-2021.jpg",Eternals (2021) อีเทอร์นอลส์ ฮีโร่พลังเทพเจ้า(พากย์ไทย)
 https://moviehdfree.xyz/files/cbd5ee215786bc1c16787e9a8efcc349_.txt
