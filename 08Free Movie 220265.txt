@@ -30,11 +30,24 @@ https://p2p.cherry1678.com/files/a87d8ddd72d5cfd3f5961e753f899e89_original.txt
 https://p2p.cherry1678.com/files/62208d35b4ba2a93f664b80ba9507460_original.txt
 
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/6G7XRPjskR0dALEJOwu.jpg",THE MATRIX (1999) เดอะ เมทริกซ์ : เพาะพันธุ์มนุษย์เหนือโลก 2199
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/6G7XRPjskR0dALEJOwu.jpg",THE MATRIX เพาะพันธุ์มนุษย์เหนือโลก2199 (1999) พากย์ไทย
+https://lb1.one3up.com/hls/a1cb27618d12f27dfed2a009e21d16aa/a1cb27618d12f27dfed2a009e21d16aa.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/IDMg4TFt8e4dOMedCjA.jpg",THE MATRIX RELOADED สงครามมนุษย์เหนือโลก (2003) พากย์ไทย
+https://lb1.one3up.com/hls/251c23b91c2504ff6c210556638bd2e0/251c23b91c2504ff6c210556638bd2e0.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/6G7XRPjskR0dALEJOwu.jpg",THE MATRIX เพาะพันธุ์มนุษย์เหนือโลก2199 (1999) พากย์ไทยxx
+https://lb1.one3up.com/hls/a1cb27618d12f27dfed2a009e21d16aa/a1cb27618d12f27dfed2a009e21d16aa.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/6G7XRPjskR0dALEJOwu.jpg",THE MATRIX เพาะพันธุ์มนุษย์เหนือโลก2199 (1999) พากย์ไทยxx
+https://lb1.one3up.com/hls/a1cb27618d12f27dfed2a009e21d16aa/a1cb27618d12f27dfed2a009e21d16aa.m3u8
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/6G7XRPjskR0dALEJOwu.jpg",THE MATRIX เพาะพันธุ์มนุษย์เหนือโลก2199 (1999) พากย์ไทยxx
 https://lb1.one3up.com/hls/a1cb27618d12f27dfed2a009e21d16aa/a1cb27618d12f27dfed2a009e21d16aa.m3u8
 
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/10/The-Matrix-Resurrections-2021.jpg",The Matrix Resurrections 2021
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/10/The-Matrix-Resurrections-2021.jpg",The Matrix Resurrections (2021) พากย์ไทย
 https://moviehdfree.xyz/view/7e902ff0-77d2-52db-9b53-6b3913b44c99.m3u8
 
 
