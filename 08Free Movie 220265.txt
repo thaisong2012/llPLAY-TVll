@@ -81,7 +81,7 @@ https://lb1.one3up.com/hls/2c715f2bc9653bcce6248e9ca748952e/2c715f2bc9653bcce624
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Avengers-3-Infinity-War-2018.jpg",AVENGERS 3 INFINITY WAR อเวนเจอร์ส อินฟินิตีวอร์ มหาสงครามอัญมณีล้างจักรวาล (2018) พากย์ไทย
 https://lb1.one3up.com/hls/42772d182cb0b68bd2a96d7bc8f51e6a/42772d182cb0b68bd2a96d7bc8f51e6a.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/04/thumb_2584.jpg",AVENGERS: ENDGAME อเวนเจอร์ส เผด็จศึก (2019) พากย์ไทย
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/04/thumb_2584.jpg",AVENGERS ENDGAME อเวนเจอร์ส เผด็จศึก (2019) พากย์ไทย
 https://lb1.one3up.com/hls/df34b3db3549fec0af86145b4f51034e/df34b3db3549fec0af86145b4f51034e.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3FAFBC0A49231243C13DCC537CF805918DD39E79681650B6DC690A5082F393FA/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy(พากย์ไทย)
