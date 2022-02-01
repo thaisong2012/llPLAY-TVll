@@ -104,19 +104,19 @@ https://we-play.live/watching/movie/spiderman-2-2004
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://images.alphacoders.com/657/thumb-1920-657891.jpg",spiderman 3(พากย์ไทย)
 https://we-play.live/watching/movie/spiderman-3-2007
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://2.bp.blogspot.com/-zbF8HDgRRWQ/Tuj5ZhLs1jI/AAAAAAAAAhI/MiMbXTXeirc/s1600/The+Amazing+Spider-Man_Banner_01.png",The amazing spiderman(พากย์ไทย)
-https://we-play.live/watching/movie/the-amazing-spiderman-2012
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://2.bp.blogspot.com/-zbF8HDgRRWQ/Tuj5ZhLs1jI/AAAAAAAAAhI/MiMbXTXeirc/s1600/The+Amazing+Spider-Man_Banner_01.png",The Amazing Spider-Man 2012 (พากย์ไทย)
+https://p2p.cherry1678.com/view/be8cbd65-958c-5008-bbc5-14cd0e08afcc.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://i.pinimg.com/736x/8e/38/c2/8e38c235314629b322b54cf8333b7c57.jpg",The amazing spiderman 2(พากย์ไทย)
-https://we-play.live/watching/movie/the-amazing-spiderman-2-2014
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://i.pinimg.com/736x/8e/38/c2/8e38c235314629b322b54cf8333b7c57.jpg",The Amazing Spider-Man 2 2014 (พากย์ไทย)
+https://p2p.cherry1678.com/view/9b120704-aa65-5665-aef8-2e08fbd6b44a.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/styles/image_1170x658/public/ct_series_f_primary_image/spiderman_homecoming_-_keyart.jpg?itok=-nQcKrew",spiderman homecoming(พากย์ไทย)
-https://we-play.live/watching/movie/spiderman-homecoming-2017
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/styles/image_1170x658/public/ct_series_f_primary_image/spiderman_homecoming_-_keyart.jpg?itok=-nQcKrew",Spider Man Homecoming 2017 (พากย์ไทย)
+https://lb1.one3up.com/hls/d66d48f29b30bc6c6e928610a3f09e2e/d66d48f29b30bc6c6e928610a3f09e2e.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/tv/tv-films-spider-man-far-from-home-key-art.jpg/jcr:content/renditions/landscape-tablet.935.526.jpg",spiderman far from home(พากย์ไทย)
-https://we-play.live/watching/movie/spiderman-far-from-home-2019
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/tv/tv-films-spider-man-far-from-home-key-art.jpg/jcr:content/renditions/landscape-tablet.935.526.jpg",Spider-Man Far from Home 2019 (พากย์ไทย)
+https://p2p.cherry1678.com/view/0a79e501-fe56-5fb8-a8ca-03e72101a706.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider-Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
 https://mx1.buff-sdd.xyz/media/61ee066b38ac22Bc/720/hls/index.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/03/logan.jpg",Logan โลแกน เดอะ วูล์ฟเวอรีน (2017) พากย์ไทย
