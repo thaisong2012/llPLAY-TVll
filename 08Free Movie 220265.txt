@@ -39,20 +39,14 @@ https://lb1.one3up.com/hls/251c23b91c2504ff6c210556638bd2e0/251c23b91c2504ff6c21
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/CfNirOnWVB3M3GSqhkn.jpg",The Matrix Revolutions ปฏิวัติมนุษย์เหนือโลก (2003) พากย์ไทย
 https://lb1.one3up.com/hls/9522b76ad35df63819e9075a04763ccf/9522b76ad35df63819e9075a04763ccf.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/6G7XRPjskR0dALEJOwu.jpg",THE MATRIX เพาะพันธุ์มนุษย์เหนือโลก2199 (1999) พากย์ไทยxx
-https://lb1.one3up.com/hls/a1cb27618d12f27dfed2a009e21d16aa/a1cb27618d12f27dfed2a009e21d16aa.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/6G7XRPjskR0dALEJOwu.jpg",THE MATRIX เพาะพันธุ์มนุษย์เหนือโลก2199 (1999) พากย์ไทยxx
-https://lb1.one3up.com/hls/a1cb27618d12f27dfed2a009e21d16aa/a1cb27618d12f27dfed2a009e21d16aa.m3u8
-
-
-
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/10/The-Matrix-Resurrections-2021.jpg",The Matrix Resurrections (2021) พากย์ไทย
 https://moviehdfree.xyz/view/7e902ff0-77d2-52db-9b53-6b3913b44c99.m3u8
 
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Venom-2-Let-There-Be-Carnage-20212.jpg",Venom 2 Let There Be Carnage (2021) เวน่อม 2 พากย์ไทย
 https://moviehdfree.xyz/view/0e87c3c2-cdc3-5499-889f-0aafbac11a11.m3u8
+
+
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Eternals-2021.jpg",Eternals (2021) อีเทอร์นอลส์ ฮีโร่พลังเทพเจ้า(พากย์ไทย)
 https://moviehdfree.xyz/files/cbd5ee215786bc1c16787e9a8efcc349_.txt
