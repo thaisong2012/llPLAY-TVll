@@ -1,5 +1,5 @@
 ﻿{	
-name: "⚽  Thai ASIA Sports",	
+name: "⚽ THAI SPORT ⚽",	
 author: "@HELLO TV",	
 image: "https://positioningmag.com/wp-content/uploads/2019/07/1-4.png",	
 url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/02THAISPORTS9.txt",	
