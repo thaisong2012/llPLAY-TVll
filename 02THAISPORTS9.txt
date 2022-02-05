@@ -12,7 +12,7 @@ stations: [
 	
 {	
 name: "1 October 2021",  	
-image: "https://image.flaticon.com/icons/png/512/1809/1809239.png",  	
+image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV82g-q6ryPsTSbFGLTP5c6h5Zp8vwPFfsKg&usqp=CAU",  	
 url: "https://androidtvtech.blogspot.com/",	
 info: "HELLO TV",	
 playInNatPlayer: "true"	
