@@ -13,7 +13,7 @@ stations: [
 {	
 name: "1 October 2021",  	
 image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV82g-q6ryPsTSbFGLTP5c6h5Zp8vwPFfsKg&usqp=CAU",  	
-url: "https://androidtvtech.blogspot.com/",	
+url: "https://ufa77.tv/home",	
 info: "HELLO TV",	
 playInNatPlayer: "true"	
 },	
