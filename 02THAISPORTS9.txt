@@ -68,25 +68,7 @@ referer: "https://www.liveballsod.com/",
 info: "HELLO TV",	
 playInNatPlayer: "true"	
 },
-{	
-name:"EPL1",	
-image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
-url:"https://edge-s1.onlineprostream.com:444/hmcb4rf66f-sport/gd-epl1_720/chunks.m3u8?nimblesessionid=2880641&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDIyIDM6MjI6MzkgUE0maGFzaF92YWx1ZT12YlFUNllMbnJPUmhaYWN5RUJ5a3hBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjgmaWQ9NDMwMDM3Mnxub25lfE1vemlsbGEvNS4wIChpUGFkOyBDUFUgT1MgMTBfMF8xIGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwMi4xLjUwIChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4wIE1vYmlsZS8xNEE0MDMgU2FmYXJpLzYwMi4xfDE2NDMyOTY5NTl8Z2QtZXBsMTcyMHw0MzAwMzcyfDQ5LjIzMC4yMzguMjM1",	
-referer: "https://dooball66.com",	
-userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "HELLO TV",	
-desktop: "true"	
-},	
-	
-{	
-name:"EPL1",	
-image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
-url:"https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/",	
-referer: "https://dooball66.com",	
-userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "HELLO TV",	
-desktop: "true"	
-},
+
 {	
 name:"EPL1",	
 image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
