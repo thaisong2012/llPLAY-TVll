@@ -97,7 +97,7 @@ playInNatPlayer: "true"
 {	
 name: "EPL1",	
 image: "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
-url: "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/737666/epl1",	
+url: "https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-premier-football/#",	
 referer: "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/",	
 info: "HELLO TV",	
 playInNatPlayer: "true"	
