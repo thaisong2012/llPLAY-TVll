@@ -30,7 +30,7 @@ desktop: "true"
 {	
 name: "Bein Sports 1 TH",	
 image: "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",	
-url: "https://www.ball8k.com/channel?ch=bein1",	
+url: "https://ufa77.tv/channel?ch=bein1"	
 referer: "https://www.ball8k.com/",	
 info: "HELLO TV",	
 playInNatPlayer: "true"	
