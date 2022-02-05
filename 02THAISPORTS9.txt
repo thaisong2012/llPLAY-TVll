@@ -91,7 +91,7 @@ desktop: "true"
 {	
 name: "EPL1",	
 image: "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
-url: "https://www.ball8k.com/channel?ch=epl1",	
+url: "https://ufa77.tv/channel?ch=epl1",	
 referer: "https://www.ball8k.com/",	
 info: "HELLO TV",	
 playInNatPlayer: "true"	
