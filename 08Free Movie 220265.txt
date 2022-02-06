@@ -78,6 +78,9 @@ https://lb1.one3up.com/hls/95d6ddf0951032632926b3f2944b04ec/95d6ddf0951032632926
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xVLXBod8IiFrUipLu6R.jpg",THE AVENGERS 1 ดิ อเวนเจอร์ส (2012) พากย์ไทย
 https://lb1.one3up.com/hls/2c715f2bc9653bcce6248e9ca748952e/2c715f2bc9653bcce6248e9ca748952e.m3u8
 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/05/Avengers-2-Age-of-Ultron-2015.jpg",Avengers 2 Age of Ultron มหาศึกอัลตรอนถล่มโลก (2015) พากย์ไทย
+https://moviehdfree.xyz/files/78938d5743d54b13666128d98b426e01_.txt
+
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Avengers-3-Infinity-War-2018.jpg",AVENGERS 3 INFINITY WAR อเวนเจอร์ส อินฟินิตีวอร์ มหาสงครามอัญมณีล้างจักรวาล (2018) พากย์ไทย
 https://lb1.one3up.com/hls/42772d182cb0b68bd2a96d7bc8f51e6a/42772d182cb0b68bd2a96d7bc8f51e6a.m3u8
 
