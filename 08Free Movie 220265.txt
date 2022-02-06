@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/07/880d27dfcf3c63551ec3bdf9b7bd8a86.jpg",Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ พากย์ไทย
+https://p2p.cherry1678.com/files/07b0d02e45d3072de803b4a04acd1128_original.txt
+
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/11/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",Shang-Chi and the Legend of the Ten Rings (2021) ชาง-ชี กับตำนานลับเท็นริงส์ พากย์ไทย
 https://p2p.cherry1678.com/files/6190d634b3e23087b40305585b99b143_original.txt
 
