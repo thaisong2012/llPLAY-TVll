@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/11/No-Time-To-Die-2021.jpg",No time to die (2021) 007 พยัคฆ์ร้ายฝ่าเวลามรณะ
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/11/No-Time-To-Die-2021.jpg",No time to die 007 พยัคฆ์ร้ายฝ่าเวลามรณะ (2021)
 https://p2p.cherry1678.com/files/2add7cf19aa775665c577209cb4d936b_original.txt
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/dSsO0R0seiUzDHfY82N.jpg",SPECTRE (2015) 007 องค์กรลับดับพยัคฆ์ร้าย
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/dSsO0R0seiUzDHfY82N.jpg",SPECTRE 007 องค์กรลับดับพยัคฆ์ร้าย (2015)
 https://lb1.one3up.com/hls/7f6803ecb78540ac885e748fcf18cfb7/7f6803ecb78540ac885e748fcf18cfb7.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/TAAeckGgeVa6zacXktk.jpg",SKYFALL (2012) 007 พลิกรหัสพิฆาตพยัคฆ์ร้าย
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/TAAeckGgeVa6zacXktk.jpg",SKYFALL 007 พลิกรหัสพิฆาตพยัคฆ์ร้าย (2012)
 https://lb1.one3up.com/hls/85771b63e8ec5878029795b00220428a/85771b63e8ec5878029795b00220428a.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/sAIPTM3gms8QpzPrbkX.jpg",Quantum of Solace (2008) 007 พยัคฆ์ร้ายทวงแค้นระห่ำโลก
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/sAIPTM3gms8QpzPrbkX.jpg",Quantum of Solace 007 พยัคฆ์ร้ายทวงแค้นระห่ำโลก (2008)
 https://lb1.one3up.com/hls/73021c80ac657d87f01cccdfe17073db/73021c80ac657d87f01cccdfe17073db.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/VXHrQiiZm0b1ktMg0Ci.jpg",Casino Royale (2006)007 พยัคฆ์ร้ายเดิมพันระห่ำโลก
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/VXHrQiiZm0b1ktMg0Ci.jpg",Casino Royale 007 พยัคฆ์ร้ายเดิมพันระห่ำโลก (2006)
 https://lb1.one3up.com/hls/dbd5e59de68ac416b42c6f2d361b0aa2/dbd5e59de68ac416b42c6f2d361b0aa2.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/iYCoSUI3PKanim11zvx.jpg",Die Another Day (2002) 007 พยัคฆ์ร้ายท้ามรณะ
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/iYCoSUI3PKanim11zvx.jpg",Die Another Day 007 พยัคฆ์ร้ายท้ามรณะ (2002)
 https://cdn.badroids.is/vod/disk2/movies/jb7dad.mp4
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xKnKivKMoYJjIpxmKNG.jpg",THE WORLD IS NOT ENOUGH (1999) พยัคฆ์ร้ายดับแผนครองโลก
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xKnKivKMoYJjIpxmKNG.jpg",THE WORLD IS NOT ENOUGH พยัคฆ์ร้ายดับแผนครองโลก (1999)
 https://cdn.badroids.is/vod/disk2/movies/jb7wne.mp4
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5B5F22E0E37CF72BA1D2E1A8778BA6100C4ED9AC22245DFD8C84AE814DC63F8B/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 1 (พากย์ไทย)
@@ -108,28 +108,28 @@ https://p2p.cherry1678.com/files/a7a52f71ef4d670aa696b595c3ece618_original.txt
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E81041AC780ECCC4E38FD82B4C35D20932F0EA87318B8F3BE90C907EAF271AA5/scale?width=1200&aspectRatio=1.78&format=jpeg",Captain marvel(พากย์ไทย)
 https://p2p.cherry1678.com/files/eb3dc59108ef165f513df9305715699a_original.txt
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://image.tmdb.org/t/p/original//muth4OYamXf41G2evdrLEg8d3om.jpg",Spider-Man 2002 (พากย์ไทย)
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://image.tmdb.org/t/p/original//muth4OYamXf41G2evdrLEg8d3om.jpg",Spider-Man (2002) พากย์ไทย
 https://p2p.cherry1678.com/view/0793d05f-e7b8-502d-bcd9-3f77449a8a47.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.metalbridges.com/wp-content/uploads/2014/01/The-Amazing-Spider-Man-2-Full-HD-Poster.jpg",Spider-Man 2 2004 (พากย์ไทย)
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.metalbridges.com/wp-content/uploads/2014/01/The-Amazing-Spider-Man-2-Full-HD-Poster.jpg",Spider-Man 2 (2004) พากย์ไทย
 https://p2p.cherry1678.com/view/790d512b-64b8-5222-b221-cf2ce0cac2b3.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://images.alphacoders.com/657/thumb-1920-657891.jpg",Spider-Man 3 2007 (พากย์ไทย)
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://images.alphacoders.com/657/thumb-1920-657891.jpg",Spider-Man 3 (2007) (พากย์ไทย
 https://p2p.cherry1678.com/view/58dd2d74-792d-5049-904e-81f3b7afc88e.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://2.bp.blogspot.com/-zbF8HDgRRWQ/Tuj5ZhLs1jI/AAAAAAAAAhI/MiMbXTXeirc/s1600/The+Amazing+Spider-Man_Banner_01.png",The Amazing Spider-Man 2012 (พากย์ไทย)
 https://p2p.cherry1678.com/view/be8cbd65-958c-5008-bbc5-14cd0e08afcc.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://i.pinimg.com/736x/8e/38/c2/8e38c235314629b322b54cf8333b7c57.jpg",The Amazing Spider-Man 2 2014 (พากย์ไทย)
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://i.pinimg.com/736x/8e/38/c2/8e38c235314629b322b54cf8333b7c57.jpg",The Amazing Spider-Man 2 (2014) พากย์ไทย
 https://p2p.cherry1678.com/view/9b120704-aa65-5665-aef8-2e08fbd6b44a.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/styles/image_1170x658/public/ct_series_f_primary_image/spiderman_homecoming_-_keyart.jpg?itok=-nQcKrew",Spider Man Homecoming 2017 (พากย์ไทย)
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/styles/image_1170x658/public/ct_series_f_primary_image/spiderman_homecoming_-_keyart.jpg?itok=-nQcKrew",Spider Man Homecoming (2017) พากย์ไทย
 https://lb1.one3up.com/hls/d66d48f29b30bc6c6e928610a3f09e2e/d66d48f29b30bc6c6e928610a3f09e2e.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/tv/tv-films-spider-man-far-from-home-key-art.jpg/jcr:content/renditions/landscape-tablet.935.526.jpg",Spider-Man Far from Home 2019 (พากย์ไทย)
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/tv/tv-films-spider-man-far-from-home-key-art.jpg/jcr:content/renditions/landscape-tablet.935.526.jpg",Spider-Man Far from Home (2019) พากย์ไทย
 https://p2p.cherry1678.com/view/0a79e501-fe56-5fb8-a8ca-03e72101a706.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider-Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider-Man No Way Home สไปเดอร์แมน โน เวย์ โฮม (2021) พากย์ไทย
 https://mx1.buff-sdd.xyz/media/61ee066b38ac22Bc/720/hls/index.m3u8
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/03/logan.jpg",Logan โลแกน เดอะ วูล์ฟเวอรีน (2017) พากย์ไทย
