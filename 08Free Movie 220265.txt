@@ -87,27 +87,26 @@ https://lb1.one3up.com/hls/42772d182cb0b68bd2a96d7bc8f51e6a/42772d182cb0b68bd2a9
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/04/thumb_2584.jpg",AVENGERS ENDGAME อเวนเจอร์ส เผด็จศึก (2019) พากย์ไทย
 https://lb1.one3up.com/hls/df34b3db3549fec0af86145b4f51034e/df34b3db3549fec0af86145b4f51034e.m3u8
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3FAFBC0A49231243C13DCC537CF805918DD39E79681650B6DC690A5082F393FA/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy(พากย์ไทย)
-https://we-play.live/watching/movie/guardians-of-the-galaxy-2014
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3FAFBC0A49231243C13DCC537CF805918DD39E79681650B6DC690A5082F393FA/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy (2014) พากย์ไทย
+https://p2p.cherry1678.com/files/01222900dd1ec53ec090932e2529d019_original.txt
 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A0EB6E13C739DD631FABFE831E32DDB2944B5BBA295041E3A79C3ABDD79BB702/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy vol 2 (2017) พากย์ไทย
+https://p2p.cherry1678.com/files/e28172dc2bdf60dc0135282fd786209c_original.txt
 
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C5B56444C580F7B569E3764D1BE6456EC77241C664A07E02B570AE74DDD0772D/scale?width=1200&aspectRatio=1.78&format=jpeg",Antman(พากย์ไทย)
-https://moviefree4k.com/Ant-Man-%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%A1
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C5B56444C580F7B569E3764D1BE6456EC77241C664A07E02B570AE74DDD0772D/scale?width=1200&aspectRatio=1.78&format=jpeg",Antman (2015) พากย์ไทย
+https://p2p.cherry1678.com/files/15f07d4d313a147374e6a169e439ef61_original.txt
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/604BE9FE5D4AE6BC8D7A222EEA8CF081DEBC2C3CEC1B30401315E62CEB6B9124/scale?width=1200&aspectRatio=1.78&format=jpeg",Ant Man and the wasp (2018) พากย์ไทย
+https://p2p.cherry1678.com/files/a5e058a8ba33d81b62d497038990f47c_original.txt
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B38531224478FFF92A483CBD9CCF2C36A5CE4DD97015BDEA6D8C327E66924521/scale?width=1200&aspectRatio=1.78&format=jpeg",Doctor strange(พากย์ไทย)
-https://we-play.live/watching/movie/doctor-strange-2016
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A0EB6E13C739DD631FABFE831E32DDB2944B5BBA295041E3A79C3ABDD79BB702/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy vol 2(พากย์ไทย)
-https://we-play.live/watching/movie/guardians-of-the-galaxy-vol-2-2017
+https://p2p.cherry1678.com/files/a18c6acd774ca23cbae3ec05f702a918_original.txt
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E90552AB059BC4AD0B3D1CBC415E613970758C609053CDBEBF253A5524B2AF84/scale?width=1200&aspectRatio=1.78&format=jpeg",Black panther(พากย์ไทย)
-https://moviefree4k.com/Black-Panther-%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/604BE9FE5D4AE6BC8D7A222EEA8CF081DEBC2C3CEC1B30401315E62CEB6B9124/scale?width=1200&aspectRatio=1.78&format=jpeg",Ant man and the wasp(พากย์ไทย)
-https://we-play.live/watching/movie/antman-and-the-wasp-2018
+https://p2p.cherry1678.com/files/a7a52f71ef4d670aa696b595c3ece618_original.txt
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E81041AC780ECCC4E38FD82B4C35D20932F0EA87318B8F3BE90C907EAF271AA5/scale?width=1200&aspectRatio=1.78&format=jpeg",Captain marvel(พากย์ไทย)
-https://we-play.live/watching/movie/captain-marvel-2019
+https://p2p.cherry1678.com/files/eb3dc59108ef165f513df9305715699a_original.txt
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://image.tmdb.org/t/p/original//muth4OYamXf41G2evdrLEg8d3om.jpg",Spider-Man 2002 (พากย์ไทย)
 https://p2p.cherry1678.com/view/0793d05f-e7b8-502d-bcd9-3f77449a8a47.m3u8
