@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/11/No-Time-To-Die-2021.jpg",No time to die (2021) 007 พยัคฆ์ร้ายฝ่าเวลามรณะ
-https://lb1.one3up.com/hls/d347b5a57bb5904d91e40459aed6df34/d347b5a57bb5904d91e40459aed6df34.m3u8
+https://p2p.cherry1678.com/files/2add7cf19aa775665c577209cb4d936b_original.txt
 
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/dSsO0R0seiUzDHfY82N.jpg",SPECTRE (2015) 007 องค์กรลับดับพยัคฆ์ร้าย
 https://lb1.one3up.com/hls/7f6803ecb78540ac885e748fcf18cfb7/7f6803ecb78540ac885e748fcf18cfb7.m3u8
