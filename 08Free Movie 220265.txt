@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/11/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",Shang-Chi and the Legend of the Ten Rings (2021) ชาง-ชี กับตำนานลับเท็นริงส์ พากย์ไทย
+https://p2p.cherry1678.com/files/6190d634b3e23087b40305585b99b143_original.txt
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/08/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg",The Suicide Squad (2021) เดอะ ซุยไซด์ สควอด พากย์ไทย
+https://p2p.cherry1678.com/files/59eb5b9f9b70c9f0513221731f9414a6_original.txt
+
 #EXTINF:-1 group-title="Marvel" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/10/6254733c5ef981c25fd4373c4388dcf7.jpg",The Legend Of Deification (2021) ตำนานราชาแห่งสวรรค์ พากย์ไทย
 https://p2p.cherry1678.com/files/54f2c68de69d0dfa22c95e993f301eed_original.txt
 
