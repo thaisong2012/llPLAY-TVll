@@ -25,6 +25,13 @@
 },
 
 {
+"name": "THAI SPORT2",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV82g-q6ryPsTSbFGLTP5c6h5Zp8vwPFfsKg&usqp=CAU",
+"url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/02THAISPORTS9.txt",
+"import": false
+},
+
+{
 "name": "DOCUMENTARY",
 "image": "https://img.freepik.com/free-vector/flat-design-world-wildlife-day_23-2148845226.jpg",
 "url": "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/03DOCUMENTARY8.txt",
