@@ -1,183 +1,184 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Ghostbusters-Afterlife-2021.jpg",Ghostbusters Afterlife (2021) โกสต์บัสเตอร์ ปลุกพลังล่าท้าผี พากย์ไทย
-https://moviehdfree.xyz/view/e8e12401-4796-5324-b116-703912e21e7a.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/07/880d27dfcf3c63551ec3bdf9b7bd8a86.jpg",Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ พากย์ไทย
-https://p2p.cherry1678.com/files/07b0d02e45d3072de803b4a04acd1128_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/11/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",Shang-Chi and the Legend of the Ten Rings (2021) ชาง-ชี กับตำนานลับเท็นริงส์ พากย์ไทย
-https://p2p.cherry1678.com/files/6190d634b3e23087b40305585b99b143_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/08/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg",The Suicide Squad (2021) เดอะ ซุยไซด์ สควอด พากย์ไทย
-https://p2p.cherry1678.com/files/59eb5b9f9b70c9f0513221731f9414a6_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/10/6254733c5ef981c25fd4373c4388dcf7.jpg",The Legend Of Deification (2021) ตำนานราชาแห่งสวรรค์ พากย์ไทย
-https://p2p.cherry1678.com/files/54f2c68de69d0dfa22c95e993f301eed_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/07/jp5x7by3mwmE65RkOORME7oKy9C.jpg",BLACK WINDOW แบล็ค วินโดว์ (2021) พากย์ไทย
-https://p2p.cherry1678.com/files/1dc9aa5594fd095f78487473e97b51ec_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/11/No-Time-To-Die-2021.jpg",No time to die 007 พยัคฆ์ร้ายฝ่าเวลามรณะ (2021)
-https://p2p.cherry1678.com/files/2add7cf19aa775665c577209cb4d936b_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/dSsO0R0seiUzDHfY82N.jpg",SPECTRE 007 องค์กรลับดับพยัคฆ์ร้าย (2015)
-https://lb1.one3up.com/hls/7f6803ecb78540ac885e748fcf18cfb7/7f6803ecb78540ac885e748fcf18cfb7.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/TAAeckGgeVa6zacXktk.jpg",SKYFALL 007 พลิกรหัสพิฆาตพยัคฆ์ร้าย (2012)
-https://lb1.one3up.com/hls/85771b63e8ec5878029795b00220428a/85771b63e8ec5878029795b00220428a.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/sAIPTM3gms8QpzPrbkX.jpg",Quantum of Solace 007 พยัคฆ์ร้ายทวงแค้นระห่ำโลก (2008)
-https://lb1.one3up.com/hls/73021c80ac657d87f01cccdfe17073db/73021c80ac657d87f01cccdfe17073db.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/VXHrQiiZm0b1ktMg0Ci.jpg",Casino Royale 007 พยัคฆ์ร้ายเดิมพันระห่ำโลก (2006)
-https://lb1.one3up.com/hls/dbd5e59de68ac416b42c6f2d361b0aa2/dbd5e59de68ac416b42c6f2d361b0aa2.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/iYCoSUI3PKanim11zvx.jpg",Die Another Day 007 พยัคฆ์ร้ายท้ามรณะ (2002)
-https://cdn.badroids.is/vod/disk2/movies/jb7dad.mp4
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xKnKivKMoYJjIpxmKNG.jpg",THE WORLD IS NOT ENOUGH พยัคฆ์ร้ายดับแผนครองโลก (1999)
-https://cdn.badroids.is/vod/disk2/movies/jb7wne.mp4
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5B5F22E0E37CF72BA1D2E1A8778BA6100C4ED9AC22245DFD8C84AE814DC63F8B/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 1 (พากย์ไทย)
-https://p2p.cherry1678.com/files/fa80ca3becab46e14a4832c509539f67_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CA328C5E2D42E7A7B46417E87B31CA32CA81EF592D0C63F0B6111A6D68869C78/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 2 (พากย์ไทย)
-https://p2p.cherry1678.com/files/a87d8ddd72d5cfd3f5961e753f899e89_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7EE7CA07D843F608FC608F602AF4B5A21B26E9A793BEA710F6523BA33926F7CB/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 3 (พากย์ไทย)
-https://p2p.cherry1678.com/files/62208d35b4ba2a93f664b80ba9507460_original.txt
-
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/6G7XRPjskR0dALEJOwu.jpg",THE MATRIX เพาะพันธุ์มนุษย์เหนือโลก2199 (1999) พากย์ไทย
-https://lb1.one3up.com/hls/a1cb27618d12f27dfed2a009e21d16aa/a1cb27618d12f27dfed2a009e21d16aa.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/IDMg4TFt8e4dOMedCjA.jpg",THE MATRIX RELOADED สงครามมนุษย์เหนือโลก (2003) พากย์ไทย
-https://lb1.one3up.com/hls/251c23b91c2504ff6c210556638bd2e0/251c23b91c2504ff6c210556638bd2e0.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/CfNirOnWVB3M3GSqhkn.jpg",The Matrix Revolutions ปฏิวัติมนุษย์เหนือโลก (2003) พากย์ไทย
-https://lb1.one3up.com/hls/9522b76ad35df63819e9075a04763ccf/9522b76ad35df63819e9075a04763ccf.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/10/The-Matrix-Resurrections-2021.jpg",The Matrix Resurrections (2021) พากย์ไทย
-https://moviehdfree.xyz/view/7e902ff0-77d2-52db-9b53-6b3913b44c99.m3u8
-
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Venom-2-Let-There-Be-Carnage-20212.jpg",Venom 2 Let There Be Carnage (2021) เวน่อม 2 พากย์ไทย
-https://moviehdfree.xyz/view/0e87c3c2-cdc3-5499-889f-0aafbac11a11.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/10/Venom-2018.jpg",Venom 1 (2018) พากย์ไทย
-https://lb1.one3up.com/hls/c47fdf0eb7421020cae518fbe4d9b5e6/c47fdf0eb7421020cae518fbe4d9b5e6.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Eternals-2021.jpg",Eternals (2021) อีเทอร์นอลส์ ฮีโร่พลังเทพเจ้า(พากย์ไทย)
-https://moviehdfree.xyz/files/cbd5ee215786bc1c16787e9a8efcc349_.txt
-
-
-
-
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/iYJghzoYEeJjtqpotEZ.jpg",THOR 1 ธอร์ 1 เทพเจ้าสายฟ้า (2011) พากย์ไทย
-https://lb1.one3up.com/hls/5fc73b68d397b7eff063a06a8c76218c/5fc73b68d397b7eff063a06a8c76218c.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/UB5q7QHzw7bShFPsnn0.jpg",THOR 2: THE DARK WORLD ธอร์ 2 เทพเจ้าสายฟ้าโลกาทมิฬ (2013) พากย์ไทย
-https://lb1.one3up.com/hls/fea352bc6f0d948741fad80188a59f99/fea352bc6f0d948741fad80188a59f99.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/3RQ3useGOT7f7hEsGgN.jpg",THOR RAGNAROK ศึกอวสานเทพเจ้า (2017) พากย์ไทย
-https://lb1.one3up.com/hls/92defc1d987ffadee9388cc97d31c833/92defc1d987ffadee9388cc97d31c833.m3u8
-
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/XGsK1QFFQ6pi1zft7Bp.jpg",CAPTAIN AMERICA 1 THE FIRST AVENGER กัปตันอเมริกา 1 อเวนเจอร์ที่ 1  (2011) พากย์ไทย
-https://lb1.one3up.com/hls/66004e5d7ec3ac7603b27dcc0d1e0159/66004e5d7ec3ac7603b27dcc0d1e0159.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/2SfZP8iczhLaZM3OmXz.jpg",CAPTAIN AMERICA 2 THE WINTER SOLDIER กัปตันอเมริกา 2 เดอะวินเทอร์โซลเจอร์ (2014) พากย์ไทย
-https://lb1.one3up.com/hls/f8963e04a3b206963d5b9ee6ca445e86/f8963e04a3b206963d5b9ee6ca445e86.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Pf8CwgYsVc5x0nNI0qx.jpg",CAPTAIN AMERICA 3 : CIVIL WAR กัปตัน อเมริกา 3 ศึกฮีโร่ระห่ำโลก (2016) พากย์ไทย
-https://lb1.one3up.com/hls/95d6ddf0951032632926b3f2944b04ec/95d6ddf0951032632926b3f2944b04ec.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xVLXBod8IiFrUipLu6R.jpg",THE AVENGERS 1 ดิ อเวนเจอร์ส (2012) พากย์ไทย
-https://lb1.one3up.com/hls/2c715f2bc9653bcce6248e9ca748952e/2c715f2bc9653bcce6248e9ca748952e.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/05/Avengers-2-Age-of-Ultron-2015.jpg",Avengers 2 Age of Ultron มหาศึกอัลตรอนถล่มโลก (2015) พากย์ไทย
-https://moviehdfree.xyz/files/78938d5743d54b13666128d98b426e01_.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Avengers-3-Infinity-War-2018.jpg",AVENGERS 3 INFINITY WAR อเวนเจอร์ส อินฟินิตีวอร์ มหาสงครามอัญมณีล้างจักรวาล (2018) พากย์ไทย
-https://lb1.one3up.com/hls/42772d182cb0b68bd2a96d7bc8f51e6a/42772d182cb0b68bd2a96d7bc8f51e6a.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/04/thumb_2584.jpg",AVENGERS ENDGAME อเวนเจอร์ส เผด็จศึก (2019) พากย์ไทย
-https://lb1.one3up.com/hls/df34b3db3549fec0af86145b4f51034e/df34b3db3549fec0af86145b4f51034e.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3FAFBC0A49231243C13DCC537CF805918DD39E79681650B6DC690A5082F393FA/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy (2014) พากย์ไทย
-https://p2p.cherry1678.com/files/01222900dd1ec53ec090932e2529d019_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A0EB6E13C739DD631FABFE831E32DDB2944B5BBA295041E3A79C3ABDD79BB702/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy vol 2 (2017) พากย์ไทย
-https://p2p.cherry1678.com/files/e28172dc2bdf60dc0135282fd786209c_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C5B56444C580F7B569E3764D1BE6456EC77241C664A07E02B570AE74DDD0772D/scale?width=1200&aspectRatio=1.78&format=jpeg",Antman (2015) พากย์ไทย
-https://p2p.cherry1678.com/files/15f07d4d313a147374e6a169e439ef61_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/604BE9FE5D4AE6BC8D7A222EEA8CF081DEBC2C3CEC1B30401315E62CEB6B9124/scale?width=1200&aspectRatio=1.78&format=jpeg",Ant Man and the wasp (2018) พากย์ไทย
-https://p2p.cherry1678.com/files/a5e058a8ba33d81b62d497038990f47c_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B38531224478FFF92A483CBD9CCF2C36A5CE4DD97015BDEA6D8C327E66924521/scale?width=1200&aspectRatio=1.78&format=jpeg",Doctor strange(พากย์ไทย)
-https://p2p.cherry1678.com/files/a18c6acd774ca23cbae3ec05f702a918_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E90552AB059BC4AD0B3D1CBC415E613970758C609053CDBEBF253A5524B2AF84/scale?width=1200&aspectRatio=1.78&format=jpeg",Black panther(พากย์ไทย)
-https://p2p.cherry1678.com/files/a7a52f71ef4d670aa696b595c3ece618_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E81041AC780ECCC4E38FD82B4C35D20932F0EA87318B8F3BE90C907EAF271AA5/scale?width=1200&aspectRatio=1.78&format=jpeg",Captain marvel(พากย์ไทย)
-https://p2p.cherry1678.com/files/eb3dc59108ef165f513df9305715699a_original.txt
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://image.tmdb.org/t/p/original//muth4OYamXf41G2evdrLEg8d3om.jpg",Spider-Man (2002) พากย์ไทย
-https://p2p.cherry1678.com/view/0793d05f-e7b8-502d-bcd9-3f77449a8a47.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.metalbridges.com/wp-content/uploads/2014/01/The-Amazing-Spider-Man-2-Full-HD-Poster.jpg",Spider-Man 2 (2004) พากย์ไทย
-https://p2p.cherry1678.com/view/790d512b-64b8-5222-b221-cf2ce0cac2b3.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://images.alphacoders.com/657/thumb-1920-657891.jpg",Spider-Man 3 (2007) (พากย์ไทย
-https://p2p.cherry1678.com/view/58dd2d74-792d-5049-904e-81f3b7afc88e.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://2.bp.blogspot.com/-zbF8HDgRRWQ/Tuj5ZhLs1jI/AAAAAAAAAhI/MiMbXTXeirc/s1600/The+Amazing+Spider-Man_Banner_01.png",The Amazing Spider-Man 2012 (พากย์ไทย)
-https://p2p.cherry1678.com/view/be8cbd65-958c-5008-bbc5-14cd0e08afcc.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://i.pinimg.com/736x/8e/38/c2/8e38c235314629b322b54cf8333b7c57.jpg",The Amazing Spider-Man 2 (2014) พากย์ไทย
-https://p2p.cherry1678.com/view/9b120704-aa65-5665-aef8-2e08fbd6b44a.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/styles/image_1170x658/public/ct_series_f_primary_image/spiderman_homecoming_-_keyart.jpg?itok=-nQcKrew",Spider Man Homecoming (2017) พากย์ไทย
-https://lb1.one3up.com/hls/d66d48f29b30bc6c6e928610a3f09e2e/d66d48f29b30bc6c6e928610a3f09e2e.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/tv/tv-films-spider-man-far-from-home-key-art.jpg/jcr:content/renditions/landscape-tablet.935.526.jpg",Spider-Man Far from Home (2019) พากย์ไทย
-https://p2p.cherry1678.com/view/0a79e501-fe56-5fb8-a8ca-03e72101a706.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider-Man No Way Home สไปเดอร์แมน โน เวย์ โฮม (2021) พากย์ไทย
-https://mx1.buff-sdd.xyz/media/61ee066b38ac22Bc/720/hls/index.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/03/logan.jpg",Logan โลแกน เดอะ วูล์ฟเวอรีน (2017) พากย์ไทย
-https://p2p.cherry1678.com/view/b892de70-2db9-5ab8-9618-136dd3c16df5.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F125B2D8C8D6907B63842F4A9F02EB321472C86C7AB97B01636D7D6655BAEB88/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Dark phoenix (2019) พากย์ไทย
-https://lb1.one3up.com/hls/4b43d5566eef4dc967fe8f2c997b48b5/4b43d5566eef4dc967fe8f2c997b48b5.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FDAC925D40960AAF0BC99F7DEBAAAF08925434E0CF2A4F85106E63E5BA784F69/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Apocalypse (2016) พากย์ไทย
-https://p2p.cherry1678.com/view/c59ba366-c639-5d33-b3f5-d6a8fa74bf80.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6D04FC0DEF25924AD09D4A79295564197B9F9B8736C037D739C5A42FC727FACB/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 7 Days of future fast (2014) พากย์ไทย
-https://p2p.cherry1678.com/view/532813e1-c475-58d3-ab8b-ed61e91f3666.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2020/06/the-wolverine.jpg",X MEN 6 The Wolverine (2013) พากย์ไทย
-https://lb1.one3up.com/hls/e72b4f410b5f92627a922a139ba3983c/e72b4f410b5f92627a922a139ba3983c.m3u8
-
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F56864AF85BC87F91A236075684D2794D9793F1838B70517937AD2AA5FF2BDF/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 5 First class (2011) พากย์ไทย
-https://p2p.cherry1678.com/view/13456409-0b03-5aeb-be05-62c7b3e51996.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99455C1AEE676E171A91F16D6B2845B66C1228B3726FDBC01EB011716BE27A56/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 4 Origins wolverine (2009) พากย์ไทย
-https://p2p.cherry1678.com/view/4b902443-ecad-5a0d-8bc3-309f1ed97713.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/05/The-Last-Stand.jpg",X MEN 3 The last stand (2006) พากย์ไทย
-https://p2p.cherry1678.com/view/c3f7bcfb-5a07-5734-a80f-9d0151265cd3.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F352567CD85F1D533D0E588F35EE6A1B4588F65314ECC2EF33241FB9BB98CB4A/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 2 United (2003) พากย์ไทย
-https://p2p.cherry1678.com/view/4c5d64f8-8a73-536d-be9d-b4a0a4d7132a.m3u8
-
-#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/328A8652DAF741DEAE89ABB407E7868478C7E4ED847BAAD7B2377B71C680FB72/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 1 ศึกมนุษย์พลังเหนือโลก (2000) พากย์ไทย
-https://p2p.cherry1678.com/view/13957adf-f07e-5748-acde-2b8ed3474f7d.m3u8
+#EXTM3U								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Ghostbusters-Afterlife-2021.jpg",Ghostbusters Afterlife (2021) โกสต์บัสเตอร์ ปลุกพลังล่าท้าผี พากย์ไทย								
+https://moviehdfree.xyz/view/e8e12401-4796-5324-b116-703912e21e7a.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/07/880d27dfcf3c63551ec3bdf9b7bd8a86.jpg",Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ พากย์ไทย								
+https://p2p.cherry1678.com/files/07b0d02e45d3072de803b4a04acd1128_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/11/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",Shang-Chi and the Legend of the Ten Rings (2021) ชาง-ชี กับตำนานลับเท็นริงส์ พากย์ไทย								
+https://p2p.cherry1678.com/files/6190d634b3e23087b40305585b99b143_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/08/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg",The Suicide Squad (2021) เดอะ ซุยไซด์ สควอด พากย์ไทย								
+https://p2p.cherry1678.com/files/59eb5b9f9b70c9f0513221731f9414a6_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/10/6254733c5ef981c25fd4373c4388dcf7.jpg",The Legend Of Deification (2021) ตำนานราชาแห่งสวรรค์ พากย์ไทย								
+https://p2p.cherry1678.com/files/54f2c68de69d0dfa22c95e993f301eed_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/07/jp5x7by3mwmE65RkOORME7oKy9C.jpg",BLACK WINDOW แบล็ค วินโดว์ (2021) พากย์ไทย								
+https://p2p.cherry1678.com/files/1dc9aa5594fd095f78487473e97b51ec_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/11/No-Time-To-Die-2021.jpg",No time to die 007 พยัคฆ์ร้ายฝ่าเวลามรณะ (2021)								
+https://p2p.cherry1678.com/files/2add7cf19aa775665c577209cb4d936b_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/dSsO0R0seiUzDHfY82N.jpg",SPECTRE 007 องค์กรลับดับพยัคฆ์ร้าย (2015)								
+https://lb1.one3up.com/hls/7f6803ecb78540ac885e748fcf18cfb7/7f6803ecb78540ac885e748fcf18cfb7.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/TAAeckGgeVa6zacXktk.jpg",SKYFALL 007 พลิกรหัสพิฆาตพยัคฆ์ร้าย (2012)								
+https://lb1.one3up.com/hls/85771b63e8ec5878029795b00220428a/85771b63e8ec5878029795b00220428a.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/sAIPTM3gms8QpzPrbkX.jpg",Quantum of Solace 007 พยัคฆ์ร้ายทวงแค้นระห่ำโลก (2008)								
+https://lb1.one3up.com/hls/73021c80ac657d87f01cccdfe17073db/73021c80ac657d87f01cccdfe17073db.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/VXHrQiiZm0b1ktMg0Ci.jpg",Casino Royale 007 พยัคฆ์ร้ายเดิมพันระห่ำโลก (2006)								
+https://lb1.one3up.com/hls/dbd5e59de68ac416b42c6f2d361b0aa2/dbd5e59de68ac416b42c6f2d361b0aa2.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/iYCoSUI3PKanim11zvx.jpg",Die Another Day 007 พยัคฆ์ร้ายท้ามรณะ (2002)								
+https://cdn.badroids.is/vod/disk2/movies/jb7dad.mp4								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xKnKivKMoYJjIpxmKNG.jpg",THE WORLD IS NOT ENOUGH พยัคฆ์ร้ายดับแผนครองโลก (1999)								
+https://cdn.badroids.is/vod/disk2/movies/jb7wne.mp4								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5B5F22E0E37CF72BA1D2E1A8778BA6100C4ED9AC22245DFD8C84AE814DC63F8B/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 1 (พากย์ไทย)								
+https://p2p.cherry1678.com/files/fa80ca3becab46e14a4832c509539f67_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CA328C5E2D42E7A7B46417E87B31CA32CA81EF592D0C63F0B6111A6D68869C78/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 2 (พากย์ไทย)								
+https://p2p.cherry1678.com/files/a87d8ddd72d5cfd3f5961e753f899e89_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7EE7CA07D843F608FC608F602AF4B5A21B26E9A793BEA710F6523BA33926F7CB/scale?width=1200&aspectRatio=1.78&format=jpeg",Iron Man มหาประลัย คนเกราะเหล็ก 3 (พากย์ไทย)								
+https://p2p.cherry1678.com/files/62208d35b4ba2a93f664b80ba9507460_original.txt								
+								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/6G7XRPjskR0dALEJOwu.jpg",THE MATRIX เพาะพันธุ์มนุษย์เหนือโลก2199 (1999) พากย์ไทย								
+https://lb1.one3up.com/hls/a1cb27618d12f27dfed2a009e21d16aa/a1cb27618d12f27dfed2a009e21d16aa.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/IDMg4TFt8e4dOMedCjA.jpg",THE MATRIX RELOADED สงครามมนุษย์เหนือโลก (2003) พากย์ไทย								
+https://lb1.one3up.com/hls/251c23b91c2504ff6c210556638bd2e0/251c23b91c2504ff6c210556638bd2e0.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/CfNirOnWVB3M3GSqhkn.jpg",The Matrix Revolutions ปฏิวัติมนุษย์เหนือโลก (2003) พากย์ไทย								
+https://lb1.one3up.com/hls/9522b76ad35df63819e9075a04763ccf/9522b76ad35df63819e9075a04763ccf.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/10/The-Matrix-Resurrections-2021.jpg",The Matrix Resurrections (2021) พากย์ไทย								
+https://moviehdfree.xyz/view/7e902ff0-77d2-52db-9b53-6b3913b44c99.m3u8								
+								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Venom-2-Let-There-Be-Carnage-20212.jpg",Venom 2 Let There Be Carnage (2021) เวน่อม 2 พากย์ไทย								
+https://moviehdfree.xyz/view/0e87c3c2-cdc3-5499-889f-0aafbac11a11.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/10/Venom-2018.jpg",Venom 1 (2018) พากย์ไทย								
+https://lb1.one3up.com/hls/c47fdf0eb7421020cae518fbe4d9b5e6/c47fdf0eb7421020cae518fbe4d9b5e6.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Eternals-2021.jpg",Eternals (2021) อีเทอร์นอลส์ ฮีโร่พลังเทพเจ้า(พากย์ไทย)								
+https://moviehdfree.xyz/files/cbd5ee215786bc1c16787e9a8efcc349_.txt								
+								
+								
+								
+								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/iYJghzoYEeJjtqpotEZ.jpg",THOR 1 ธอร์ 1 เทพเจ้าสายฟ้า (2011) พากย์ไทย								
+https://lb1.one3up.com/hls/5fc73b68d397b7eff063a06a8c76218c/5fc73b68d397b7eff063a06a8c76218c.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/UB5q7QHzw7bShFPsnn0.jpg",THOR 2: THE DARK WORLD ธอร์ 2 เทพเจ้าสายฟ้าโลกาทมิฬ (2013) พากย์ไทย								
+https://lb1.one3up.com/hls/fea352bc6f0d948741fad80188a59f99/fea352bc6f0d948741fad80188a59f99.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/3RQ3useGOT7f7hEsGgN.jpg",THOR RAGNAROK ศึกอวสานเทพเจ้า (2017) พากย์ไทย								
+https://lb1.one3up.com/hls/92defc1d987ffadee9388cc97d31c833/92defc1d987ffadee9388cc97d31c833.m3u8								
+								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/XGsK1QFFQ6pi1zft7Bp.jpg",CAPTAIN AMERICA 1 THE FIRST AVENGER กัปตันอเมริกา 1 อเวนเจอร์ที่ 1  (2011) พากย์ไทย								
+https://lb1.one3up.com/hls/66004e5d7ec3ac7603b27dcc0d1e0159/66004e5d7ec3ac7603b27dcc0d1e0159.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/2SfZP8iczhLaZM3OmXz.jpg",CAPTAIN AMERICA 2 THE WINTER SOLDIER กัปตันอเมริกา 2 เดอะวินเทอร์โซลเจอร์ (2014) พากย์ไทย								
+https://lb1.one3up.com/hls/f8963e04a3b206963d5b9ee6ca445e86/f8963e04a3b206963d5b9ee6ca445e86.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Pf8CwgYsVc5x0nNI0qx.jpg",CAPTAIN AMERICA 3 : CIVIL WAR กัปตัน อเมริกา 3 ศึกฮีโร่ระห่ำโลก (2016) พากย์ไทย								
+https://lb1.one3up.com/hls/95d6ddf0951032632926b3f2944b04ec/95d6ddf0951032632926b3f2944b04ec.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xVLXBod8IiFrUipLu6R.jpg",THE AVENGERS 1 ดิ อเวนเจอร์ส (2012) พากย์ไทย								
+https://lb1.one3up.com/hls/2c715f2bc9653bcce6248e9ca748952e/2c715f2bc9653bcce6248e9ca748952e.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/05/Avengers-2-Age-of-Ultron-2015.jpg",Avengers 2 Age of Ultron มหาศึกอัลตรอนถล่มโลก (2015) พากย์ไทย								
+https://moviehdfree.xyz/files/78938d5743d54b13666128d98b426e01_.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Avengers-3-Infinity-War-2018.jpg",AVENGERS 3 INFINITY WAR อเวนเจอร์ส อินฟินิตีวอร์ มหาสงครามอัญมณีล้างจักรวาล (2018) พากย์ไทย								
+https://lb1.one3up.com/hls/42772d182cb0b68bd2a96d7bc8f51e6a/42772d182cb0b68bd2a96d7bc8f51e6a.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/04/thumb_2584.jpg",AVENGERS ENDGAME อเวนเจอร์ส เผด็จศึก (2019) พากย์ไทย								
+https://lb1.one3up.com/hls/df34b3db3549fec0af86145b4f51034e/df34b3db3549fec0af86145b4f51034e.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3FAFBC0A49231243C13DCC537CF805918DD39E79681650B6DC690A5082F393FA/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy (2014) พากย์ไทย								
+https://p2p.cherry1678.com/files/01222900dd1ec53ec090932e2529d019_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A0EB6E13C739DD631FABFE831E32DDB2944B5BBA295041E3A79C3ABDD79BB702/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy vol 2 (2017) พากย์ไทย								
+https://p2p.cherry1678.com/files/e28172dc2bdf60dc0135282fd786209c_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C5B56444C580F7B569E3764D1BE6456EC77241C664A07E02B570AE74DDD0772D/scale?width=1200&aspectRatio=1.78&format=jpeg",Antman (2015) พากย์ไทย								
+https://p2p.cherry1678.com/files/15f07d4d313a147374e6a169e439ef61_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/604BE9FE5D4AE6BC8D7A222EEA8CF081DEBC2C3CEC1B30401315E62CEB6B9124/scale?width=1200&aspectRatio=1.78&format=jpeg",Ant Man and the wasp (2018) พากย์ไทย								
+https://p2p.cherry1678.com/files/a5e058a8ba33d81b62d497038990f47c_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B38531224478FFF92A483CBD9CCF2C36A5CE4DD97015BDEA6D8C327E66924521/scale?width=1200&aspectRatio=1.78&format=jpeg",Doctor strange(พากย์ไทย)								
+https://p2p.cherry1678.com/files/a18c6acd774ca23cbae3ec05f702a918_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E90552AB059BC4AD0B3D1CBC415E613970758C609053CDBEBF253A5524B2AF84/scale?width=1200&aspectRatio=1.78&format=jpeg",Black panther(พากย์ไทย)								
+https://p2p.cherry1678.com/files/a7a52f71ef4d670aa696b595c3ece618_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E81041AC780ECCC4E38FD82B4C35D20932F0EA87318B8F3BE90C907EAF271AA5/scale?width=1200&aspectRatio=1.78&format=jpeg",Captain Movie HD(พากย์ไทย)								
+https://p2p.cherry1678.com/files/eb3dc59108ef165f513df9305715699a_original.txt								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://image.tmdb.org/t/p/original//muth4OYamXf41G2evdrLEg8d3om.jpg",Spider-Man (2002) พากย์ไทย								
+https://p2p.cherry1678.com/view/0793d05f-e7b8-502d-bcd9-3f77449a8a47.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.metalbridges.com/wp-content/uploads/2014/01/The-Amazing-Spider-Man-2-Full-HD-Poster.jpg",Spider-Man 2 (2004) พากย์ไทย								
+https://p2p.cherry1678.com/view/790d512b-64b8-5222-b221-cf2ce0cac2b3.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://images.alphacoders.com/657/thumb-1920-657891.jpg",Spider-Man 3 (2007) (พากย์ไทย								
+https://p2p.cherry1678.com/view/58dd2d74-792d-5049-904e-81f3b7afc88e.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://2.bp.blogspot.com/-zbF8HDgRRWQ/Tuj5ZhLs1jI/AAAAAAAAAhI/MiMbXTXeirc/s1600/The+Amazing+Spider-Man_Banner_01.png",The Amazing Spider-Man 2012 (พากย์ไทย)								
+https://p2p.cherry1678.com/view/be8cbd65-958c-5008-bbc5-14cd0e08afcc.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://i.pinimg.com/736x/8e/38/c2/8e38c235314629b322b54cf8333b7c57.jpg",The Amazing Spider-Man 2 (2014) พากย์ไทย								
+https://p2p.cherry1678.com/view/9b120704-aa65-5665-aef8-2e08fbd6b44a.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/styles/image_1170x658/public/ct_series_f_primary_image/spiderman_homecoming_-_keyart.jpg?itok=-nQcKrew",Spider Man Homecoming (2017) พากย์ไทย								
+https://lb1.one3up.com/hls/d66d48f29b30bc6c6e928610a3f09e2e/d66d48f29b30bc6c6e928610a3f09e2e.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/tv/tv-films-spider-man-far-from-home-key-art.jpg/jcr:content/renditions/landscape-tablet.935.526.jpg",Spider-Man Far from Home (2019) พากย์ไทย								
+https://p2p.cherry1678.com/view/0a79e501-fe56-5fb8-a8ca-03e72101a706.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider-Man No Way Home สไปเดอร์แมน โน เวย์ โฮม (2021) พากย์ไทย								
+https://mx1.buff-sdd.xyz/media/61ee066b38ac22Bc/720/hls/index.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/03/logan.jpg",Logan โลแกน เดอะ วูล์ฟเวอรีน (2017) พากย์ไทย								
+https://p2p.cherry1678.com/view/b892de70-2db9-5ab8-9618-136dd3c16df5.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F125B2D8C8D6907B63842F4A9F02EB321472C86C7AB97B01636D7D6655BAEB88/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Dark phoenix (2019) พากย์ไทย								
+https://lb1.one3up.com/hls/4b43d5566eef4dc967fe8f2c997b48b5/4b43d5566eef4dc967fe8f2c997b48b5.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FDAC925D40960AAF0BC99F7DEBAAAF08925434E0CF2A4F85106E63E5BA784F69/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN Apocalypse (2016) พากย์ไทย								
+https://p2p.cherry1678.com/view/c59ba366-c639-5d33-b3f5-d6a8fa74bf80.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6D04FC0DEF25924AD09D4A79295564197B9F9B8736C037D739C5A42FC727FACB/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 7 Days of future fast (2014) พากย์ไทย								
+https://p2p.cherry1678.com/view/532813e1-c475-58d3-ab8b-ed61e91f3666.m3u8							
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2020/06/the-wolverine.jpg",X MEN 6 The Wolverine (2013) พากย์ไทย								
+https://lb1.one3up.com/hls/e72b4f410b5f92627a922a139ba3983c/e72b4f410b5f92627a922a139ba3983c.m3u8								
+								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F56864AF85BC87F91A236075684D2794D9793F1838B70517937AD2AA5FF2BDF/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 5 First class (2011) พากย์ไทย								
+https://p2p.cherry1678.com/view/13456409-0b03-5aeb-be05-62c7b3e51996.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99455C1AEE676E171A91F16D6B2845B66C1228B3726FDBC01EB011716BE27A56/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 4 Origins wolverine (2009) พากย์ไทย								
+https://p2p.cherry1678.com/view/4b902443-ecad-5a0d-8bc3-309f1ed97713.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/05/The-Last-Stand.jpg",X MEN 3 The last stand (2006) พากย์ไทย								
+https://p2p.cherry1678.com/view/c3f7bcfb-5a07-5734-a80f-9d0151265cd3.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F352567CD85F1D533D0E588F35EE6A1B4588F65314ECC2EF33241FB9BB98CB4A/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 2 United (2003) พากย์ไทย								
+https://p2p.cherry1678.com/view/4c5d64f8-8a73-536d-be9d-b4a0a4d7132a.m3u8								
+								
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/328A8652DAF741DEAE89ABB407E7868478C7E4ED847BAAD7B2377B71C680FB72/scale?width=1200&aspectRatio=1.78&format=jpeg",X MEN 1 ศึกมนุษย์พลังเหนือโลก (2000) พากย์ไทย								
+https://p2p.cherry1678.com/view/13957adf-f07e-5748-acde-2b8ed3474f7d.m3u8								
+								
