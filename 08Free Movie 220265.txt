@@ -1,4 +1,7 @@
-#EXTM3U								
+#EXTM3U
+
+EXTINF:-1 group-title="Movie HD" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/10/6254733c5ef981c25fd4373c4388dcf7.jpg",The Legend Of Deification (2021) ตำนานราชาแห่งสวรรค์ พากย์ไทย								
+https://p2p.cherry1678.com/view/feeae2bb-8a7c-5a48-a2ab-ae2d0ec3810f.txt
 								
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Ghostbusters-Afterlife-2021.jpg",Ghostbusters Afterlife (2021) โกสต์บัสเตอร์ ปลุกพลังล่าท้าผี พากย์ไทย								
 https://moviehdfree.xyz/view/e8e12401-4796-5324-b116-703912e21e7a.m3u8								
