@@ -1,0 +1,54 @@
+#EXTM3U
+# =======================================================
+# Playlist Name: New Test Sport EPL m3u playlist 20:00
+# Last Update: 27-12-2564
+# =======================================================
+
+#EXTINF:-1 group-title="Sport" "https://astrokentico-dev.s3.amazonaws.com/stadiumastro/media/microsites/get%20astro%20sports%20package/hd_action_logo.png" 
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-2.png" group-title="Sport",True Premier Football HD 2 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-3.png" group-title="Sport" ,True Premier Football HD 3 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-4.png" group-title="Sport",True Premier Football HD 4 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-5.png" group-title="Sport",True Premier Football HD 5 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2021/06/sd-tsport5.png" group-title="Sport",True Sport 5 (480p Scaled) (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2021/06/sd-tsport7.png" group-title="Sport",True Sport 7 (480p Scaled) (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport1.png" group-title="Sport",True Sport HD 1 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport2.png" group-title="Sport",True Sport HD 2 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport3.png" group-title="Sport",True Sport HD 3 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport4.png" group-title="Sport",True Sport HD 4 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tennis.png" group-title="Sport",True Tennis HD (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" group-title="Sport",beinSport 1
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDIyIDY6MzM6MzYgUE0maGFzaF92YWx1ZT10Wmp2SEtmc2hzUlh6MEN6cGZDanlRPT0mdmFsaWRtaW51dGVzPTIw"
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png" group-title="Sport",beinSPORT 2
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDIyIDY6NDA6MTEgUE0maGFzaF92YWx1ZT1Nb2pkbE1Tb1E4V0d5Y2RLSEZOcER3PT0mdmFsaWRtaW51dGVzPTIw"
