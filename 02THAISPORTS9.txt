@@ -68,6 +68,15 @@ referer: "https://www.liveballsod.com/",
 info: "HELLO TV",	
 playInNatPlayer: "true"	
 },
+{	
+name:"EPL1-Smart-tv",	
+image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
+url:"https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "HELLO TV",	
+desktop: "true"	
+},	
 
 {	
 name:"EPL1",	
