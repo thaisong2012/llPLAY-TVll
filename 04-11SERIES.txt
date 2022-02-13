@@ -1,5 +1,5 @@
 ﻿{	
-name: "📽 Movies&Series TV",	
+name: "SERIES TV",	
 author: "@PLAY TV",	
 image: "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_620855337aad0.jpeg",	
 url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04MOVIES8.txt",	
