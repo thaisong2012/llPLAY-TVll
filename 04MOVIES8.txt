@@ -21,7 +21,7 @@ playInNatPlayer: "true"
 {	
 name: "HBO HD",  	
 image: "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",  	
-url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04-1MOVIES.txt",	
+url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04-1SERIES.txt",	
 referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
