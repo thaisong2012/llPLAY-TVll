@@ -2,29 +2,18 @@
 name: "📽 Movies&Series TV",	
 author: "@PLAY TV",	
 image: "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_620855337aad0.jpeg",	
-url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04MOVIES8.txt",	
+url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04-1MOVIES.txt",	
 info: "ช่องและรายการทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",	
 	
 	
 	
 stations: [	
-	
-	
-{	
-name: "4 October 2021",  	
-image: "https://image.flaticon.com/icons/png/512/1809/1809239.png",  	
-url: "https://androidtvtech.blogspot.com/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
-	
-	
-	
+		
 	
 {	
 name: "HBO HD",  	
 image: "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",  	
-url: "https://we-play.live/watching/tv/hbo-hd",	
+url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04-1MOVIES.txt",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
@@ -32,7 +21,7 @@ playInNatPlayer: "true"
 {	
 name: "HBO HD",  	
 image: "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",  	
-url: "https://www.doofootball.com/dootv/live/hbohd#main_dootv",	
+url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04-1MOVIES.txt",	
 referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
