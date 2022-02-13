@@ -16,6 +16,161 @@ info: "PLAY TV",
 playInNatPlayer: "true"	
 },	
 
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 2",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave3.players2u.com/hls5/e702e4937b95279dcd4d0863ce018d13/e702e4937b95279dcd4d0863ce018d13.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 3",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave4.players2u.com/hls6/fc08e934a8b8905d57a8af3a56235edf/fc08e934a8b8905d57a8af3a56235edf.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 4",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave3.players2u.com/hls3/b028affd1f619a7d3ff00cee154c67d3/b028affd1f619a7d3ff00cee154c67d3.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 5",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave3.players2u.com/hls6/8558d6dcbaa8f8b5931dfc0e2c4c56bb/8558d6dcbaa8f8b5931dfc0e2c4c56bb.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 6",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave3.players2u.com/hls4/a4bcd45a5bc795fde1cd953a97f4a139/a4bcd45a5bc795fde1cd953a97f4a139.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 7",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave3.players2u.com/hls/36cde4c4ae22983b7bb8735e941cfdc8/36cde4c4ae22983b7bb8735e941cfdc8.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 8",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave4.players2u.com/hls2/fbff62d2a3150cd878e24627e0be0fa3/fbff62d2a3150cd878e24627e0be0fa3.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 9",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave3.players2u.com/hls2/ae46f6e757a738a981cae9ab0f57289b/ae46f6e757a738a981cae9ab0f57289b.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 10",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave3.players2u.com/hls3/aebb021daa22bcc573b92dce11f7736d/aebb021daa22bcc573b92dce11f7736d.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 11",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave4.players2u.com/hls5/f7fdf5eb59087b335f0c587f2f447f35/f7fdf5eb59087b335f0c587f2f447f35.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 12",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave4.players2u.com/hls2/5115e8ce0cfe1e27512b73be66f66476/5115e8ce0cfe1e27512b73be66f66476.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 13",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave3.players2u.com/hls4/7b56d1725969adab7f8887f03ff961ad/7b56d1725969adab7f8887f03ff961ad.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 14",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave4.players2u.com/hls3/604b304c009eb0698c06d771b2877c36/604b304c009eb0698c06d771b2877c36.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 15",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave4.players2u.com/hls1/fff4b7e1f5234ec935c61d9f3d9d01bf/fff4b7e1f5234ec935c61d9f3d9d01bf.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 16",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave3.players2u.com/hls6/f569bbd0ed53acecd000ea78971f3778/f569bbd0ed53acecd000ea78971f3778.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 17",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave3.players2u.com/hls2/3f53677a709c6af7f4f0eaf5855fb0c4/3f53677a709c6af7f4f0eaf5855fb0c4.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+{	
+name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย ซีซั่น 1 ตอนที่ 18 ตอนจบ",  	
+image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
+url: "https://slave4.players2u.com/hls2/73c2174cbe8d39051480a5ebfb118862/73c2174cbe8d39051480a5ebfb118862.m3u8",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+
+
+
 
 
 
