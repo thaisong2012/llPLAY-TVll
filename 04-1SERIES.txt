@@ -17,7 +17,7 @@ info: "ช่องและรายการทั้งหมดทางผ�
 {	
 name: "The Good Doctor คุณหมอฟ้าประทาน",  	
 image: "https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg",  	
-url: "https://we-play.live/watching/tv/hbo-hd",	
+url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04-11SERIES.txt",	
 referer: "https://999-hd.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
