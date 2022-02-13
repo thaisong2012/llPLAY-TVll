@@ -11,7 +11,7 @@ stations: [
 		
 	
 {	
-name: "HBO HD",  	
+name: "MOVIES",  	
 image: "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",  	
 url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04-1MOVIES.txt",	
 referer: "https://we-play.live/",	
@@ -19,7 +19,7 @@ info: "PLAY TV",
 playInNatPlayer: "true"	
 },	
 {	
-name: "HBO HD",  	
+name: "SERIES",  	
 image: "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",  	
 url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04-1SERIES.txt",	
 referer: "https://www.doofootball.com/",	
