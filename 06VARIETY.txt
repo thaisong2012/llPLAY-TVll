@@ -1,5 +1,5 @@
 {	
-name: "🏆 Thai League 2021",	
+name: "VARIETY",	
 author: "@PLAY TV",	
 image: "https://medias.unifrance.org/medias/30/139/232222/format_page/media.png",	
 url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/06VARIETY.txt",	
