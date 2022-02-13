@@ -12,7 +12,7 @@ info: "ช่องและรายการทั้งหมดทางผ�
 	
 {	
 name: "MOVIES",  	
-image: "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",  	
+image: "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_6208b553c31f6.jpeg",  	
 url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04-1MOVIES.txt",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
