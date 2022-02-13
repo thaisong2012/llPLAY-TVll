@@ -1,6 +1,6 @@
 {	
 name: "🏆 Thai League 2021",	
-author: "@HELLO TV",	
+author: "@PLAY TV",	
 image: "https://medias.unifrance.org/medias/30/139/232222/format_page/media.png",	
 url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/06VARIETY.txt",	
 info: "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",	
@@ -13,7 +13,7 @@ stations: [
 {	
 name: "4 October 2021",  	
 image: "https://image.flaticon.com/icons/png/512/1809/1809239.png",  	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 	
@@ -25,7 +25,7 @@ image: "https://we-play.live/uploads/posters/rock-extreme-poster.jpg",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-rtlcbsextreme&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "HELLO TV",	
+info: "PLAY TV",	
 desktop: "true"	
 },	
 {	
@@ -34,7 +34,7 @@ image: "https://we-play.live/uploads/posters/rock-extreme-poster.jpg",
 url: "https://www.doofootball.com/dootv/live/blueantextream#main_dootv",	
 referer: "https://www.doofootball.com/",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
@@ -42,7 +42,7 @@ name: "ROCK EXTREME",
 image: "https://we-play.live/uploads/posters/rock-extreme-poster.jpg",  	
 url: "https://we-play.live/watching/tv/rock-extreme",	
 referer: "https://we-play.live/",	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
@@ -51,7 +51,7 @@ image: "https://we-play.live/uploads/posters/rock-entertainment-poster.jpg",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-rtlcbs&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "HELLO TV",	
+info: "PLAY TV",	
 desktop: "true"	
 },	
 {	
@@ -60,7 +60,7 @@ image: "https://we-play.live/uploads/posters/rock-entertainment-poster.jpg",
 url: "https://www.doofootball.com/dootv/live/blueant#main_dootv",	
 referer: "https://www.doofootball.com/",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
@@ -68,7 +68,7 @@ name: "ROCK ENTERTAINMENT",
 image: "https://we-play.live/uploads/posters/rock-entertainment-poster.jpg",  	
 url: "https://we-play.live/watching/tv/rock-entertainment",	
 referer: "https://we-play.live/",	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 	
@@ -79,7 +79,7 @@ image: "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn
 url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-inside&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "HELLO TV",	
+info: "PLAY TV",	
 desktop: "true"	
 },	
 {	
@@ -88,7 +88,7 @@ image: "https://www.we-play.tv//uploads/posters/-poster1602704657.jpeg",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "HELLO TV",	
+info: "PLAY TV",	
 desktop: "true"	
 },	
 {	
@@ -96,7 +96,7 @@ name: "X-Zyte HD",
 image: "https://www.we-play.tv//uploads/posters/-poster1602704657.jpeg",  	
 url: "https://we-play.live/watching/tv/true-xzyte",	
 referer: "https://we-play.live/",	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
@@ -104,7 +104,7 @@ name: "Waku Waku Japan",
 image: "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",	
 url: "https://we-play.live/watching/tv/waku-waku-japan",	
 referer: "https://www.we-play.live/",	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
@@ -113,7 +113,7 @@ image: "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/wa
 url: "https://www.doofootball.com/dootv/live/wakuwakujapan#main_dootv",	
 referer: "https://www.doofootball.com/",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
@@ -122,7 +122,7 @@ image: "https://static.wikia.nocookie.net/dreamfiction/images/1/13/Gem_TV_logo.p
 url: "https://www.doofootball.com/dootv/live/gem#main_dootv",	
 referer: "https://www.doofootball.com/",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
@@ -130,7 +130,7 @@ name: "GEM TV Japan",
 image: "https://static.wikia.nocookie.net/dreamfiction/images/1/13/Gem_TV_logo.png",	
 url: "https://www.we-play.live/watching/tv/gem",	
 referer: "https://www.we-play.live/",	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
@@ -139,7 +139,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-kbsworld&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "HELLO TV",	
+info: "PLAY TV",	
 desktop: "true"	
 },	
 {	
@@ -147,7 +147,7 @@ name: "KBS World",
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png",	
 url: "https://www.nettvpro.live/Asia/Korea/4812.html",	
 referer: "https://www.nettvpro.live/",	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
@@ -155,7 +155,7 @@ name: "TVN",
 image: "https://www.we-play.tv//uploads/posters/-poster1602704702.jpeg",  	
 url: "https://we-play.live/watching/tv/tvn",	
 referer: "https://www.we-play.live/",	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
@@ -164,14 +164,14 @@ image: "https://www.we-play.tv//uploads/posters/-poster1602704702.jpeg",
 url: "https://www.doofootball.com/dootv/live/tvn#main_dootv",	
 referer: "https://www.doofootball.com/",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
 name: "New K-ID",	
 image: "http://www.nettvpro.live/uploads/allimg/21/1-2104152209210-L.jpg",	
 url: "https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8",	
-info: "HELLO TV",	
+info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 	
