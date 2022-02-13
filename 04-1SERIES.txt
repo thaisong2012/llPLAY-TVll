@@ -15,10 +15,10 @@ info: "ช่องและรายการทั้งหมดทางผ�
 	
 	
 {	
-name: "HBO HD",  	
-image: "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",  	
+name: "The Good Doctor คุณหมอฟ้าประทาน",  	
+image: "https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg",  	
 url: "https://we-play.live/watching/tv/hbo-hd",	
-referer: "https://we-play.live/",	
+referer: "https://999-hd.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
