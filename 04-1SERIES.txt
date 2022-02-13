@@ -10,13 +10,6 @@ info: "ช่องและรายการทั้งหมดทางผ�
 stations: [	
 	
 	
-{	
-name: "4 October 2021",  	
-image: "https://image.flaticon.com/icons/png/512/1809/1809239.png",  	
-url: "https://androidtvtech.blogspot.com/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
 	
 	
 	
