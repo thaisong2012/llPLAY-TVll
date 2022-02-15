@@ -23,7 +23,7 @@ playInNatPlayer: "true"
 	
 {	
 name: "HBO HD",  	
-image: "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",  	
+image: "https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",  	
 url: "https://we-play.live/watching/tv/hbo-hd",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
@@ -31,7 +31,7 @@ playInNatPlayer: "true"
 },	
 {	
 name: "HBO HD",  	
-image: "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",  	
+image: "https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",  	
 url: "https://www.doofootball.com/dootv/live/hbohd#main_dootv",	
 referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
@@ -39,7 +39,7 @@ playInNatPlayer: "true"
 },	
 {	
 name: "HBO HD",  	
-image: "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",  	
+image: "https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",  	
 url: "https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
@@ -48,7 +48,7 @@ playInNatPlayer: "true"
 	
 {	
 name: "HBO Hits",  	
-image: "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",  	
 url: "https://we-play.live/watching/tv/hbo-hits",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
@@ -56,7 +56,7 @@ playInNatPlayer: "true"
 },	
 {	
 name: "HBO Hits",  	
-image: "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",  	
 url: "https://www.doofootball.com/dootv/live/hbohit#main_dootv",	
 referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
@@ -64,7 +64,7 @@ playInNatPlayer: "true"
 },	
 {	
 name: "HBO Hits",  	
-image: "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",  	
 url: "https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
@@ -72,7 +72,7 @@ playInNatPlayer: "true"
 	
 {	
 name: "HBO Family",  	
-image: "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",  	
 url: "https://we-play.live/watching/tv/hbo-family",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
@@ -80,7 +80,7 @@ playInNatPlayer: "true"
 },	
 {	
 name: "HBO Family",  	
-image: "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",  	
 url: "https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
@@ -88,7 +88,7 @@ playInNatPlayer: "true"
 	
 {	
 name: "HBO signature",  	
-image: "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",  	
 url: "https://we-play.tv/watching/tv/hbo-signature",	
 referer: "https://we-play.tv/",	
 info: "PLAY TV",	
@@ -97,14 +97,14 @@ playInNatPlayer: "true"
 	
 {	
 name: "HBO signature",  	
-image: "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",  	
 url: "https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
 name: "Cinemax",  	
-image: "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png",  	
 url: "https://we-play.tv/watching/tv/cinemax",	
 referer: "https://we-play.tv/",	
 info: "PLAY TV",	
@@ -114,21 +114,21 @@ playInNatPlayer: "true"
 	
 {	
 name: "Cinemax",  	
-image: "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png",  	
 url: "https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
 name: "RED by HBO",  	
-image: "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg",  	
 url: "https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
 name: "Warner Tv",  	
-image: "https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",  	
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
@@ -137,7 +137,7 @@ desktop: "true"
 },	
 {	
 name: "Warner Tv",  	
-image: "https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",  	
 url: "https://we-play.tv/watching/tv/warner-tv",	
 referer: "https://we-play.tv/",	
 info: "PLAY TV",	
@@ -145,7 +145,7 @@ playInNatPlayer: "true"
 },	
 {	
 name: "Warner Tv",  	
-image: "https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",  	
 url: "http://61.19.242.134/feed/202105171329/LC28/playlist.m3u8",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
@@ -162,7 +162,7 @@ desktop: "true"
 },	
 {	
 name: "Paramount Channel",  	
-image: "https://www.we-play.tv//uploads/posters/-poster1602704632.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg",  	
 url: "https://we-play.live/watching/tv/paramount-channel",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
@@ -183,7 +183,7 @@ desktop: "true"
 	
 {	
 name: "Hits Movies",  	
-image: "https://www.we-play.tv//uploads/posters/-poster1602704685.jpeg",  	
+image: "https://movies.hitstv.com/img/hits-movies-logo.png",  	
 url: "https://we-play.tv/watching/tv/hits-movies",	
 referer: "https://we-play.tv/",	
 info: "PLAY TV",	
@@ -191,7 +191,7 @@ playInNatPlayer: "true"
 },	
 {	
 name: "Hits Movies",  	
-image: "https://www.we-play.tv//uploads/posters/-poster1602704685.jpeg",  	
+image: "https://movies.hitstv.com/img/hits-movies-logo.png",  	
 url: "https://www.doofootball.com/dootv/live/hitsmovie#main_dootv",	
 referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
@@ -245,7 +245,7 @@ playInNatPlayer: "true"
 },	
 {	
 name: "True Film HD",  	
-image: "https://wacth.officebk.co/uploads/tv_image/true-film-hd-bk2gdt2o7xnj.png",  	
+image: "https://www.truevisions.info/wp-content/uploads/2016/12/logo_true-film.jpg",  	
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
@@ -254,7 +254,7 @@ desktop: "true"
 },	
 {	
 name: "True Film HD2",  	
-image: "https://wacth.officebk.co/uploads/tv_image/true-film-hd2.png",  	
+image: "https://youflix4k.com/uploads/jpg/ee03033c20a920e34e267b301b492b17.jpg",  	
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
@@ -316,7 +316,7 @@ playInNatPlayer: "true"
 },	
 {	
 name: "True Series",  	
-image: "https://wacth.officebk.co/uploads/tv_image/true-series-1shsz3dbbp36.png",  	
+image: "https://2.bp.blogspot.com/-_kcTqNJejcU/WkWTKteMJMI/AAAAAAAABYI/kbmdoEvwTZ0acR7qTsX6Yd7fI__sQqJLwCLcBGAs/s1600/TRUE%2BSERIES.png",  	
 url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
