@@ -91,7 +91,7 @@ playInNatPlayer: "true"
 {	
 name:"The Good Doctor คุณหมอฟ้าประทาน พากย์ไทย Season 1 ตอนที่ 10",  	
 image:"https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
-url: "https://slave3.players2u.com/hls3/aebb021daa22bcc573b92dce11f7736d/aebb021daa22bcc573b92dce11f7736d.m3u8",	
+url: "https://www.nanamovies.me/the-good-doctor-s01-%e0%b8%81%e0%b8%b9%e0%b9%8a%e0%b8%94-%e0%b8%94%e0%b9%87%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%95%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-10/",	
 referer: "https://999-hd.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
