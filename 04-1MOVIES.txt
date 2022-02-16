@@ -21,7 +21,7 @@ playInNatPlayer: "true"
 	{	
 name: "HBO HD",  	
 image: "https://www.nanamovies.me/wp-content/uploads/2021/07/Jungle-Cruise-2021-%E0%B8%8B%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%97%E0%B8%A3%E0%B9%87%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B8%9A-Full-HD.jpeg",  	
-url: "https://embed.nana2play.com/mv/746044",	
+url: "https://embed.nana2play.com/mv/746044/",	
 referer: "https://www.nanamovies.me/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
