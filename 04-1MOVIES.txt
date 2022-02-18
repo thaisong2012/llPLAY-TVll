@@ -21,7 +21,7 @@ playInNatPlayer: "true"
 	{	
 name: "HBO HD",  	
 image: "https://api.vip-streaming.com/images/movie/AzXGSbnMYBKqXQyMmYHWc6gkOGsZnBu.jpg",  	
-url: "https://doofree365.com/movie/21154/Stowaway-(2021)",	
+url: "https://cdn-21.vip-streaming.com:30443/SunPT-4/3-ssd/movie/store-2000/Army.of.the.Dead[2021].mp4/chunk.m3u8?nimblesessionid=25008921",	
 referer: "https://doofree365.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
