@@ -2,7 +2,7 @@
 name: "🇹🇭Thai TV",
 author: "@PLAY TV",
 image: "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
-url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/01THAITV9.txt",
+url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/01THAITV.txt",
 
 
 
