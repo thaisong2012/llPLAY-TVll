@@ -17,7 +17,7 @@ url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04SERIES
 {	
 name: "The Good Doctor คุณหมอฟ้าประทาน Season 1",  	
 image: "https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
-url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04-11SERIES.txt",	
+url: "https://raw.githubusercontent.com/thaisong2012/Series/main/The%20Good%20Doctor%20S1",	
 referer: "https://999-hd.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
