@@ -2,8 +2,8 @@
 name: "VARIETY",	
 author: "@PLAY TV",	
 image: "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_620864d5b7b18.jpeg",	
-url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/06VARIETY.txt",	
-info: "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",	
+url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/06VARIETY.txt",	
+
 	
 	
 	
