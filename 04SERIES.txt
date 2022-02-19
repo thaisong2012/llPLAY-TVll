@@ -17,7 +17,7 @@ playInNatPlayer: "true"
 {	
 name: "The Falcon and the Winter Soldier Season 1",  	
 image: "https://www.doseries.co/images/movie/I1G6n98gbLFSO77Aow4wiUH9Gtpu5McThe_Falcon_and_the_Winter_Soldier_S1.jpg",  	
-url: "https://raw.githubusercontent.com/thaisong2012/Series/main/The%20Good%20Doctor%20S1",	
+url: "https://raw.githubusercontent.com/thaisong2012/Series/main/The%20Falcon%20and%20the%20Winter%20Soldier%20S1",	
 referer: "https://999-hd.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
