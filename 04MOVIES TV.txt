@@ -1,33 +1,758 @@
 {	
-name: "📽 Movies&Series TV",	
+name: "📽 Movies TV",	
 author: "@PLAY TV",	
-image: "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_620855337aad0.jpeg",	
-url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04MOVIES%20TV.txt",	
+image: "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_6208b553c31f6.jpeg",	
+url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04-1MOVIES.txt",	
 
 	
 	
 	
-"groups": [	
-		
+stations: [	
+	
 	
 {	
-name: "MOVIES",  	
-image: "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_6208b553c31f6.jpeg",  	
-url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04-1MOVIES.txt",	
+name: "4 October 2021",  	
+image: "https://image.flaticon.com/icons/png/512/1809/1809239.png",  	
+url: "https://androidtvtech.blogspot.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "HBO HD",  	
+image: "https://newmoviehd.org/wp-content/uploads/2021/03/The-Falcon-and-the-Winter-Soldier-.jpg",  	
+url: "https://www.doonung1234.com/series/season/2869/The-Falcon-and-the-Winter-Soldier-Season-01-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",	
+referer: "https://www.doonung1234.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+	
+{	
+name: "HBO HD",  	
+image: "https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",  	
+url: "https://we-play.live/watching/tv/hbo-hd",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
 {	
-name: "SERIES",  	
-image: "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_6208b536d1ab8.jpeg",  	
-url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04SERIES.txt",	
+name: "HBO HD",  	
+image: "https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",  	
+url: "https://www.doofootball.com/dootv/live/hbohd#main_dootv",	
 referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
-
-
+{	
+name: "HBO HD",  	
+image: "https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",  	
+url: "https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+	
+{	
+name: "HBO Hits",  	
+image: "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",  	
+url: "https://we-play.live/watching/tv/hbo-hits",	
+referer: "https://we-play.live/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "HBO Hits",  	
+image: "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",  	
+url: "https://www.doofootball.com/dootv/live/hbohit#main_dootv",	
+referer: "https://www.doofootball.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "HBO Hits",  	
+image: "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",  	
+url: "https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "HBO Family",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",  	
+url: "https://we-play.live/watching/tv/hbo-family",	
+referer: "https://we-play.live/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "HBO Family",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",  	
+url: "https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "HBO signature",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",  	
+url: "https://we-play.tv/watching/tv/hbo-signature",	
+referer: "https://we-play.tv/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "HBO signature",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",  	
+url: "https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Cinemax",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png",  	
+url: "https://we-play.tv/watching/tv/cinemax",	
+referer: "https://we-play.tv/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+	
+{	
+name: "Cinemax",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png",  	
+url: "https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "RED by HBO",  	
+image: "https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg",  	
+url: "https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Warner Tv",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",  	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+{	
+name: "Warner Tv",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",  	
+url: "https://we-play.tv/watching/tv/warner-tv",	
+referer: "https://we-play.tv/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Warner Tv",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",  	
+url: "http://61.19.242.134/feed/202105171329/LC28/playlist.m3u8",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Paramount Channel",  	
+image: "https://www.we-play.tv//uploads/posters/-poster1602704632.jpeg",  	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+{	
+name: "Paramount Channel",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg",  	
+url: "https://we-play.live/watching/tv/paramount-channel",	
+referer: "https://we-play.live/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "DreamWorks",  	
+image: "https://overseer.blackboxsys.net/images/png/hd-dreamworks.png",  	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-dreamworks&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+	
+	
+	
+	
+{	
+name: "Hits Movies",  	
+image: "https://movies.hitstv.com/img/hits-movies-logo.png",  	
+url: "https://we-play.tv/watching/tv/hits-movies",	
+referer: "https://we-play.tv/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Hits Movies",  	
+image: "https://movies.hitstv.com/img/hits-movies-logo.png",  	
+url: "https://www.doofootball.com/dootv/live/hitsmovie#main_dootv",	
+referer: "https://www.doofootball.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "AXN HD",  	
+image: "https://overseer.blackboxsys.net/images/png/hd-axn.png",  	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+{	
+name: "AXN HD",  	
+image: "https://overseer.blackboxsys.net/images/png/hd-axn.png",  	
+url: "https://we-play.live/watching/tv/axn-hd",	
+referer: "https://we-play.live/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+	
+{	
+name: "True Thai Film",  	
+image: "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png&w=320&h=240",  	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+{	
+name: "True Movie Hits",  	
+image: "https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",  	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+{	
+name: "True Movie Hits",  	
+image: "https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",  	
+url: "https://www.doofootball.com/dootv/live/moviehits#main_dootv",	
+referer: "https://www.doofootball.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "True Film HD",  	
+image: "https://www.truevisions.info/wp-content/uploads/2016/12/logo_true-film.jpg",  	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+{	
+name: "True Film HD2",  	
+image: "https://youflix4k.com/uploads/jpg/ee03033c20a920e34e267b301b492b17.jpg",  	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+	
+	
+{	
+name: "True Korean More",  	
+image: "https://we-play.live/uploads/posters/true-korean-more-poster.jpg",  	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-hd-koreanmore&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+{	
+name: "True Korean More",  	
+image: "https://we-play.live/uploads/posters/true-korean-more-poster.jpg",  	
+url: "https://we-play.live/watching/tv/true-korean-more",	
+referer: "https://we-play.tv/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "True Chinese More",  	
+image: "https://we-play.live/uploads/posters/true-chinese-more-poster.jpg",  	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+{	
+name: "True Chinese More",  	
+image: "https://we-play.live/uploads/posters/true-chinese-more-poster.jpg",  	
+url: "https://we-play.live/watching/tv/true-chinese-more",	
+referer: "https://we-play.tv/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "True Asian More",  	
+image: "https://we-play.live/uploads/posters/true-asian-more-poster.jpg",  	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+{	
+name: "True Asian More",  	
+image: "https://we-play.live/uploads/posters/true-asian-more-poster.jpg",  	
+url: "https://we-play.live/watching/tv/true-asian-more",	
+referer: "https://we-play.tv/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "True Series",  	
+image: "https://2.bp.blogspot.com/-_kcTqNJejcU/WkWTKteMJMI/AAAAAAAABYI/kbmdoEvwTZ0acR7qTsX6Yd7fI__sQqJLwCLcBGAs/s1600/TRUE%2BSERIES.png",  	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+{	
+name: "TVB By True",	
+image: "https://cms.dmpcdn.com/livetv/2019/04/23/08f0470b-4f2f-4459-a6cc-0006e97887b7_320.png",	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tvb&api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+desktop: "true"	
+},	
+{	
+name: "TVB DRAMA THAI",	
+image: "https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",	
+url: "https://www.mvtv.co.th/channel/tvb-thai",	
+referer: "https://www.mvtv.co.th/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "มังกร ทีวี",  	
+image: "https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",  	
+url: "https://tv.trueid.net/embed/Mangorn",	
+referer: "https://tv.trueid.net/",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "ZEE หนัง",  	
+image: "https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png",  	
+url: "https://tv.trueid.net/embed/zee-nung",	
+referer: "https://tv.trueid.net/",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "ZEE หนัง",  	
+image: "https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png",  	
+url: "https://cdn6.goprimetime.info/feed/202105171329/LC5/playlist.m3u8",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Zing",  	
+image: "https://cms.dmpcdn.com/livetv/2021/01/06/68be8520-500f-11eb-8d28-4b8e3f30b51b_320.png",  	
+url: "https://tv.trueid.net/embed/zing",	
+referer: "https://tv.trueid.net/",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+	
+	
+{	
+name: "FWMOV",	
+image: "https://www.inwiptv.com/postor/20200512164154fwmov.jpg",	
+url: "https://www.inwiptv.com/player_demo.php?channel=89782",	
+referer: "https://www.inwiptv.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "FWSOV",	
+image: "https://www.inwiptv.com/postor/20200512165346fwsov.jpg",	
+url: "https://www.inwiptv.com/player_demo.php?channel=89781",	
+referer: "https://www.inwiptv.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "M Channel",  	
+image: "http://www.m-channel.com/M/img/logo.png",  	
+url: "http://27.254.142.207:8080/live/web.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "MIX Major",	
+image: "https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png",	
+url: "https://www.mvtv.co.th/channel/mix-major-channel",	
+referer: "https://www.mvtv.co.th/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "CTB",  	
+image: "https://f.ptcdn.info/601/063/000/pqcvhsxk7PuKUZbFKv4-o.png",  	
+url: "http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Channel8Thailand",  	
+image: "http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",  	
+url: "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Thrill",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",  	
+url: "http://61.19.242.134/feed/202105171329/LC26/playlist.m3u8",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "SUN",  	
+image: "https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",  	
+url: "https://cdn6.goprimetime.info/feed/202105171329/LC1/playlist.m3u8",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "SAMURAI",  	
+image: "https://f.ptcdn.info/741/071/000/qkd09u11hsoYgyO0be6c-o.jpg",  	
+url: "https://cdn6.goprimetime.info/feed/202105171329/LC2/playlist.m3u8",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Box Film",  	
+image: "https://tv.sritown.com/images/chlogo/box-film.png",  	
+url: "https://cdn6.goprimetime.info/feed/202105171329/LC52/playlist.m3u8",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Sanook",  	
+image: "https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg",  	
+url: "https://cdn6.goprimetime.info/feed/202105171329/LC53/playlist.m3u8",	
+userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+	
+	
+{	
+name: "&FlixHD",  	
+image: "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png",  	
+url: "https://f8e7y4c6.ssl.hwcdn.net/andflixhd/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "&PriveHD",  	
+image: "https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg",  	
+url: "https://f8e7y4c6.ssl.hwcdn.net/andprivehd/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "&PicturesHD",  	
+image: "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/list/1170x658withlog_1476130363.jpg",  	
+url: "https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+	
+	
+	
+	
+	
+{	
+name: "Ovation",  	
+image: "https://www.ovationtv.com/app/themes/ovation/images/share_facebook.png",  	
+url: "https://vcnovation.teleosmedia.com/stream/ovation/ovationtv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Mytime Movie Network",  	
+image: "http://mytimemovienetwork.com/wp-content/uploads/2021/03/BannerMyTime3.jpg",  	
+url: "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Crackle",  	
+image: "https://miro.medium.com/max/1540/1*9DDsdE2ksry5w88NktO3Uw.jpeg",  	
+url: "https://crackle-xumo.amagi.tv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Run:Time",  	
+image: "https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_runtime.png",  	
+url: "https://ammoruntime-plex.amagi.tv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Brat TV",  	
+image: "https://www.brijaemorris.com/uploads/5/8/5/7/58575673/published/brat-tv-wordmark-blue-web.png?1584320989",  	
+url: "https://brat-roku-us.amagi.tv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "BUTACA TV",  	
+image: "https://image.roku.com/developer_channels/prod/810e3f4e4c2319eff930cdfe03a00ebf2a3eb1e35bd4368f2b858742cc5ce625.png",  	
+url: "https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "CINE LIFE",  	
+image: "https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png",  	
+url: "https://magselect-stirr.amagi.tv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Movie Sphere",  	
+image: "https://image.roku.com/developer_channels/prod/35a86ed623bc8974be2af3222d6affe78aaf050f7823ea751f1e7c32c6688d9b.png",  	
+url: "https://moviesphere-roku.amagi.tv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "MovieMix",  	
+image: "https://static.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png",  	
+url: "https://sonar.sinclair.wurl.com/manifest/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "SHOUT TV",  	
+image: "https://www.shoutfactorytv.com/assets/logo-new-ee14b0a629f2a23500bd88f93e465567.png",  	
+url: "https://shoutfactorytv-stirr.amagi.tv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Rouge TV",  	
+image: "https://live-tv-channels.org/pt-data/uploads/logo/ch-rouge-tv-1916.jpg",  	
+url: "https://livevideo.infomaniak.com/streaming/livecast/rougetv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Mello TV",  	
+image: "https://lh3.googleusercontent.com/rOUkQlN6on_0V6EMcMQOW_TwnmrnqYVgSTcyYYmBFbkoczDz3-y8n6Ej2sdgWaohsw",  	
+url: "https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Gravitas Movies",  	
+image: "https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png",  	
+url: "https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+	
+	
+	
+	
+	
+{	
+name: "Pluto TV Terror",  	
+image: "https://blog.tivo.com/wp-content/uploads/2020/08/terror-on-tivo-plus-1-1024x576.jpg",  	
+url: "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6fc3&deviceDNT=0&deviceModel=0",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Pluto TV Horror",  	
+image: "https://blog.tivo.com/wp-content/uploads/2020/08/featuredimage-8-1024x576.jpg",  	
+url: "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dfce&deviceDNT=0&deviceModel=0",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Bloody Disgusting",  	
+image: "https://pbs.twimg.com/profile_images/1198734123495559169/mSocd0eJ_400x400.jpg",  	
+url: "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "The Asylum",  	
+image: "https://www.sexjokesrock.com/wp-content/uploads/2019/08/media-PLUTO_3e119010-6f4c-49ed-bd4b-6a6b8dfe6e32.jpg",  	
+url: "https://asylum-stirr.amagi.tv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Scream Fest",  	
+image: "https://www.sliceofscifi.com/wp-content/uploads/2016/09/ScreamfestLA.jpg",  	
+url: "https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Dark Matter TV",  	
+image: "https://images-na.ssl-images-amazon.com/images/I/71YmSfOHNML.png",  	
+url: "https://dmtv-plex.amagi.tv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "HAUNT TV",  	
+image: "https://pbs.twimg.com/profile_images/1325839687215362048/B53Ca9Am_400x400.jpg",  	
+url: "https://haunttv-roku.amagi.tv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "American Horrors",	
+image: "https://americanhorrors.com/wp-content/uploads/2021/02/amhor-logo-tm.png",	
+url: "https://5f12bfd029e37.streamlock.net:443/live/Stream1/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Monster Movies",  	
+image: "https://i.vimeocdn.com/video/946356345_640x360.jpg",  	
+url: "https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "IFC Films",	
+image: "https://deadline.com/wp-content/uploads/2020/06/ifc-films.jpg",	
+url: "https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "IFC Slightly Off",	
+image: "https://media.wired.com/photos/593251a94dc9b45ccec5d343/master/w_1600%2Cc_limit/ifc-10.jpg",	
+url: "https://amc-slightly-off-by-amc-1-us.plex.wurl.tv/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "FilmRise Movies",	
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png",	
+url: "https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "FilmRise Action",	
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png",	
+url: "https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "FilmRise Scifi",	
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png",	
+url: "https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "FilmRise Crime",	
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png",	
+url: "https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "FilmRise Family",	
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png",	
+url: "https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+{	
+name: "Bizzarro Movies",  	
+image: "https://i.ytimg.com/vi/Sun6pPr4Wtg/maxresdefault.jpg",  	
+url: "https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "24 Hour Free Movies",  	
+image: "https://a.jsrdn.com/hls/22907/24-hour-free-movies/poster_20200922_191828.jpg",  	
+url: "https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Rakuten TV Action",  	
+image: "https://images.samsung.com/is/image/samsung/p5/ch_fr/smart-tv/samsung-tv-plus/FR_Action_TV_Plus_476x476_Circle.png",  	
+url: "https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Rakuten TV Comedy",  	
+image: "https://images.samsung.com/is/image/samsung/p5/ch_fr/smart-tv/samsung-tv-plus/FR_Comedy_TV_Plus_476x476_Circle.png",  	
+url: "https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+{	
+name: "Rakuten TV Drama",  	
+image: "https://play-lh.googleusercontent.com/83p_CXCRvPSQRcZQvFrPJYvDralOoYJiK-hP4zuK8ChjD0-F1e5Sc3kyVe-DjOMiHGs",  	
+url: "https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+	
+	
+	
+	
 ]	
 }	
-
+	
+	
