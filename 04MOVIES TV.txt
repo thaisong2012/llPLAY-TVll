@@ -13,7 +13,7 @@ url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04MOVIES
 {	
 name: "MOVIES",  	
 image: "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_6208b553c31f6.jpeg",  	
-url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/04-1MOVIES.txt",	
+url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04-1MOVIES.txt",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
