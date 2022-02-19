@@ -3,7 +3,7 @@ name: "SERIES TV",
 author: "@PLAY TV",	
 image: "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_620855337aad0.jpeg",	
 url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04-11SERIES.txt",	
-info: "ช่องและรายการทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",	
+	
 			
 stations: [	
 		
