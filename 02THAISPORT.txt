@@ -2,9 +2,8 @@
 name: "⚽ THAI SPORT ⚽",	
 author: "@PLAY TV",	
 image: "https://positioningmag.com/wp-content/uploads/2019/07/1-4.png",	
-url: "https://raw.githubusercontent.com/thaisong2012/IIHELLOTVII/master/02THAISPORTS9.txt",	
-info: "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",	
-		
+url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/02THAISPORT.txt",	
+
 	
 stations: [	
 	  
