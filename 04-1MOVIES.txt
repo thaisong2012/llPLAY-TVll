@@ -20,9 +20,9 @@ playInNatPlayer: "true"
 	
 	{	
 name: "HBO HD",  	
-image: "https://api.vip-streaming.com/images/movie/AzXGSbnMYBKqXQyMmYHWc6gkOGsZnBu.jpg",  	
+image: "https://newmoviehd.org/wp-content/uploads/2021/03/The-Falcon-and-the-Winter-Soldier-.jpg",  	
 url: "https://www.doonung1234.com/series/season/2869/The-Falcon-and-the-Winter-Soldier-Season-01-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",	
-referer: "https://doofree365.com/",	
+referer: "https://www.doonung1234.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
