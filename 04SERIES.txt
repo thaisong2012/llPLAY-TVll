@@ -3,17 +3,9 @@ name: "📽 SERIES",
 author: "@PLAY TV",	
 image: "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_6208b536d1ab8.jpeg",	
 url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04SERIES.txt",	
-	
-	
-	
-	
+		
 "groups": [	
-	
-	
-	
-	
-	
-	
+		
 {	
 name: "The Good Doctor คุณหมอฟ้าประทาน Season 1",  	
 image: "https://999-hd.com/wp-content/uploads/2021/08/6tfT03sGp9k4c0J3dypjrI8TSAI-683x1024.jpg.webp",  	
@@ -22,7 +14,14 @@ referer: "https://999-hd.com/",
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
-	
+{	
+name: "The Falcon and the Winter Soldier Season 1",  	
+image: "https://www.doseries.co/images/movie/I1G6n98gbLFSO77Aow4wiUH9Gtpu5McThe_Falcon_and_the_Winter_Soldier_S1.jpg",  	
+url: "https://raw.githubusercontent.com/thaisong2012/Series/main/The%20Good%20Doctor%20S1",	
+referer: "https://999-hd.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},		
 
 
 	
