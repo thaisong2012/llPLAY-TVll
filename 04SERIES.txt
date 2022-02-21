@@ -31,14 +31,21 @@ info: "PLAY TV",
 playInNatPlayer: "true"	
 },	
 {	
-name: "The Mandalorian (2019) พากย์ไทย",  	
+name: "The Mandalorian season 1 (2020) พากย์ไทย",  	
 image: "https://series-korea.com/assets/img/uploads/The-Mandalorian.webp",  	
 url: "https://raw.githubusercontent.com/thaisong2012/Series/main/The%20Mandalorian%20Season%201",	
-referer: "https://www.movie-19.com/",	
+referer: "https://series-korea.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
-
+{	
+name: "The Mandalorian season 2 (2020) พากย์ไทย",  	
+image: "https://series-korea.com/assets/img/uploads/The-Mandalorian-season-2.webp",  	
+url: "https://raw.githubusercontent.com/thaisong2012/Series/main/The%20Mandalorian%20season%202",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
 	
 	
 	
