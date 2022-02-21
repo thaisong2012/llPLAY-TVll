@@ -24,7 +24,7 @@ playInNatPlayer: "true"
 },		
 {	
 name: "HAWKEYE SEASON 1 (2021)",  	
-image: "https://www.movie-19.com/wp-content/uploads/2021/12/Hawkeye-Season-1-2021.jpg",  	
+image: "https://www.monomax.info/wp-content/uploads/2022/01/hawkey.jpg",  	
 url: "https://raw.githubusercontent.com/thaisong2012/Series/main/Hawkeye%20Season%201",	
 referer: "https://www.movie-19.com/",	
 info: "PLAY TV",	
