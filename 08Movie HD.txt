@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/Hidden-Figures-2016.jpg",HIDDEN FIGURES (2016) ทีมเงาอัจฉริยะ พากย์ไทย								
-https://p2p.cherry1678.com/view/80fa09db-b14a-518c-9d17-5154ca66bd2f.txt
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/Hidden-Figures-2016.jpg",HIDDEN FIGURES (2016) ทีมเงาอัจฉริยะ tttttttttttพากย์ไทย
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22256&disc=4
+https://server1.cdn-link.com/hls/d1UOnYK/file_,1080,720,360,.mp4.urlset/master.m3u8
+
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/Hidden-Figures-2016.jpg",HIDDEN FIGURES (2016) ทีมเงาอัจฉริยะ พากย์ไทย		https://p2p.cherry1678.com/view/80fa09db-b14a-518c-9d17-5154ca66bd2f.txt
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2021/10/6254733c5ef981c25fd4373c4388dcf7.jpg",The Legend Of Deification (2021) ตำนานราชาแห่งสวรรค์ พากย์ไทย								
 https://p2p.cherry1678.com/view/feeae2bb-8a7c-5a48-a2ab-ae2d0ec3810f.txt
