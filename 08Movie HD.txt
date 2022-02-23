@@ -1,8 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/Hidden-Figures-2016.jpg",HIDDEN FIGURES (2016) ทีมเงาอัจฉริยะ tttttttttttพากย์ไทย
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22256&disc=4
-https://server1.cdn-link.com/hls/d1UOnYK/file_,1080,720,360,.mp4.urlset/master.m3u8
+
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://cf.shopee.co.th/file/ce2d13450e0e1ee77d957e630ea72047",Transformers 1 (2007) มหาวิบัติจักรกลสังหารถล่มจักรวาล
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22277&disc=1
@@ -102,7 +100,10 @@ https://moviehdfree.xyz/view/0e87c3c2-cdc3-5499-889f-0aafbac11a11.m3u8
 https://lb1.one3up.com/hls/c47fdf0eb7421020cae518fbe4d9b5e6/c47fdf0eb7421020cae518fbe4d9b5e6.m3u8								
 								
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Eternals-2021.jpg",Eternals (2021) อีเทอร์นอลส์ ฮีโร่พลังเทพเจ้า(พากย์ไทย)								
-https://moviehdfree.xyz/files/cbd5ee215786bc1c16787e9a8efcc349_.txt								
+https://moviehdfree.xyz/files/cbd5ee215786bc1c16787e9a8efcc349_.txt	
+
+
+
 								
 								
 								
@@ -134,10 +135,12 @@ https://lb1.one3up.com/hls/2c715f2bc9653bcce6248e9ca748952e/2c715f2bc9653bcce624
 https://moviehdfree.xyz/files/78938d5743d54b13666128d98b426e01_.txt								
 								
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Avengers-3-Infinity-War-2018.jpg",AVENGERS 3 INFINITY WAR อเวนเจอร์ส อินฟินิตีวอร์ มหาสงครามอัญมณีล้างจักรวาล (2018) พากย์ไทย								
-https://lb1.one3up.com/hls/42772d182cb0b68bd2a96d7bc8f51e6a/42772d182cb0b68bd2a96d7bc8f51e6a.m3u8								
-								
-#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/04/thumb_2584.jpg",AVENGERS ENDGAME อเวนเจอร์ส เผด็จศึก (2019) พากย์ไทย								
-https://lb1.one3up.com/hls/df34b3db3549fec0af86145b4f51034e/df34b3db3549fec0af86145b4f51034e.m3u8								
+https://lb1.one3up.com/hls/42772d182cb0b68bd2a96d7bc8f51e6a/42772d182cb0b68bd2a96d7bc8f51e6a.m3u8
+
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/04/thumb_2584.jpg",AVENGERS ENDGAME อเวนเจอร์ส เผด็จศึก (2019) พากย์ไทย
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22256&disc=4
+https://server1.cdn-link.com/hls/d1UOnYK/file_,1080,720,360,.mp4.urlset/master.m3u8
+
 								
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3FAFBC0A49231243C13DCC537CF805918DD39E79681650B6DC690A5082F393FA/scale?width=1200&aspectRatio=1.78&format=jpeg",Guardians of the galaxy (2014) พากย์ไทย								
 https://p2p.cherry1678.com/files/01222900dd1ec53ec090932e2529d019_original.txt								
