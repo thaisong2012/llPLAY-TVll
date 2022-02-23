@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://cf.shopee.co.th/file/ce2d13450e0e1ee77d957e630ea72047",Transformers 1 (2007) มหาวิบัติจักรกลสังหารถล่มจักรวาล
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22277&disc=1
-https://server1.cdn-link.com/hls/b2l1q92/file_720.mp4/index.m3u8
+https://server1.cdn-link.com/hls/b2l1q92/file_,1080,720,360,.mp4.urlset/master.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="http://www.donunggun.com/wp-content/uploads/2021/06/Transformers-2-Revenge-of-the-Fallen.jpg",Transformers 2 (2009) มหาสงครามล้างแค้น
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22277&disc=2
