@@ -1,7 +1,27 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/Hidden-Figures-2016.jpg",HIDDEN FIGURES (2016) ทีมเงาอัจฉริยะ tttttttttttพากย์ไทย
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22256&disc=4
 https://server1.cdn-link.com/hls/d1UOnYK/file_,1080,720,360,.mp4.urlset/master.m3u8
+
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.img05.xyz/assets/movie_poster/5/5511bf55c6b70cab9db35691e1293f37.jpg",Transformers 1 (2007) มหาวิบัติจักรกลสังหารถล่มจักรวาลไทย
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22277&disc=1
+https://server1.cdn-link.com/hls/b2l1q92/file_,1080,720,360,.mp4.urlset/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/Hidden-Figures-2016.jpg",HIDDEN FIGURES (2016) ทีมเงาอัจฉริยะ พากย์ไทย		https://p2p.cherry1678.com/view/80fa09db-b14a-518c-9d17-5154ca66bd2f.txt
 
