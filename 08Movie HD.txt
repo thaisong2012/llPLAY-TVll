@@ -15,12 +15,12 @@ https://p2p.moviehdfree.xyz/hls/amhtSHNPMS9CQ0o1MDVyVnpNVXJROGxKdk5kZmZ2QjJ1eWxE
 https://p2p.moviehdfree.xyz/hls/cFk3ampvR1hnSGJaODlSZTJZcFh2cVdzeERWQ0xJekZBdGNPTFFxaGJ1eWlpd0tyL1RjSm9OeitUbCtBTzFNcjd6WVFhRm5ySkRSL1A4TU9OdE96QkZJUmJzdFZhbThIRm1xTW9yeWF4eERCQUZZM3FvZjl5aCtNc3cvdTdkSnpOdFB3TUxEODlWeU9UL0F2TUphZytJTFliRVpZMlZsK1NBWXd5OTN6Z3ZTRnVHNVFKc2YvV0hRUGwxeDlRdGd1Z3hxTWFQR1ZsYlFnL0NrUzBCeERUQT09/index.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="http://p.isanook.com/ms/0/transformers4/up/2014/05/poster.jpg",Transformers 4 (2014) มหาวิบัติยุคสุญพันธุ์
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22277&disc=4
-https://server1.cdn-link.com/hls/1xjyUUd/file_,1080,720,360,.mp4.urlset/master.m3u8
+#EXTVLCOPT:http-referrer=https://moviehdfree.net/transformers-4-age-of-extinction-2014-%e0%b8%97%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b9%8c%e0%b8%9f%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%a1%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%aa-4-%e0%b8%a1/
+https://p2p.moviehdfree.xyz/hls/SlE3VmlUVG5Xa25TVGk5RUlGNHpNSk1TdGk5RjUyTlNrQWs4eWVQNm1GWHh3VmswbysyLzE0K2tHQ1g3RlFaQldaWjN5ZEN0R21YUzNMYUh1L3p1QnhkKzRKTVozWlRPWWF1WXZTVjh2SitRZTROWCtBYzZBU1JFUkw2SkQ2NWlJUG1walBMNzdjVkcwcGJqS1FGU2lYRUM4S1AycFdtbkR6Q2s2Qk8wcHBjRlh1NVNqYXNQcXFhd3U0TnFidUlWankvMWFlZjhyb2s5cFFIZFlHVjFwUT09/index.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://pbs.twimg.com/media/DCAX-pFUAAAgfu3?format=jpg&name=large",Transformers 5 The Last Knight (2017) อัศวินรุ่นสุดท้าย
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22277&disc=5
-https://server1.cdn-link.com/hls/i1N4h8O/file_,1080,720,360,.mp4.urlset/master.m3u8
+#EXTVLCOPT:http-referrer=https://moviehdfree.net/transformers-5-2017-%e0%b8%97%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b9%8c%e0%b8%9f%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%a1%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%aa-5-%e0%b8%ad%e0%b8%b1%e0%b8%a8/
+https://p2p.moviehdfree.xyz/hls/anFBUkhPVDk1K1QzTjkxc2xCdFFGWndmQlF0dGUzR3JQMHJkUjZuUEhrSk1SclZ2NUlrRlJQVFJWN2lpbGU4QkFTbHJWMnVudVFKSXFTQjJZRndtdXdhZUxZSWtVUG5zRW1NMlNOYlZwSEg4VFl4bnVoakMvbnZyak9UNnNZT25YU2E3aEVqZkZzWnhzQVlENm1SQ3lyQXZwc1UxZ1lxd3pNVlF6dWlTQ1hsQjZXcXliSXliVkFWOU00alJqYkJkWjBJeU9RajZPMVovelliSkxodE14UT09/index.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://i2.wp.com/teaser-trailer.com/wp-content/uploads/Transformers-6-Bumblebee-Film-Poster-2.jpg?ssl=1",Bumblebee (2018)
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22277&disc=6
