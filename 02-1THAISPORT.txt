@@ -5,7 +5,6 @@
 # =======================================================
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 Test1
-#EXTVLCOPT:http-referrer=https://dooball4k.live/match/?id=2188211
 https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/ch28/chunks.m3u8?nimblesessionid=5243742|Referer=https://dooball4k.live/match/?id=2188211
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 Test2 
