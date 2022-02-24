@@ -4,6 +4,10 @@
 # Last Update: 27-12-2564
 # =======================================================
 
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",Test m3u8
+
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 (720p) [Not 24/7]
 https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
