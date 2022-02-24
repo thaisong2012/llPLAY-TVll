@@ -12,7 +12,7 @@ https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/ch28/chunks.m3u8?nimb
 https://cdn1.aws-live-streaming.com/ais/ch28/chunks.m3u8?nimblesessionid=35089364
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 Test3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=livetv_schedule
+
 https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/?r=livetv_schedule
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 (720p) [Not 24/7]
@@ -64,7 +64,7 @@ https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=tv_view&id=19
 https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 
-
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=livetv_schedule
 
 
 
