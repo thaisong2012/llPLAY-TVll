@@ -59,7 +59,5 @@ https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://ww
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/bein1/playlist.m3u8|Referer=https://www.andaman888th.com
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png" group-title="Sport",beinSPORT 2
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=tv_view&id=19
-https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
-
+https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/?r=tv_view&id=19
 
