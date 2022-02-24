@@ -12,6 +12,9 @@ https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/ch28/chunks.m3u8?nimb
 #EXTVLCOPT:http-referrer=https://aisplay24hd.com/live-football/?id=2188211#https://ball442.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%947m%20%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/
 https://cdn1.aws-live-streaming.com/ais/ch28/chunks.m3u8?nimblesessionid=35089364
 
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 Test3
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=livetv_schedule
+https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 (720p) [Not 24/7]
 https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
