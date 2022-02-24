@@ -53,12 +53,14 @@ https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
 
 
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" group-title="Sport",beinSport 1
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDIyIDY6MzM6MzYgUE0maGFzaF92YWx1ZT10Wmp2SEtmc2hzUlh6MEN6cGZDanlRPT0mdmFsaWRtaW51dGVzPTIw"
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=livetv_schedule
+https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" group-title="Sport",beinSport 1
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=livetv_schedule
+https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png" group-title="Sport",beinSPORT 2
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDIyIDY6NDA6MTEgUE0maGFzaF92YWx1ZT1Nb2pkbE1Tb1E4V0d5Y2RLSEZOcER3PT0mdmFsaWRtaW51dGVzPTIw"
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=tv_view&id=19
+https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
