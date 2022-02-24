@@ -11,8 +11,8 @@ https://p2p.moviehdfree.xyz/hls/bTA1RDdFQVRaK29ER3cxUStxbm9EYkJyZE1XaWNFZ2hoQ2NS
 https://p2p.moviehdfree.xyz/hls/amhtSHNPMS9CQ0o1MDVyVnpNVXJROGxKdk5kZmZ2QjJ1eWxEVXBTc3dzU1NlR2lOdi9yeG1XU0gwNFNIYlByZFN2RzcwTXorWWxVNFkxREJETDRBd0paanF3ckhFTjhrMzlTOWk4cDEvQ05pQUpFTFc4YThOMnViQ0xiZVVOY24ydGJleE9GZHBkayt6WUlHRjh1MVhmbGF1VjJLcXEvcmVXTTdrR0tqTFd3NXVtTWZ6OSt3UzlneWNZaEQ1OWpDVVhQb21GMHdDcUd4U3gxaUQwYmRGdz09/index.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.bloggang.com/data/branelay/picture/1309356854.jpg",Transformers 3 (2011) ดาร์ค ออฟ เดอะ มูน
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22277&disc=3
-https://server1.cdn-link.com/hls/hM29FJC/file_,1080,720,360,.mp4.urlset/master.m3u8
+#EXTVLCOPT:http-referrer=https://moviehdfree.net/transformers-3-dark-of-the-moon-2011-%e0%b8%97%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b9%8c%e0%b8%9f%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%a1%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%aa-3-%e0%b8%94/
+https://p2p.moviehdfree.xyz/hls/cFk3ampvR1hnSGJaODlSZTJZcFh2cVdzeERWQ0xJekZBdGNPTFFxaGJ1eWlpd0tyL1RjSm9OeitUbCtBTzFNcjd6WVFhRm5ySkRSL1A4TU9OdE96QkZJUmJzdFZhbThIRm1xTW9yeWF4eERCQUZZM3FvZjl5aCtNc3cvdTdkSnpOdFB3TUxEODlWeU9UL0F2TUphZytJTFliRVpZMlZsK1NBWXd5OTN6Z3ZTRnVHNVFKc2YvV0hRUGwxeDlRdGd1Z3hxTWFQR1ZsYlFnL0NrUzBCeERUQT09/index.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="http://p.isanook.com/ms/0/transformers4/up/2014/05/poster.jpg",Transformers 4 (2014) มหาวิบัติยุคสุญพันธุ์
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/?r=movie_view&id=22277&disc=4
