@@ -42,7 +42,7 @@ https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=ht
 
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.livedoomovie.com/
+https://r3-sn-5fo-c37ed23.googleuservideo.com/ball8k_t1/trueepl1_480p/chunks.m3u8?nimblesessionid=1032226&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDI6MDg6MzUgUE0maGFzaF92YWx1ZT0xeFl3WGRSY3pKMVl0WWYvdHo0d2RRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjMmaWQ9NDY5MjE5|Referer=https://ufa77.tv/channel?ch=epl1
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-2.png" group-title="Sport",True Premier Football HD 2 (720p) [Not 24/7]
 https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
