@@ -25,50 +25,49 @@ https://cdn1.aws-live-streaming.com/ais/ch41/playlist.m3u8|Referer=https://aispl
 
 
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 Test1
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf1/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 Test2 
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/tpf1/playlist.m3u8|Referer=https://www.andaman888th.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 Test2
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
 https://cdn1.aws-live-streaming.com/ais/ch28/playlist.m3u8|Referer=https://aisplay24hd.com/live-football/?id=2188261
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 Test3
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
 https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/?r=livetv_schedule
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-2.png" group-title="Sport",True Premier Football HD 2 (720p) 
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-2.png" group-title="Sport",True Premier Football HD 2
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf2/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-3.png" group-title="Sport" ,True Premier Football HD 3 (720p) 
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-3.png" group-title="Sport" ,True Premier Football HD 3
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf3/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-4.png" group-title="Sport",True Premier Football HD 4 (720p) 
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-4.png" group-title="Sport",True Premier Football HD 4 
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf4/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-5.png" group-title="Sport",True Premier Football HD 5 (720p)
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-5.png" group-title="Sport",True Premier Football HD 5
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf5/playlist.m3u8|Referer=https://www.livestream88.com/
 
 
-#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2021/06/sd-tsport5.png" group-title="Sport",True Sport 5 (480p Scaled) (720p)
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2021/06/sd-tsport5.png" group-title="Sport",True Sport 5
 https://smart-tv.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2021/06/sd-tsport7.png" group-title="Sport",True Sport 7 (480p Scaled) (720p) 
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2021/06/sd-tsport7.png" group-title="Sport",True Sport 7
 https://smart-tv.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport1.png" group-title="Sport",True Sport HD 1 (720p) 
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport1.png" group-title="Sport",True Sport HD 1
 https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport2.png" group-title="Sport",True Sport HD 2 (720p)
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport2.png" group-title="Sport",True Sport HD 2
 https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport3.png" group-title="Sport",True Sport HD 3 (720p) 
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport3.png" group-title="Sport",True Sport HD 3 
 https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport4.png" group-title="Sport",True Sport HD 4 (720p)
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport4.png" group-title="Sport",True Sport HD 4 
 https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tennis.png" group-title="Sport",True Tennis HD (720p) 
-https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tennis.png" group-title="Sport",True Tennis HD
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truetennis/playlist.m3u8|Referer=https://www.livestream88.com/
 
