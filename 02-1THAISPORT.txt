@@ -8,7 +8,7 @@
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/tpf1/playlist.m3u8|Referer=https://www.andaman888th.com
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 Test2 
-https://r3-sn-5fo-c37ed63.googleuservideo.com/dooball66_a1/trueepl1_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDc6NTA6NDggQU0maGFzaF92YWx1ZT11WmthZms3UE9xc1ljUnNlM2ZJRjN3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjYmaWQ9ODAwMTkx
+https://cdn1.aws-live-streaming.com/ais/ch52/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1 Test3
 https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/?r=livetv_schedule
