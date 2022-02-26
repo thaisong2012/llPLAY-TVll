@@ -6,7 +6,16 @@ url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/02THAISP
 
 	
 stations: [	
-	  	
+	  
+	
+	
+{	
+name: "1 October 2021",  	
+image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV82g-q6ryPsTSbFGLTP5c6h5Zp8vwPFfsKg&usqp=CAU",  	
+url: "https://ufa77.tv/home",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
 	
 {	
 name: "Bein Sports 1 TH",	
@@ -14,8 +23,8 @@ image: "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png
 url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "PLAY TV",	 
-playInNatPlayer: "true"
+info: "PLAY TV",	
+desktop: "true"	
 },	
 {	
 name: "Bein Sports 1 TH",	
@@ -23,7 +32,7 @@ image: "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png
 url: "https://ufa77.tv/channel?ch=bein1",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "Bein Sports 1 TH",	
@@ -31,7 +40,7 @@ image: "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png
 url: "https://www.liveballsod.com/tv-online/ch026b/",	
 referer: "https://www.liveballsod.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "Bein Sports 2 TH",  	
@@ -40,7 +49,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "Bein Sports 2 TH",  	
@@ -48,7 +57,7 @@ image: "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png
 url: "https://ufa77.tv/channel?ch=bein2",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "Bein Sports 2 TH",  	
@@ -56,7 +65,7 @@ image: "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png
 url: "https://www.liveballsod.com/tv-online/ch027a/",	
 referer: "https://www.liveballsod.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },
 {	
 name:"EPL1-Smart-tv",	
@@ -65,7 +74,7 @@ url:"https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8",
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name:"EPL1",	
@@ -74,7 +83,7 @@ url:"https://365liveball.com/True-Premier-HD",
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },
 {	
 name:"EPL1",	
@@ -83,7 +92,7 @@ url:"https://r3-sn-5fo-c37ed23.googleuservideo.com/ball8k_t1/trueepl1_480p/chunk
 referer: "https://ufa77.tv/channel?ch=epl1",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "EPL1",	
@@ -91,7 +100,7 @@ image: "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d432454
 url: "https://ufa77.tv/channel?ch=epl1",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "EPL1",	
@@ -99,7 +108,7 @@ image: "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d432454
 url: "https://we-play.live/watching/tv/true-premier-football-hd-1",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "EPL1",	
@@ -107,8 +116,11 @@ image: "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d432454
 url: "https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8",	
 referer: "https://www.doomovie-hd.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
-},		
+playInNatPlayer: "true"	
+},	
+	
+	
+	
 {	
 name: "EPL2",	
 image: "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",	
@@ -116,7 +128,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf6
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "EPL2",	
@@ -124,7 +136,7 @@ image: "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f18
 url: "https://www.ball8k.com/channel?ch=epl2",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "EPL2",	
@@ -132,7 +144,7 @@ image: "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f18
 url: "https://we-play.live/watching/tv/true-premier-football-hd-2",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "EPL2",	
@@ -140,8 +152,10 @@ image: "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f18
 url: "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/737666/epl2",	
 referer: "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
-},		
+playInNatPlayer: "true"	
+},	
+	
+	
 {	
 name: "EPL3",	
 image:"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",	
@@ -149,7 +163,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf6
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "EPL3",	
@@ -157,7 +171,7 @@ image:"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d0
 url: "https://www.ball8k.com/channel?ch=epl3",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "EPL3",	
@@ -177,7 +191,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf6
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "EPL4",	
@@ -185,7 +199,7 @@ image:"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c4
 url: "https://www.ball8k.com/channel?ch=epl4",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "EPL4",	
@@ -193,7 +207,7 @@ image:"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c4
 url: "https://we-play.live/watching/tv/true-premier-football-hd-4",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 	
 	
@@ -205,7 +219,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf6
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "EPL5",	
@@ -213,7 +227,7 @@ image:"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce
 url: "https://www.ball8k.com/channel?ch=epl5",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "EPL5",	
@@ -221,7 +235,7 @@ image:"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce
 url: "https://we-play.live/watching/tv/true-premier-football-hd-5",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 	
 	
@@ -234,7 +248,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd1&api_key=h
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "True Sports HD",	
@@ -243,7 +257,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "True Sports HD",	
@@ -251,7 +265,7 @@ image: "https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be0
 url: "https://www.ball8k.com/channel?ch=truesporthd",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports HD",	
@@ -270,7 +284,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd2&api_key=h
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "True Sports HD2",	
@@ -279,7 +293,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "True Sports HD2",	
@@ -287,7 +301,7 @@ image: "https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be0
 url: "https://www.ball8k.com/channel?ch=truesporthd2",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports HD2",	
@@ -295,7 +309,7 @@ image: "https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be0
 url: "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd2/",	
 referer: "https://www.andaman888th.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 	
 	
@@ -307,7 +321,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd3&api_key=h
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "True Sports HD3",	
@@ -316,7 +330,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport3&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "True Sports HD3",	
@@ -324,7 +338,7 @@ image: "https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985c
 url: "https://www.ball8k.com/channel?ch=truesporthd3",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports HD3",	
@@ -332,7 +346,7 @@ image: "https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985c
 url: "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd3/",	
 referer: "https://www.andaman888th.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 	
 	
@@ -344,7 +358,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd4&api_key=h
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "True Sports HD4",	
@@ -353,7 +367,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport4&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 	
 	
@@ -364,7 +378,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport5&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "True Sports 5",	
@@ -380,7 +394,7 @@ image: "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c
 url: "https://we-play.live/watching/tv/true-sports-5",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports 5",	
@@ -388,7 +402,7 @@ image: "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c
 url: "https://www.liveballsod.com/tv-online/ch039/",	
 referer: "https://www.liveballsod.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 	
 	
@@ -400,7 +414,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport7&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"	
+desktop: "true"	
 },	
 {	
 name: "True Sports 7",	
@@ -424,7 +438,7 @@ image: "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c
 url: "https://www.liveballsod.com/tv-online/ch041/",	
 referer: "https://www.liveballsod.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 	
 	
@@ -436,7 +450,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv&api_key=hmcb4
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "SPOTV",	
@@ -444,7 +458,7 @@ image: "https://overseer.blackboxsys.net/images/png/hd-spotv.png",
 url: "https://we-play.live/watching/tv/spotv",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
-playInNatPlayer: "true""	
+playInNatPlayer: "true"	
 },	
 {	
 name: "SPOTV 2",	
@@ -453,7 +467,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv2&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "SPOTV 2",	
@@ -461,7 +475,7 @@ image: "https://overseer.blackboxsys.net/images/png/hd-spotv2.png",
 url: "https://we-play.live/watching/tv/spotv2",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 	
 	
@@ -472,7 +486,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-tennis&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "True Tennis",	
@@ -481,7 +495,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tennis&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "True Tennis",	
@@ -489,7 +503,7 @@ image: "https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d
 url: "https://www.ball8k.com/channel?ch=truetennis",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Tennis",	
@@ -497,7 +511,7 @@ image: "https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d
 url: "https://www.liveballsod.com/tv-online/ch042/",	
 referer: "https://www.liveballsod.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 	
 	
@@ -509,7 +523,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-golf&api_key=hmcb4r
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "Golf Channel",	
@@ -518,7 +532,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-golf&api_key=hmcb4r
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "Golf Channel",	
@@ -526,7 +540,7 @@ image: "https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b029
 url: "https://www.ball8k.com/channel?ch=golfchannel",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "Golf Channel",	
@@ -534,8 +548,10 @@ image: "https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b029
 url: "https://we-play.live/watching/tv/golf-channel",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
-},		
+playInNatPlayer: "true"	
+},	
+	
+	
 {	
 name: "Golf Channel 2",	
 image: "https://overseer.blackboxsys.net/images/png/hd-golf2.png",	
@@ -543,7 +559,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-golf2&api_key=hmcb4
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "Golf Channel 2",	
@@ -551,8 +567,11 @@ image: "https://overseer.blackboxsys.net/images/png/hd-golf2.png",
 url: "https://we-play.live/watching/tv/golf-channel-thailand-hd2",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
-},		
+playInNatPlayer: "true"	
+},	
+	
+	
+	
 {	
 name: "NBA TV",	
 image: "https://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",	
@@ -560,7 +579,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-nba&api_key=hmcb4rf
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "NBA TV",	
@@ -569,7 +588,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-nba&api_key=hmcb4rf
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "NBA TV",	
@@ -585,8 +604,10 @@ image: "https://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc2
 url: "https://we-play.live/watching/tv/nba-tv",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
-},		
+playInNatPlayer: "true"	
+},	
+	
+	
 {	
 name: "NFL Network",	
 image: "https://cms.dmpcdn.com/livetv/2020/06/23/db9e0980-b550-11ea-8fac-236a281cd6c5_320.png",	
@@ -594,7 +615,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-nfl&api_key=hmcb4rf
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "NFL Network",	
@@ -603,15 +624,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-nfl&api_key=hmcb4rf
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
-},	
-{	
-name: "NFL Network",	
-image: "https://cms.dmpcdn.com/livetv/2020/06/23/db9e0980-b550-11ea-8fac-236a281cd6c5_320.png",	
-url: "https://we-play.live/watching/tv/nfl-network",	
-referer: "https://we-play.live/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "NFL Network",	
@@ -620,7 +633,18 @@ url: "https://we-play.live/watching/tv/nfl-network",
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
-},		
+},	
+{	
+name: "NFL Network",	
+image: "https://cms.dmpcdn.com/livetv/2020/06/23/db9e0980-b550-11ea-8fac-236a281cd6c5_320.png",	
+url: "https://we-play.live/watching/tv/nfl-network",	
+referer: "https://we-play.live/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
+	
+	
+	
 {	
 name: "T Sports ",	
 image: "https://www.img04.xyz/assets/img/ch_logo/TSportsChannel.png",  	
@@ -628,7 +652,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsports&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "T Sports ",	
@@ -636,7 +660,7 @@ image: "https://www.img04.xyz/assets/img/ch_logo/TSportsChannel.png",
 url: "https://www.liveballsod.com/tv-online/ch395/",	
 referer: "https://www.liveballsod.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true""	
+playInNatPlayer: "true"	
 },	
 {	
 name: "T Sports ",	
@@ -644,8 +668,14 @@ image: "https://www.img04.xyz/assets/img/ch_logo/TSportsChannel.png",
 url: "https://www.ball8k.com/channel?ch=tsports",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
-},		
+playInNatPlayer: "true"	
+},	
+	
+	
+	
+	
+	
+	
 {	
 name: "Astro SuperSport",  	
 image: "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",  	
@@ -653,7 +683,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=my-asp1hd&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "Astro SuperSport",  	
@@ -661,7 +691,7 @@ image: "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",
 url: "https://www.ball8k.com/channel?ch=astrosupersport",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "Astro SuperSport",  	
@@ -670,7 +700,7 @@ url: "https://daddylive.me/embed/stream-123.php",
 referer: "https://daddylive.me/",	
 userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "Astro SuperSport 2",  	
@@ -679,7 +709,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=my-asp2hd&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "Astro SuperSport 2",  	
@@ -687,7 +717,7 @@ image: "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",
 url: "https://www.ball8k.com/channel?ch=astrosupersport2",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "Astro SuperSport 2",  	
@@ -696,7 +726,7 @@ url: "https://daddylive.me/embed/stream-124.php",
 referer: "https://daddylive.me/",	
 userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "Astro SuperSport 3",  	
@@ -705,7 +735,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=my-asp3hd&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "Astro SuperSport 3",  	
@@ -722,7 +752,7 @@ url: "https://daddylive.me/embed/stream-125.php",
 referer: "https://daddylive.me/",	
 userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "Astro SuperSport 4",  	
@@ -731,7 +761,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=my-asp4&api_key=hmcb4r
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+desktop: "true"	
 },	
 {	
 name: "Astro SuperSport 4",  	
@@ -739,7 +769,7 @@ image: "https://overseer.blackboxsys.net/images/png/my-asp4.png",
 url: "https://www.ball8k.com/channel?ch=astrosupersport4",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "Astro SuperSport 4",  	
@@ -748,7 +778,7 @@ url: "https://daddylive.me/embed/stream-126.php",
 referer: "https://daddylive.me/",	
 userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 	
 info: "PLAY TV",	
-playInNatPlayer: "true""	
+playInNatPlayer: "true"	
 },	
 {	
 name: "Astro SuperSport 5",  	
@@ -757,7 +787,7 @@ url: "https://daddylive.me/embed/stream-136.php",
 referer: "https://daddylive.me/",	
 userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 	
 	
@@ -768,7 +798,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logov5.png/320
 url: "http://xemtv.nhanhnhat.net/kenh-vtv5-truc-tuyen-hot.html",	
 userAgent: "exoplayer_video",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "VTV 6",	
@@ -776,35 +806,35 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/VTV6_logo.png/
 url: "http://www.xemtivimienphi.net/xem-kenh-vtv6hd-truc-tuyen-live.html",	
 userAgent: "exoplayer_video",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "CCTV5 FHD",	
 image: "http://www.nettvpro.live/uploads/18/1-1PZ21S93X48.jpg",	
 url: "http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "CCTV5",	
 image: "http://www.nettvpro.live/uploads/18/1-1PZ21S93X48.jpg",	
 url: "https://cctv5txyh5ca.liveplay.myqcloud.com/live/cctv5_2/index.m3u8",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "CCTV5+ FHD",	
 image: "http://www.nettvpro.live/uploads/170103/1-1F1031Q640N5.jpg",	
 url: "http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 {	
 name: "CCTV5+",	
 image: "http://www.nettvpro.live/uploads/170103/1-1F1031Q640N5.jpg",	
 url: "https://cctv5txyh5ca.liveplay.myqcloud.com/live/cctv5plus_2/index.m3u8",	
 info: "PLAY TV",	
-playInNatPlayer: "true"
+playInNatPlayer: "true"	
 },	
 	
 	
