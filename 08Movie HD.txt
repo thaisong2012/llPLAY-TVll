@@ -1,6 +1,25 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/05/Resident-Evil-1-2002.jpg",Resident Evil 1 (2002) ผีชีวะ 1
+https://p2p.moviehdfree.xyz/hls/aDd3eXFlUS95WGFPWVFheWVzVTN4RXUrNkN4TlZxQmtvdzlwczI0ajJzM0V6TTBqRzNDWXIyUHdRVXBtL1lMRmR6Wittb0xqcnJrR21sWnFYWnpmNTBFenlkMWZ3Q3F2aHA5eWRXWXNuOTIwNEdJZFdxZFl2S0N6bnJXclRhME1QcHBDTllHdDFWSkJiQUtGNFZjbkNROVFFekorU0k1clFrZ3NrazdDeVdIV0UwUjVsd1ZTY2JDZ21BV1kxUWpEYmxvRk1lbjh5R2pya1M4b040dm1udz09/index.m3u8
+
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/05/Apocalypse-2004.jpg",Resident Evil 2 : Apocalypse (2004) ผีชีวะ 2 ผ่าวิกฤตไวรัสสยองโลก
+https://p2p.moviehdfree.xyz/hls/U1doejNSMTBvanpkZENOam9laFkwdzJJczZlZlJoVVpua05iTmRldEoyMTRtc2IrREZzVXBCTUcvdzJpRVpaRWdQc0gyV3ZwenZvUFI4TkluRGw0cW1ldVJzbVU0dzZSRXcvL1h1VEhDV0d3emtxc1pLVitxc21vMTR4ZVljeHl2NHl1L1FmV3NYMUpYWnBGem5FbCtTUnVSL1d2Zkx1UXhWOTR0ZFMxak10Nmc2cHdUaTNoRWtlTjI3Mm5FUllETnRrUEZMN2d5QnUrTVdIdmxNMlhjdz09/index.m3u8
+
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/05/Extinction-2007.jpg",Resident Evil 3: Extinction (2007) ผีชีวะ 3 สงครามสูญพันธุ์ไวรัส
+https://p2p.moviehdfree.xyz/hls/R01MNlRLN1FabzRITmJCUFVPUUdONDdLQUFiRmRJbllxcmFNcnhYZUNYUzFEcDZka29vSldScVpiYU9ialVEM3dMM2FmZnhhc0oyQ2FUT0luK2tFMDJqZ0JzM0o0TGlpdFVuOU1CWndqKzVXVzlkYWw2eVpLVE9PbzRqV0JacFdsTmsrbTZvSmQxcnVFVm0ycURncEI1VS9PM3FuNTg4R1U4VHd3UHFRTFZWTFp3aHQ0Y0IxMDlKL2c3K3dPVXNTbmNZd25iWjR0ZnRqTG1XcFJhdjBRZz09/index.m3u8
+
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/05/Afterlife-2010.jpg",Resident Evil 4: Afterlife (2010) ผีชีวะ 4 สงครามแตกพันธุ์ไวรัส
+https://p2p.moviehdfree.xyz/hls/cStEWkx0SXpQM3V2eTJWcGdSenppZDVUZVpuREc4NGFnZ2Y4NkNMZzlWVmNTYnQzaDY0bk4zRTlxWTBCSzdXSVl6T2xQamlFbllZSFdYaHFJa1kzZENKUnltdkUxUjZaMjV5MDl4dGtWL3FmampFN1pKc255cDhzSkxQckxnVGZjV1ZFZDVIeHdWL0xubHV6MG1TNjczZDZMSGxZL2lBK0tYbEJSTmNSWWVZa1VieFVnRzUvdVowUGdEVEZpSHlxTXZZMkNLVDdGalpLZkxsVXNtZmFRZz09/index.m3u8
+
+
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/05/RETRIBUTION-2012.jpg",RESIDENT EVIL 5 : RETRIBUTION (2012) ผีชีวะ 5 สงครามไวรัสล้างนรก
+https://p2p.moviehdfree.xyz/hls/MXRPbXlHYVVqVHJRVWgxdThyNnBab0QwdXdQWmpvc0lmcnk0RGswRGZmdlZxdUlFdlN0RVd5Nit2cDNUdXZoN3QzUFoyZzA5bW44Q0xCVVpFNFV2clZRNmdmb25DZE5vV1RxVUNRQzBJckJhU1lzeTBOaFNrakVRSXVFbnJNM1RMT3hBZEF2YndmeEUweDhZUzVRek9aY1Q2OHZuU3ZpOVVsbXQ5RTdtZmdCbExmTTg0ZzU2TnJDVGczbmRlOTJnZUxINzB0NVN2R2NxVWlqMnQydmIrdz09/index.m3u8
+
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/05/Resident-Evil-The-Final-Chapter-2016.jpg",Resident Evil The Final Chapter (2016) อวสานผีชีวะ
+https://p2p.moviehdfree.xyz/hls/UVVhQmROaTZBSXoyRW4zeVZ0cG9xWktlc1Y5aERRZnEzdmdJaGl6NmRBcG5NNG9aZE12YVhOSzB0dENyc2hXMUJYaTA1WlhhM0FnZmpyelVzTStDTUZjRm1FMVU2TjdlRE0wWE5kQVJDNmtVN2h6SzR0ZE5aVko1SFdSUytHR1FyNnF5Uy83S1NWaWdJZlZrYzJBUVlQSmtRUGVIR2dSTXdrS1lhSEREdk9NQ1U2Tkd5b05sdUo2T2RSQUZScEQ1bTZ5OCt0V04xWTVOMU9FeTczVDY4dz09/index.m3u8
+
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/SmYxn8Ts6RcvLtPguMp.jpg",Underworld (2003) สงครามโค่นพันธุ์อสูร ภาค 1
 https://www656.ff-02.com/token=GYsRdgR8U9oTIWrF_is_Jw/1645899276/2001:44c8::/107/0/f3/2238720d8813532dff1315e5e595ff30-720p.mp4
 
