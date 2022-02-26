@@ -108,10 +108,7 @@ url: "https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8",
 referer: "https://www.doomovie-hd.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"
-},	
-	
-	
-	
+},		
 {	
 name: "EPL2",	
 image: "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",	
@@ -144,9 +141,7 @@ url: "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/737666/epl
 referer: "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"
-},	
-	
-	
+},		
 {	
 name: "EPL3",	
 image:"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",	
@@ -540,9 +535,7 @@ url: "https://we-play.live/watching/tv/golf-channel",
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"
-},	
-	
-	
+},		
 {	
 name: "Golf Channel 2",	
 image: "https://overseer.blackboxsys.net/images/png/hd-golf2.png",	
@@ -559,10 +552,7 @@ url: "https://we-play.live/watching/tv/golf-channel-thailand-hd2",
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"
-},	
-	
-	
-	
+},		
 {	
 name: "NBA TV",	
 image: "https://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",	
@@ -596,9 +586,7 @@ url: "https://we-play.live/watching/tv/nba-tv",
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"
-},	
-	
-	
+},		
 {	
 name: "NFL Network",	
 image: "https://cms.dmpcdn.com/livetv/2020/06/23/db9e0980-b550-11ea-8fac-236a281cd6c5_320.png",	
@@ -632,10 +620,7 @@ url: "https://we-play.live/watching/tv/nfl-network",
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
-},	
-	
-	
-	
+},		
 {	
 name: "T Sports ",	
 image: "https://www.img04.xyz/assets/img/ch_logo/TSportsChannel.png",  	
@@ -660,13 +645,7 @@ url: "https://www.ball8k.com/channel?ch=tsports",
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"
-},	
-	
-	
-	
-	
-	
-	
+},		
 {	
 name: "Astro SuperSport",  	
 image: "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",  	
