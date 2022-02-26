@@ -1,5 +1,7 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://pbs.twimg.com/media/DCAX-pFUAAAgfu3?format=jpg&name=large",Transformers 5 The Last Knight (2017) อัศวินรุ่นสุดท้าย t1
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://server1.cdn-link.com/hls/i1N4h8O/file_,1080,720,360,.mp4.urlset/master.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/02/The-King-s-Man-2021.jpg",The King's Man (2021) กำเนิดโคตรพยัคฆ์คิงส์แมน
 https://cloud-systemb4404.myftp.org/HDD3/movie-online/movie%202022/02.%20February%202022/The%20Kings%20Man%20%282022%29%20%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
