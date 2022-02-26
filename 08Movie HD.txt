@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/06/The-Misfits-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5.jpg",The Misfits (2021) พยัคฆ์ทรชน ปล้นพลิกโลก
+https://lb1.one3up.com/hls/6f16b3c088f3f360b5569657fcac40f8/6f16b3c088f3f360b5569657fcac40f8.m3u8|Referer=https://www.037hdmovie.com
+
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/02/Resident-Evil-Welcome-to-Raccoon-City-2021.jpg",Resident Evil: Welcome to Raccoon City (2021) ผีชีวะ ปฐมบทแห่งเมืองผีดิบ
+https://lb1.one3up.com/hls/9baec905c9b52b8b9575b988728e5bee/9baec905c9b52b8b9575b988728e5bee.m3u8|Referer=https://www.037hdmovie.com
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/02/The-King-s-Man-2021.jpg",The King's Man (2021) กำเนิดโคตรพยัคฆ์คิงส์แมน
 https://lb1.one3up.com/hls/c69be9ff64dca6a038ccd0ba4404018b/c69be9ff64dca6a038ccd0ba4404018b.m3u8|Referer=https://www.037hdmovie.com
