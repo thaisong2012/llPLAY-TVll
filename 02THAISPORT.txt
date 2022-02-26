@@ -24,7 +24,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "Bein Sports 1 TH",	
@@ -49,7 +49,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "Bein Sports 2 TH",  	
@@ -74,7 +74,7 @@ url:"https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8",
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name:"EPL1",	
@@ -83,7 +83,7 @@ url:"https://365liveball.com/True-Premier-HD",
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },
 {	
 name:"EPL1",	
@@ -92,7 +92,7 @@ url:"https://r3-sn-5fo-c37ed23.googleuservideo.com/ball8k_t1/trueepl1_480p/chunk
 referer: "https://ufa77.tv/channel?ch=epl1",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "EPL1",	
@@ -128,7 +128,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf6
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "EPL2",	
@@ -163,7 +163,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf6
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "EPL3",	
@@ -191,7 +191,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf6
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "EPL4",	
@@ -219,7 +219,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf6
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "EPL5",	
@@ -248,7 +248,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd1&api_key=h
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports HD",	
@@ -257,7 +257,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports HD",	
@@ -284,7 +284,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd2&api_key=h
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports HD2",	
@@ -293,7 +293,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports HD2",	
@@ -321,7 +321,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd3&api_key=h
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports HD3",	
@@ -330,7 +330,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport3&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports HD3",	
@@ -358,7 +358,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd4&api_key=h
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports HD4",	
@@ -367,7 +367,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport4&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 	
 	
@@ -378,7 +378,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport5&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports 5",	
@@ -414,7 +414,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport7&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Sports 7",	
@@ -450,7 +450,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv&api_key=hmcb4
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "SPOTV",	
@@ -467,7 +467,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv2&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "SPOTV 2",	
@@ -486,7 +486,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-tennis&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Tennis",	
@@ -495,7 +495,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tennis&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "True Tennis",	
@@ -523,7 +523,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-golf&api_key=hmcb4r
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "Golf Channel",	
@@ -532,7 +532,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-golf&api_key=hmcb4r
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "Golf Channel",	
@@ -559,7 +559,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-golf2&api_key=hmcb4
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "Golf Channel 2",	
@@ -579,7 +579,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-nba&api_key=hmcb4rf
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "NBA TV",	
@@ -588,7 +588,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-nba&api_key=hmcb4rf
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "NBA TV",	
@@ -615,7 +615,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-nfl&api_key=hmcb4rf
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "NFL Network",	
@@ -624,7 +624,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-nfl&api_key=hmcb4rf
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "NFL Network",	
@@ -652,7 +652,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsports&api_key=hmc
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "T Sports ",	
@@ -683,7 +683,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=my-asp1hd&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "Astro SuperSport",  	
@@ -709,7 +709,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=my-asp2hd&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "Astro SuperSport 2",  	
@@ -735,7 +735,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=my-asp3hd&api_key=hmcb
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "Astro SuperSport 3",  	
@@ -761,7 +761,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=my-asp4&api_key=hmcb4r
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+playInNatPlayer: "true"	
 },	
 {	
 name: "Astro SuperSport 4",  	
