@@ -2,32 +2,31 @@
 
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/SmYxn8Ts6RcvLtPguMp.jpg",Underworld (2003) สงครามโค่นพันธุ์อสูร ภาค 1
-https://lb1.one3up.com/hls/cc2e7f815b4a47c4b60894c37d3695a2/cc2e7f815b4a47c4b60894c37d3695a2.m3u8|Referer=https://www.037hdmovie.com/
+https://server1.cdn-link.com/hls/tFFt4Lz/file_,1080,720,360,.mp4.urlset/master.m3u8|Referer=https://www.doomovie-hd.com/
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/vhUdOh78UJMpe6az3Lq.jpg",Underworld: Evolution (2006) สงครามโค่นพันธุ์อสูร: อีโวลูชั่น ภาค 2
-https://lb1.one3up.com/hls/64f9d75e1d14e9897e8ae67d1b415e0d/64f9d75e1d14e9897e8ae67d1b415e0d.m3u8|Referer=https://www.037hdmovie.com/
+https://cloud-systemb0194.myftp.org/HDD03/movie-online/U-V/Underworld%202%20%282006%29%20Evolution.1080P.Dts.5.1-1.mp4
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/SUpHb1K3CkoQU6BwmfG.jpg",Underworld: Rise of the Lycans (2009) สงครามโค่นพันธุ์อสูร: ปลดแอกจอมทัพอสูร ภาค 3
-https://lb1.one3up.com/hls/084407042438702b55be8b8694c048b9/084407042438702b55be8b8694c048b9.m3u8|Referer=https://www.037hdmovie.com/
+https://cloud-systemb0194.myftp.org/HDD03/movie-online/U-V/Underworld%203%20%282009%29%20Rise%20Of%20The%20Lycans.1080P.Dts.5.1-1.mp4
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Agx76bLnaoBx8jDiFi1.jpg",Underworld: Awakening (2012) สงครามโค่นพันธุ์อสูร กำเนิดใหม่ราชินีแวมไพร์ ภาค 4
-https://lb1.one3up.com/hls/7786e065324bfd1ec65b9b8efb5dad3f/7786e065324bfd1ec65b9b8efb5dad3f.m3u8|Referer=https://www.037hdmovie.com/
+https://cloud-systemb0194.myftp.org/HDD03/movie-online/U-V/Underworld%204%20%282012%29%20Awakening.1080P.Dts-Hd.5.1-1.mp4
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/VS3RnVq6eSKlgY7Qz8d.jpg",Underworld: Blood Wars (2016) มหาสงครามล้างพันธุ์อสูร
-https://lb1.one3up.com/hls/2fa4d3e7a66d371207f7f7772a273785/2fa4d3e7a66d371207f7f7772a273785.m3u8|Referer=https://www.037hdmovie.com/
+https://cloud-systemb0194.myftp.org/HDD03/movie-online/U-V/Underworld%205%20%282016%29%20Blood%20Wars%20.1080P.Dts-Hd.5.1-1.mp4
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/06/The-Misfits-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5.jpg",The Misfits (2021) พยัคฆ์ทรชน ปล้นพลิกโลก
 https://lb1.one3up.com/hls/6f16b3c088f3f360b5569657fcac40f8/6f16b3c088f3f360b5569657fcac40f8.m3u8|Referer=https://www.037hdmovie.com/
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/02/Resident-Evil-Welcome-to-Raccoon-City-2021.jpg",Resident Evil: Welcome to Raccoon City (2021) ผีชีวะ ปฐมบทแห่งเมืองผีดิบ
-https://lb1.one3up.com/hls/9baec905c9b52b8b9575b988728e5bee/9baec905c9b52b8b9575b988728e5bee.m3u8|Referer=https://www.037hdmovie.com/
+https://cloud-systemb4404.myftp.org/HDD3/movie-online/movie%202022/02.%20February%202022/Resident%20Evil%20Welcome%20To%20Raccoon%20City%20%282022%29%20%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/02/The-King-s-Man-2021.jpg",The King's Man (2021) กำเนิดโคตรพยัคฆ์คิงส์แมน
-https://lb1.one3up.com/hls/c69be9ff64dca6a038ccd0ba4404018b/c69be9ff64dca6a038ccd0ba4404018b.m3u8|Referer=https://www.037hdmovie.com/
+https://cloud-systemb4404.myftp.org/HDD3/movie-online/movie%202022/02.%20February%202022/The%20Kings%20Man%20%282022%29%20%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://zhort.link/Bm8",Jungle Cruise ผจญภัยล่องป่ามหัศจรรย์
-https://lb1.one3up.com/hls/164427c155f361a6befc7f4b3bd6eea5/164427c155f361a6befc7f4b3bd6eea5.m3u8|Referer=https://www.037hdmovie.com/
-
+https://cloud-systemb0194.myftp.org/HDD04/movie-online/movie%202021/11.%20November%202021/Jungle%20Cruise%20%282021%29%20%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/XVm6M1yk7g00U5W0Egw.jpg",Transformers 1 (2007) มหาวิบัติจักรกลสังหารถล่มจักรวาล
 https://lb1.one3up.com/hls/8d10b31751826546f0aa1f03634faa56/8d10b31751826546f0aa1f03634faa56.m3u8|Referer=https://www.037hdmovie.com/
