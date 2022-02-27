@@ -31,8 +31,8 @@ image: "https://www.img09.xyz/assets/img/ch_logo/hd-hbo.jpg",
 url: "https://www.doofootball.com/dootv/live/hbohd#main_dootv",	
 referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
+userAgent: "ExoPlayerLib/2.8.4"
 playInNatPlayer: "true"
-"userAgent": "ExoPlayerLib/2.8.4"
 },	
 	
 {	
