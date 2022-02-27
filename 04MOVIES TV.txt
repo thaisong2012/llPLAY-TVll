@@ -88,39 +88,25 @@ userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit
 info: "PLAY TV",	
 userAgent: "ExoPlayerLib/2.8.4"	
 },	
-{	
-name: "Warner Tv",  	
-image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",  	
-url: "https://we-play.tv/watching/tv/warner-tv",	
-referer: "https://we-play.tv/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
+
 {	
 name: "Warner Tv",  	
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",  	
 url: "http://61.19.242.134/feed/202105171329/LC28/playlist.m3u8",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-playInNatPlayer: "true"	
+userAgent: "ExoPlayerLib/2.8.4"	
 },	
 {	
 name: "Paramount Channel",  	
-image: "https://www.we-play.tv//uploads/posters/-poster1602704632.jpeg",  	
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/220px-Paramount_Network.svg.png",  	
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+userAgent: "ExoPlayerLib/2.8.4"	
 },	
-{	
-name: "Paramount Channel",  	
-image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg",  	
-url: "https://we-play.live/watching/tv/paramount-channel",	
-referer: "https://we-play.live/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
+
 {	
 name: "DreamWorks",  	
 image: "https://overseer.blackboxsys.net/images/png/hd-dreamworks.png",  	
