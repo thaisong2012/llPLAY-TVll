@@ -138,7 +138,7 @@ desktop: "true"
 {	
 name: "AXN HD11",  	
 image: "https://overseer.blackboxsys.net/images/png/hd-axn.png",  	
-url: "https://embed.dooball66.com/dooball66v2/ajax_channels.php?api_key=hmcb4rf66f",	
+url: "https://we-play.live/watching/tv/axn-hd",	
 referer: "https://dooball66.com",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
