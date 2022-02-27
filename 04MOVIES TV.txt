@@ -9,7 +9,14 @@ url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04-1MOVI
 	
 stations: [	
 	
-	
+{	
+name: "FWMOV",	
+image: "https://www.inwiptv.com/postor/20200512164154fwmov.jpg",	
+url: "https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?",	
+referer: "https://www.inwiptv.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},	
 {	
 name: "HBO HD",  	
 image: "https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",  	
