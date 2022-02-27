@@ -139,8 +139,8 @@ playInNatPlayer: "true"
 {
 name: "TNN",
 image: "https://static.wikia.nocookie.net/logopedia/images/f/fd/CZCeur17_400x400.jpg",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tnn24&api_key=hmcb4rf66f",
-referer: "https://dooball66.com",
+url:"https://www.livedoomovies.com:4431/02_TNN24_480p/chunklist.m3u8",
+referer: "https://www.livedoomovies.com/",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 info: "PLAY TV",
 desktop: "true"
