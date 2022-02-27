@@ -76,7 +76,7 @@ https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf5/playlist.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/truesporthd.png" group-title="Sport",True Sport HD 11
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/truesporthd.png" group-title="Sport",True Sport HD 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesporthd1/playlist.m3u8|Referer=https://www.livestream88.com/
 
 #EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/truesporthd2.png" group-title="Sport",True Sport HD 2
