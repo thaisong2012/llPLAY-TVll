@@ -53,7 +53,7 @@ https://cdn1.aws-live-streaming.com/true/ch29/playlist.m3u8|Referer=https://true
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf2/playlist.m3u8|Referer=https://www.livestream88.com/
 
 
-#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/tpf3.png" group-title="Sport",True Premier Football HD 33
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/tpf3.png" group-title="Sport",True Premier Football HD 3
 https://cdn1.aws-live-streaming.com/true/ch30/playlist.m3u8|Referer=https://true24hd.net/
 
 #EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/tpf3.png" group-title="Sport",True Premier Football HD 3
@@ -74,24 +74,28 @@ https://cdn1.aws-live-streaming.com/true/ch32/playlist.m3u8|Referer=https://true
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf5/playlist.m3u8|Referer=https://www.livestream88.com/
 
 
-#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2021/06/sd-tsport5.png" group-title="Sport",True Sport 5
-https://smart-tv.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2021/06/sd-tsport7.png" group-title="Sport",True Sport 7
-https://smart-tv.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport1.png" group-title="Sport",True Sport HD 1
-https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/truesporthd.png" group-title="Sport",True Sport HD 11
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesporthd1/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport2.png" group-title="Sport",True Sport HD 2
-https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/truesporthd2.png" group-title="Sport",True Sport HD 2
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesporthd2/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport3.png" group-title="Sport",True Sport HD 3 
-https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/TRUE-SPORT-HD-3.png" group-title="Sport",True Sport HD 3 
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesporthd3/playlist.m3u8|Referer=https://www.livestream88.com/
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport4.png" group-title="Sport",True Sport HD 4 
-https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesporthd4/playlist.m3u8|Referer=https://www.livestream88.com/
+
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tennis.png" group-title="Sport",True Tennis HD
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truetennis/playlist.m3u8|Referer=https://www.livestream88.com/
+
+
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/2021/08/sd-tsport5.png" group-title="Sport",True Sport 5
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesportsd5/playlist.m3u8|Referer=https://www.livestream88.com/
+
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/2021/08/sd-tsport7.png" group-title="Sport",True Sport 7
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesportsd7/playlist.m3u8|Referer=https://www.livestream88.com/
 
