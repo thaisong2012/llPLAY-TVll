@@ -10,16 +10,6 @@ url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/01THAITV
 stations: [
 
 
-
-{
-name: "17 October 2021",  
-image: "https://image.flaticon.com/icons/png/512/1809/1809239.png",  
-url: "xxcc",
-info: "PLAY TV"
-},
-
-
-
 {
 name: "ททบ.5",
 image: "https://www.doofree88.com/storage/live/channel-5-hd.png",
