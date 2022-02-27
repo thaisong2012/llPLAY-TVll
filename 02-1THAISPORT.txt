@@ -29,10 +29,10 @@ https://cdn1.aws-live-streaming.com/true/ch41/playlist.m3u8|Referer=https://true
 
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
-https://cdn1.aws-live-streaming.com/true/ch28/playlist.m3u8|Referer=https://www.andaman888th.com/https://true24hd.net/match/?id=2188308
+https://cdn1.aws-live-streaming.com/true/ch28/playlist.m3u8|Referer=https://true24hd.net/match/?id=2188308
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf1/playlist.m3u8|Referer=https://www.livestream88.com/sport/true-premier-football-hd-1/
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf1/playlist.m3u8|Referer=https://www.livestream88.com/
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/tpf1/playlist.m3u8|Referer=https://www.andaman888th.com/
@@ -43,16 +43,28 @@ https://cdn1.aws-live-streaming.com/ais/ch28/playlist.m3u8|Referer=https://aispl
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
 https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/?r=livetv_schedule
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-2.png" group-title="Sport",True Premier Football HD 2
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/tpf2.png" group-title="Sport",True Premier Football HD 2
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf2/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-3.png" group-title="Sport" ,True Premier Football HD 3
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/tpf2.png" group-title="Sport",True Premier Football HD 2
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf2/playlist.m3u8|Referer=https://www.livestream88.com/
+
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/tpf3.png" group-title="Sport",True Premier Football HD 3
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf3/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-4.png" group-title="Sport",True Premier Football HD 4 
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/tpf3.png" group-title="Sport",True Premier Football HD 3
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf3/playlist.m3u8|Referer=https://www.livestream88.com/
+
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/tpf4.png" group-title="Sport",True Premier Football HD 4 
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf4/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-5.png" group-title="Sport",True Premier Football HD 5
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/tpf4.png" group-title="Sport",True Premier Football HD 4 
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf4/playlist.m3u8|Referer=https://www.livestream88.com/
+
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/tpf5.png" group-title="Sport",True Premier Football HD 5
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf5/playlist.m3u8|Referer=https://www.livestream88.com/
+
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/tpf5.png" group-title="Sport",True Premier Football HD 5
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf5/playlist.m3u8|Referer=https://www.livestream88.com/
 
 
