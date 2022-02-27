@@ -4,17 +4,17 @@
 # Last Update: 27-12-2564
 # =======================================================
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" group-title="Sport",beinSport 11
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" group-title="Sport",beinSport 111
 https://cdn1.aws-live-streaming.com/true/ch40/playlist.m3u8|Referer=https://true24hd.net/
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" group-title="Sport",beinSport 1
 https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/?r=livetv_schedule
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" group-title="Sport",beinSport 1
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/bein1/playlist.m3u8|Referer=https://www.andaman888th.com
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" group-title="Sport",beinSport 1
-https://cdn1.aws-live-streaming.com/ais/ch40/playlist.m3u8|Referer=https://aisplay24hd.com
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/2021/08/epl-bein1.png" group-title="Sport",beinSport 1
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/bein1/playlist.m3u8|Referer=https://www.livestream88.com/
 
 
 
@@ -24,11 +24,11 @@ https://cdn1.aws-live-streaming.com/true/ch41/playlist.m3u8|Referer=https://true
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png" group-title="Sport",beinSPORT 2
 https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png" group-title="Sport",beinSPORT 2
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein2.jpg" group-title="Sport",beinSPORT 2
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/bein2/playlist.m3u8|Referer=https://www.andaman888th.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png" group-title="Sport",beinSPORT 2
-https://cdn1.aws-live-streaming.com/ais/ch41/playlist.m3u8|Referer=https://aisplay24hd.com/
+#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/2021/08/epl-bein2.png" group-title="Sport",beinSPORT 2
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/bein2/playlist.m3u8|Referer=https://www.livestream88.com/
 
 
 
@@ -39,7 +39,7 @@ https://cdn1.aws-live-streaming.com/true/ch28/playlist.m3u8|Referer=https://true
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf1/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/tpf1/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
