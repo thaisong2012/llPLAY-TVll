@@ -42,86 +42,43 @@ info: "PLAY TV",
 userAgent: "ExoPlayerLib/2.8.4"
 },	
 	
+
 {	
 name: "HBO Hits",  	
-image: "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",  	
-url: "https://we-play.live/watching/tv/hbo-hits",	
-referer: "https://we-play.live/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
-{	
-name: "HBO Hits11",  	
 image: "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",  	
 url: "https://www.doofootball.com/dootv/live/hbohit#main_dootv",	
 referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
 userAgent: "ExoPlayerLib/2.8.4"
 },	
-{	
-name: "HBO Hits",  	
-image: "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",  	
-url: "https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
 	
 {	
 name: "HBO Family",  	
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",  	
-url: "https://we-play.live/watching/tv/hbo-family",	
-referer: "https://we-play.live/",	
+url: "https://www.doofootball.com/dootv/live/hbofamily#main_dootv",	
+referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
-{	
-name: "HBO Family",  	
-image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",  	
-url: "https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
+userAgent: "ExoPlayerLib/2.8.4"
 },	
 	
 {	
 name: "HBO signature",  	
 image: "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",  	
-url: "https://we-play.tv/watching/tv/hbo-signature",	
-referer: "https://we-play.tv/",	
+url: "https://www.doofootball.com/dootv/live/hbosignature#main_dootv",	
+referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"	
+userAgent: "ExoPlayerLib/2.8.4"
 },	
-	
-{	
-name: "HBO signature",  	
-image: "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",  	
-url: "https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
+
 {	
 name: "Cinemax",  	
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png",  	
-url: "https://we-play.tv/watching/tv/cinemax",	
-referer: "https://we-play.tv/",	
+url: "https://www.doofootball.com/dootv/live/cinemax#main_dootv",	
+referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"	
+userAgent: "ExoPlayerLib/2.8.4"	
 },	
-	
-	
-{	
-name: "Cinemax",  	
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png",  	
-url: "https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
-{	
-name: "RED by HBO",  	
-image: "https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg",  	
-url: "https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
+
 {	
 name: "Warner Tv",  	
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",  	
@@ -129,7 +86,7 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hm
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
-desktop: "true"	
+userAgent: "ExoPlayerLib/2.8.4"	
 },	
 {	
 name: "Warner Tv",  	
