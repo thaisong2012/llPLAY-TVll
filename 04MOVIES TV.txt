@@ -18,8 +18,8 @@ info: "PLAY TV",
 playInNatPlayer: "true"	
 },
 {
-name:"HBO test",
-image:"https://www.dropbox.com/s/h1d70qvj44c15m1/e0f0129dc552ce18c6e279b8fcfd011d.png?dl=1",
+name:"HBO test11",
+image:"https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",
 url: "https://www.doofootball.com/dootv/live/hbohd#main_dootv" ,
 referer: "https://wacth.tv/", 
 userAgent: "ExoPlayerLib/2.8.4"
