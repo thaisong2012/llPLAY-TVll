@@ -141,18 +141,12 @@ playInNatPlayer: "true"
 {
 name: "Love Nature TH",
 image: "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
-url: "https://we-play.tv/watching/tv/lovenature-4k",
-referer: "https://we-play.tv/",
+url: "https://we-play.live/watching/tv/lovenature-4k",
+referer: "https://we-play.live/",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
-{
-name: "Love Nature USA",
-image: "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
-url: "https://bamus-eng-roku.amagi.tv/playlist.m3u8",
-info: "PLAY TV",
-playInNatPlayer: "true"
-},
+
 {
 name: "True Explore Wild",
 image: "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
@@ -174,14 +168,7 @@ playInNatPlayer: "true"
 
 
 
-{
-name: "TLC",
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",
-url: "https://we-play.tv/watching/tv/tlc-hd",
-referer: "https://we-play.tv/",
-info: "PLAY TV",
-playInNatPlayer: "true"
-},
+
 {
 name: "Food Network",
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
@@ -208,14 +195,7 @@ userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit
 info: "PLAY TV",
 desktop: "true"
 },
-{
-name: "Asian Food Network",
-image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
-url: "https://we-play.tv/watching/tv/asian-food-channel",
-referer: "https://we-play.tv/",
-info: "PLAY TV",
-playInNatPlayer: "true"
-},
+
 {
 name: "Asian Food Network ",
 image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
