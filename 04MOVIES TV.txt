@@ -82,7 +82,7 @@ userAgent: "ExoPlayerLib/2.8.4"
 {	
 name: "Warner Tv test",  	
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",  	
-url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",	
+url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl1&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
