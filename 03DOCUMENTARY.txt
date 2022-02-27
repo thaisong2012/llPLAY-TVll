@@ -7,18 +7,10 @@ url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/03DOCUME
 
 stations: [
 
-{
-name: "21 September 2021",  
-image: "https://image.flaticon.com/icons/png/512/1809/1809239.png",  
-url: "https://androidtvtech.blogspot.com/",
-info: "PLAY TV",
-playInNatPlayer: "true"
-},
-
 
 {
 name: "สำรวจโลก",  
-image: "https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg",  
+image: "https://www.img09.xyz/assets/img/ch_logo/hd-samrujlok.jpg",  
 url: "https://cdn6.goprimetime.info/feed/202105171329/LC8/playlist.m3u8",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 info: "PLAY TV",
@@ -28,24 +20,17 @@ playInNatPlayer: "true"
 
 {
 name: "Discovery Channel",
-image: "https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-referer: "https://dooball66.com",
+image: "https://www.img09.xyz/assets/img/ch_logo/sd-discovery.png",
+url:"https://we-play.live/watching/tv/discovery-channel",
+referer: "https://we-play.live/",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 info: "PLAY TV",
 desktop: "true"
 },
-{
-name: "Discovery Channel",
-image: "https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg",
-url: "https://we-play.tv/watching/tv/discovery-channel",
-referer: "https://we-play.tv/",
-info: "PLAY TV",
-playInNatPlayer: "true"
-},
+
 {
 name: "Discovery Channel",  
-image: "https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg",  
+image: "https://www.img09.xyz/assets/img/ch_logo/sd-discovery.png",  
 url: "https://www.doofootball.com/dootv/live/discovery#main_dootv",
 referer: "https://www.doofootball.com/",
 userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
@@ -54,8 +39,8 @@ playInNatPlayer: "true"
 },
 {
 name: "Discovery Asia",
-image: "https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
+image: "https://we-play.live/uploads/posters/discovery-asia-poster1602705589.jpeg",
+url:"https://we-play.live/watching/tv/discovery-asia",
 referer: "https://dooball66.com",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 info: "PLAY TV",
@@ -63,7 +48,7 @@ desktop: "true"
 },
 {
 name: "Discovery Asia",
-image: "https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg",
+image: "https://we-play.live/uploads/posters/discovery-asia-poster1602705589.jpeg",
 url: "https://we-play.tv/watching/tv/discovery-asia",
 referer: "https://we-play.tv/",
 info: "PLAY TV",
@@ -71,7 +56,7 @@ playInNatPlayer: "true"
 },
 {
 name: "Discovery Asia",  
-image: "https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg",  
+image: "https://we-play.live/uploads/posters/discovery-asia-poster1602705589.jpeg",  
 url: "https://www.doofootball.com/dootv/live/discoveryasia#main_dootv",
 referer: "https://www.doofootball.com/",
 userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
@@ -80,7 +65,7 @@ playInNatPlayer: "true"
 },
 {
 name: "Discovery Asia",  
-image: "https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg",  
+image: "https://we-play.live/uploads/posters/discovery-asia-poster1602705589.jpeg",  
 url: "https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8",
 referer: "https://www.doomovie-hd.com/",
 info: "PLAY TV",
