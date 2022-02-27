@@ -88,7 +88,7 @@ desktop: "true"
 name: "Animal Planet",
 image: "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
 url: "https://we-play.live/watching/tv/animal-planet",
-referer: ""https://we-play.live/",
+referer: "https://we-play.live/",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
