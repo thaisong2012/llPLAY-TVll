@@ -46,14 +46,7 @@ userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit
 info: "PLAY TV",
 desktop: "true"
 },
-{
-name: "Discovery Asia",
-image: "https://we-play.live/uploads/posters/discovery-asia-poster1602705589.jpeg",
-url: "https://we-play.tv/watching/tv/discovery-asia",
-referer: "https://we-play.tv/",
-info: "PLAY TV",
-playInNatPlayer: "true"
-},
+
 {
 name: "Discovery Asia",  
 image: "https://we-play.live/uploads/posters/discovery-asia-poster1602705589.jpeg",  
@@ -63,62 +56,39 @@ userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
-{
-name: "Discovery Asia",  
-image: "https://we-play.live/uploads/posters/discovery-asia-poster1602705589.jpeg",  
-url: "https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8",
-referer: "https://www.doomovie-hd.com/",
-info: "PLAY TV",
-playInNatPlayer: "true"
-},
+
 {
 name: "Nat Geo Graphic",
-image: "https://www.we-play.tv//uploads/posters/national-geographic-poster1602705795.jpeg",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmcb4rf66f",
-referer: "https://dooball66.com",
+image: "https://we-play.live/uploads/posters/national-geographic-poster1602705795.jpeg",
+url:"https://we-play.live/watching/tv/national-geographic",
+referer: "https://we-play.live/",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 info: "PLAY TV",
 desktop: "true"
 },
 {
 name: "Nat Geo Graphic",
-image: "https://www.we-play.tv//uploads/posters/national-geographic-poster1602705795.jpeg",
-url: "https://we-play.tv/watching/tv/national-geographic",
-referer: "https://we-play.tv/",
-info: "PLAY TV",
-playInNatPlayer: "true"
-},
-{
-name: "Nat Geo Graphic",
-image: "https://www.we-play.tv//uploads/posters/national-geographic-poster1602705795.jpeg",
+image: "https://we-play.live/uploads/posters/national-geographic-poster1602705795.jpeg",
 url: "https://www.doofootball.com/dootv/live/natgeo#main_dootv",
 referer: "https://www.doofootball.com/",
-userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
+
 {
 name: "Nat Geo Wild",
 image: "https://www.we-play.tv//uploads/posters/nat-geo-wild-poster1602705760.jpeg",
-url: "https://we-play.tv/watching/tv/nat-geo-wild",
+url: "http://203.154.243.88:11088/hi/natgeo",
 referer: "https://we-play.tv/",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
-{
-name: "Nat Geo Wild",
-image: "https://www.we-play.tv//uploads/posters/nat-geo-wild-poster1602705760.jpeg",
-url: "https://www.doofootball.com/dootv/live/natgeowild#main_dootv",
-referer: "https://www.doofootball.com/",
-userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
-info: "PLAY TV",
-playInNatPlayer: "true"
-},
+
 {
 name: "Animal Planet",
 image: "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f",
-referer: "https://dooball66.com",
+url:https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
+referer: "https://www.doofootball.com/",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 info: "PLAY TV",
 desktop: "true"
@@ -126,8 +96,8 @@ desktop: "true"
 {
 name: "Animal Planet",
 image: "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
-url: "https://we-play.tv/watching/tv/animal-planet",
-referer: "https://we-play.tv/",
+url: "https://we-play.live/watching/tv/animal-planet",
+referer: ""https://we-play.live/",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
