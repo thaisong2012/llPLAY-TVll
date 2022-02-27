@@ -16,6 +16,14 @@ url: "https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/pl
 referer: "https://www.inwiptv.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
+},
+{	
+name: "HBO HD test",  	
+image: "https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",  	
+url: "https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8",	
+referer: "https://www.doofootball.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
 },	
 {	
 name: "HBO HD",  	
