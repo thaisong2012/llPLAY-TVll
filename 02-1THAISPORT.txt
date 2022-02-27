@@ -3,6 +3,10 @@
 # Playlist Name: New Test Sport EPL m3u playlist 20:00
 # Last Update: 27-12-2564
 # =======================================================
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" group-title="Sport",beinSport 11
+https://cdn1.aws-live-streaming.com/true/ch40/playlist.m3u8|Referer=https://true24hd.net/
+
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" group-title="Sport",beinSport 1
 https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/?r=livetv_schedule
 
@@ -10,27 +14,27 @@ https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://ww
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/bein1/playlist.m3u8|Referer=https://www.andaman888th.com
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" group-title="Sport",beinSport 1
-https://cdn1.aws-live-streaming.com/ais/ch40/playlist.m3u8|Referer=https://aisplay24hd.com/live-football/?id=2188307
+https://cdn1.aws-live-streaming.com/ais/ch40/playlist.m3u8|Referer=https://aisplay24hd.com
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" group-title="Sport",beinSport 1
-https://cdn1.aws-live-streaming.com/true/ch40/playlist.m3u8|Referer=https://true24hd.net/match/?id=2188307
+
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png" group-title="Sport",beinSPORT 2
-https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/?r=tv_view&id=19
+https://cdn1.aws-live-streaming.com/true/ch41/playlist.m3u8|Referer=https://true24hd.net/
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png" group-title="Sport",beinSPORT 2
+https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png" group-title="Sport",beinSPORT 2
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/bein2/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png" group-title="Sport",beinSPORT 2
-https://cdn1.aws-live-streaming.com/ais/ch41/playlist.m3u8|Referer=https://aisplay24hd.com/live-football/?id=2188283
+https://cdn1.aws-live-streaming.com/ais/ch41/playlist.m3u8|Referer=https://aisplay24hd.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png" group-title="Sport",beinSPORT 2
-https://cdn1.aws-live-streaming.com/true/ch41/playlist.m3u8|Referer=https://true24hd.net/match/?id=2188409
 
 
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
-https://cdn1.aws-live-streaming.com/true/ch28/playlist.m3u8|Referer=https://true24hd.net/match/?id=2188308
+https://cdn1.aws-live-streaming.com/true/ch28/playlist.m3u8|Referer=https://true24hd.net/
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf1/playlist.m3u8|Referer=https://www.livestream88.com/
@@ -39,10 +43,10 @@ https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf1/playlist.m3
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/tpf1/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
-https://cdn1.aws-live-streaming.com/ais/ch28/playlist.m3u8|Referer=https://aisplay24hd.com/live-football/?id=2188261
+https://cdn1.aws-live-streaming.com/ais/ch28/playlist.m3u8|Referer=https://aisplay24hd.com/
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png" group-title="Sport",True Premier Football HD 1
-https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/?r=livetv_schedule
+https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
 
 
 
