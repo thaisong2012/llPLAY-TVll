@@ -116,18 +116,7 @@ userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit
 info: "PLAY TV",	
 desktop: "true"	
 },	
-	
-	
-	
-	
-{	
-name: "Hits Movies",  	
-image: "https://movies.hitstv.com/img/hits-movies-logo.png",  	
-url: "https://we-play.tv/watching/tv/hits-movies",	
-referer: "https://we-play.tv/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
+
 {	
 name: "Hits Movies",  	
 image: "https://movies.hitstv.com/img/hits-movies-logo.png",  	
@@ -149,8 +138,8 @@ desktop: "true"
 {	
 name: "AXN HD",  	
 image: "https://overseer.blackboxsys.net/images/png/hd-axn.png",  	
-url: "https://we-play.live/watching/tv/axn-hd",	
-referer: "https://we-play.live/",	
+url: "https://embed.dooball66.com/dooball66v2/ajax_channels.php?api_key=hmcb4rf66f",	
+referer: "https://dooball66.com",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
