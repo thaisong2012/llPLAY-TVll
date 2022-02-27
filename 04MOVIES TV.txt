@@ -21,7 +21,7 @@ playInNatPlayer: "true"
 name:"HBO test11",
 image:"https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",
 url: "https://www.doofootball.com/dootv/live/hbohd#main_dootv" ,
-referer: "https://wacth.tv/", 
+referer: "https://www.doofootball.com", 
 userAgent: "ExoPlayerLib/2.8.4"
 }, 
 {	
