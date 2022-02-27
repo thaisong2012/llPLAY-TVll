@@ -1,5 +1,5 @@
 {
-name: "🇹🇭Thai TV",
+name: "TV Digital ทีวีดิจิตอล",
 author: "@PLAY TV",
 image: "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
 url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/01THAITV.txt",
