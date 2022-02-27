@@ -76,18 +76,9 @@ playInNatPlayer: "true"
 },
 
 {
-name: "Nat Geo Wild",
-image: "https://www.we-play.tv//uploads/posters/nat-geo-wild-poster1602705760.jpeg",
-url: "http://203.154.243.88:11088/hi/natgeo",
-referer: "https://we-play.tv/",
-info: "PLAY TV",
-playInNatPlayer: "true"
-},
-
-{
 name: "Animal Planet",
 image: "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
-url:https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
+url: "https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
 referer: "https://www.doofootball.com/",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 info: "PLAY TV",
