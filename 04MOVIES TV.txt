@@ -10,8 +10,16 @@ url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04-1MOVI
 stations: [
 {	
 name: "FWMOV",	
-image: "https://www.inwiptv.com/postor/20200512164154fwmov.jpg",	
+image: "https://sv1.picz.in.th/images/2021/06/10/s7OHUl.jpg",	
 url: "https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?",	
+referer: "https://www.inwiptv.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+{	
+name: "FWSOV",	
+image: "https://sv1.picz.in.th/images/2021/06/10/s7O8Ne.jpg",	
+url: "https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8",	
 referer: "https://www.inwiptv.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
