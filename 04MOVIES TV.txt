@@ -8,15 +8,6 @@ url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04-1MOVI
 	
 	
 stations: [
-
-{
-name:"HBO",image:"https://www.img09.xyz/assets/img/ch_logo/hd-hbo.jpg",
-"url": "https://www.doofootball.com/dootv/live/hbohd#main_dootv" ,
-"referer": "https://www.doofootball.com/", 
-"userAgent": "ExoPlayerLib/2.8.4"
-}, 
-
-	
 {	
 name: "FWMOV",	
 image: "https://www.inwiptv.com/postor/20200512164154fwmov.jpg",	
@@ -26,30 +17,23 @@ info: "PLAY TV",
 playInNatPlayer: "true"	
 },
 
-{	
-name: "HBO HD",  	
-image: "https://www.img09.xyz/assets/img/ch_logo/hd-hbo.jpg",  	
-url: "https://we-play.live/watching/tv/hbo-hd",	
-referer: "https://we-play.live/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
+{
+name:"HBO",image:"https://www.img09.xyz/assets/img/ch_logo/hd-hbo.jpg",
+"url": "https://www.doofootball.com/dootv/live/hbohd#main_dootv" ,
+"referer": "https://www.doofootball.com/", 
+"userAgent": "ExoPlayerLib/2.8.4"
+}, 
+
+
 {	
 name: "HBO HD",  	
 image: "https://www.img09.xyz/assets/img/ch_logo/hd-hbo.jpg",  	
 url: "https://www.doofootball.com/dootv/live/hbohd#main_dootv",	
 referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
-playInNatPlayer: "true"	
+playInNatPlayer: "true"
+"userAgent": "ExoPlayerLib/2.8.4"
 },	
-{	
-name: "HBO HD",  	
-image: "https://www.img09.xyz/assets/img/ch_logo/hd-hbo.jpg",  	
-url: "https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
-	
 	
 {	
 name: "HBO Hits",  	
