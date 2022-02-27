@@ -80,7 +80,7 @@ userAgent: "ExoPlayerLib/2.8.4"
 
 
 {	
-name: "Warner Tv test",  	
+name: "Warner Tv",  	
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",  	
 url:"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl1&api_key=hmcb4rf66f",	
 referer: "https://dooball66.com",	
