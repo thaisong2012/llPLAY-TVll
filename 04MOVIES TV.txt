@@ -32,7 +32,6 @@ url: "https://www.doofootball.com/dootv/live/hbohd#main_dootv",
 referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
 userAgent: "ExoPlayerLib/2.8.4"
-playInNatPlayer: "true"
 },	
 	
 {	
