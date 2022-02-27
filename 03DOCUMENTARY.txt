@@ -112,33 +112,33 @@ playInNatPlayer: "true"
 },
 {
 name: "History HD",
-image: "https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
-referer: "https://dooball66.com",
+image: "https://www.img09.xyz/assets/img/ch_logo/hd-history.png",
+url:"https://www.doofootball.com/dootv/live/history#main_dootv",
+referer: "https://www.doofootball.com/",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 info: "PLAY TV",
 desktop: "true"
 },
 {
 name: "History HD",
-image: "https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg",
-url: "https://we-play.tv/watching/tv/history-hd",
-referer: "https://we-play.tv/",
+image: "https://www.img09.xyz/assets/img/ch_logo/hd-history.png",
+url: "https://we-play.live/watching/tv/history-hd",
+referer: "https://we-play.live/",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
 {
 name: "H2",
-image: "https://www.we-play.tv//uploads/posters/history-h2-poster1602705634.jpeg",
-url: "https://we-play.tv/watching/tv/history-h2",
-referer: "https://we-play.tv/",
+image: "https://www.img09.xyz/assets/img/ch_logo/hd-history2.png",
+url: "https://we-play.live/watching/tv/history-h2",
+referer: "https://we-play.live/",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
 {
 name: "H2",
-image: "https://www.we-play.tv//uploads/posters/history-h2-poster1602705634.jpeg",
-url: "https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8",
+image: "https://www.img09.xyz/assets/img/ch_logo/hd-history2.png",
+url: "https://www.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8",
 referer: "https://www.doomovie-hd.com/",
 info: "PLAY TV",
 playInNatPlayer: "true"
