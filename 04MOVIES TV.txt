@@ -10,7 +10,7 @@ url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04-1MOVI
 stations: [
 
 {
-name:"HBO",image:"https://www.dropbox.com/s/h1d70qvj44c15m1/e0f0129dc552ce18c6e279b8fcfd011d.png?dl=1",
+name:"HBO",image:"https://www.img09.xyz/assets/img/ch_logo/hd-hbo.jpg",
 "url": "https://www.doofootball.com/dootv/live/hbohd#main_dootv" ,
 "referer": "https://www.doofootball.com/", 
 "userAgent": "ExoPlayerLib/2.8.4"
@@ -28,7 +28,7 @@ playInNatPlayer: "true"
 
 {	
 name: "HBO HD",  	
-image: "https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",  	
+image: "https://www.img09.xyz/assets/img/ch_logo/hd-hbo.jpg",  	
 url: "https://we-play.live/watching/tv/hbo-hd",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
@@ -36,7 +36,7 @@ playInNatPlayer: "true"
 },	
 {	
 name: "HBO HD",  	
-image: "https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",  	
+image: "https://www.img09.xyz/assets/img/ch_logo/hd-hbo.jpg",  	
 url: "https://www.doofootball.com/dootv/live/hbohd#main_dootv",	
 referer: "https://www.doofootball.com/",	
 info: "PLAY TV",	
@@ -44,7 +44,7 @@ playInNatPlayer: "true"
 },	
 {	
 name: "HBO HD",  	
-image: "https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",  	
+image: "https://www.img09.xyz/assets/img/ch_logo/hd-hbo.jpg",  	
 url: "https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
