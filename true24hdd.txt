@@ -1,7 +1,6 @@
 #EXTM3U
-
-
-
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",CH3 HD
+http://139.99.27.33:9998/assp1/index.m3u8|Referer=http://udoofree.com/movie2/168/single-live?watch=1
 
 
 
