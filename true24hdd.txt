@@ -38,6 +38,10 @@ https://cdn1.aws-live-streaming.com/true/ch27/playlist.m3u8|Referer=https://true
 
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sport",True Premier Football HD 1
 https://cdn1.aws-live-streaming.com/true/ch28/playlist.m3u8|Referer=https://true24hd.net/
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sport",True Premier Football HD 1
+https://cdn1.aws-live-streaming.com/true/ch28/playlist.m3u8|Referer=https://true24hd.net/
+http://139.99.80.237:9998/epl1/index.m3u8?token=920ac28ff8d19fe4956bc8cd2d51be24a94c67a6-698acc553d8640f6c3ef180d8d9b7013-1646138627-1646127827
+
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sport",True Premier Football HD 2
 https://cdn1.aws-live-streaming.com/true/ch29/playlist.m3u8|Referer=https://true24hd.net/
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Sport",True Premier Football HD 3
