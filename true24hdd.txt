@@ -1,23 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch5.png" group-title="Digital TV",CH5 HD
+https://cdn1.aws-live-streaming.com/true/ch22/playlist.m3u8|Referer=https://true24hd.net/
 
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch3.png" group-title="Digital TV",CH3 HD
-https://cdn1.aws-live-streaming.com/true/ch21/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="http://udoofree.com/cover/bd72a81b-e87a-4edf-bbe0-cae1dd0f88b9.jpg" group-title="ดิจิตอลทีวี",NBT HD
+#EXTINF:-1 tvg-logo="http://udoofree.com/cover/bd72a81b-e87a-4edf-bbe0-cae1dd0f88b9.jpg" group-title="Digital TV",NBT HD
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcast73_nbt_live1.stream/chunklist_w886273784.m3u8?username=UGMcaRH6k8EGP05HwbyY74yFG47jzAlk&password=fD8FpsG5av0uVOSHXQlk306mauOkl2qo
 
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tpbs.png" group-title="Digital TV",Thai PBS HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tpbs.png" group-title="Digital TV",Thai PBS HD
-http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza63_tpbshd_live1.stream/playlist.m3u8?username=rV8M1VAtcyqVfylE0SDDThhqZvLHSco2&password=tWTu3LqE0cPqmbvhxwHwiUXiGZwv96cj
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tpbs.png" group-title="Digital TV",Thai PBS HD
-http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza63_tpbshd_live1.stream/chunklist_w197492236.m3u8?username=rV8M1VAtcyqVfylE0SDDThhqZvLHSco2&password=tWTu3LqE0cPqmbvhxwHwiUXiGZwv96cj
 
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch5.png" group-title="Digital TV",CH5 HD
-https://cdn1.aws-live-streaming.com/true/ch22/playlist.m3u8|Referer=https://true24hd.net/
-
-
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch7.png" group-title="Digital TV",CH7 HD
-https://cdn1.aws-live-streaming.com/true/ch23/playlist.m3u8|Referer=https://true24hd.net/
 
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-mcot.png" group-title="Digital TV",MCOT HD
 https://cdn1.aws-live-streaming.com/true/ch24/playlist.m3u8|Referer=https://true24hd.net/
@@ -25,11 +15,19 @@ https://cdn1.aws-live-streaming.com/true/ch24/playlist.m3u8|Referer=https://true
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-gmmone.png" group-title="Digital TV",ONE HD
 https://cdn1.aws-live-streaming.com/true/ch25/playlist.m3u8|Referer=https://true24hd.net/
 
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-thairath.png" group-title="Digital TV",THAIRAT TV HD
+https://cdn1.aws-live-streaming.com/true/ch27/playlist.m3u8|Referer=https://true24hd.net/
+
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch3.png" group-title="Digital TV",CH3 HD
+https://cdn1.aws-live-streaming.com/true/ch21/playlist.m3u8|Referer=https://true24hd.net/
+
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch7.png" group-title="Digital TV",CH7 HD
+https://cdn1.aws-live-streaming.com/true/ch23/playlist.m3u8|Referer=https://true24hd.net/
+
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-pptv.png" group-title="Digital TV",PPV HD
 https://cdn1.aws-live-streaming.com/true/ch26/playlist.m3u8|Referer=https://true24hd.net/
 
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-thairath.png" group-title="Digital TV",THAIRAT TV HD
-https://cdn1.aws-live-streaming.com/true/ch27/playlist.m3u8|Referer=https://true24hd.net/
+
 
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sport",True Premier Football HD 1
 https://cdn1.aws-live-streaming.com/true/ch28/playlist.m3u8|Referer=https://true24hd.net/
