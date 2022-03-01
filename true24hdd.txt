@@ -58,7 +58,7 @@ https://cdn1.aws-live-streaming.com/true/ch37/playlist.m3u8|Referer=https://true
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1
 https://cdn1.aws-live-streaming.com/true/ch40/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 2
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein2.jpg" group-title="Sport",Sport",beinSport 2
 https://cdn1.aws-live-streaming.com/true/ch41/playlist.m3u8|Referer=https://true24hd.net/
 
 
