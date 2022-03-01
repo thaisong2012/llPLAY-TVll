@@ -98,7 +98,10 @@ https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/btsport2/p
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport3.jpg" group-title="Sport",BT Sport 3
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/btsport3/playlist.m3u8|Referer=https://www.andaman888th.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsporthd.jpg" group-title="Sport",SkynetSport HDxxx
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport3.jpg" group-title="Sport",BT Sport 4
+https://www.livedoomovies.com:4431/02_SPORTTV_4_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/ 
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsporthd.jpg" group-title="Sport",SkynetSport HD
 https://smart-tv.livedoomovies.com:4431/03_skynetsporthd_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport1.jpg" group-title="Sport",SkynetSport 1
