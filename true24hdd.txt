@@ -83,6 +83,40 @@ http://139.99.80.237:9998/skysportarena/index.m3u8?token=272b753910e7cf698b5573b
 #EXTINF:-1 tvg-logo="http://udoofree.com/cover/channels/sky-sports-action-uk.png" group-title="Sky Sports Action
 http://139.99.80.237:9998/skysportaction/index.m3u8?token=fd7e095cce3bfb283159df8bab40a4cbc591433c-7d69b317a8dcf49039ed74c5de9d7db6-1646140635-1646129835
 
+#EXTINF:-1 tvg-logo="http://udoofree.com/images/channels/astro_arena.png" group-title="Astro Arena
+http://139.99.27.33:9998/astro-arena_720/index.m3u8?token=f106d6ab675314cc75e7074746282aa1cb5b225a-046cf3c1207204dfd0e8f7ce1b3d3872-1646141121-1646130321
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport1.jpg" group-title="Sport",BT Sport 1
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/btsport1/playlist.m3u8|Referer=https://www.andaman888th.com/
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport2.jpg" group-title="Sport",BT Sport 2
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/btsport2/playlist.m3u8|Referer=https://www.andaman888th.com/
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport3.jpg" group-title="Sport",BT Sport 3
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/btsport3/playlist.m3u8|Referer=https://www.andaman888th.com/
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsporthd.jpg" group-title="Sport",SkynetSport HD
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsporthd/playlist.m3u8|Referer=https://www.andaman888th.com/
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport1.jpg" group-title="Sport",SkynetSport 1
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport1/playlist.m3u8|Referer=https://www.andaman888th.com/
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport1.jpg" group-title="Sport",SkynetSport 2
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport2/playlist.m3u8|Referer=https://www.andaman888th.com/
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport3.jpg" group-title="Sport",SkynetSport 3
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport3/playlist.m3u8|Referer=https://www.andaman888th.com/
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport4.jpg" group-title="Sport",SkynetSport 4
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport4/playlist.m3u8|Referer=https://www.andaman888th.com/
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport5.jpg" group-title="Sport",SkynetSport 5
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport5/playlist.m3u8|Referer=https://www.andaman888th.com/
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport6.jpg" group-title="Sport",SkynetSport 6
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport6/playlist.m3u8|Referer=https://www.andaman888th.com/
+
+
 
 
 
