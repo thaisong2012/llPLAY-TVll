@@ -1,68 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport01
-https://cdn1.aws-live-streaming.com/true/ch01/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport02
-https://cdn1.aws-live-streaming.com/true/ch02/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport03
-https://cdn1.aws-live-streaming.com/true/ch03/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport04
-https://cdn1.aws-live-streaming.com/true/ch04/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport05
-https://cdn1.aws-live-streaming.com/true/ch05/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport06
-https://cdn1.aws-live-streaming.com/true/ch06/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport07
-https://cdn1.aws-live-streaming.com/true/ch07/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport08
-https://cdn1.aws-live-streaming.com/true/ch08/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport09
-https://cdn1.aws-live-streaming.com/true/ch09/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport010
-https://cdn1.aws-live-streaming.com/true/ch10/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport011
-https://cdn1.aws-live-streaming.com/true/ch11/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport012
-https://cdn1.aws-live-streaming.com/true/ch12/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport013
-https://cdn1.aws-live-streaming.com/true/ch13/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport014
-https://cdn1.aws-live-streaming.com/true/ch14/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport015
-https://cdn1.aws-live-streaming.com/true/ch15/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport016
-https://cdn1.aws-live-streaming.com/true/ch16/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport017
-https://cdn1.aws-live-streaming.com/true/ch17/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport018
-https://cdn1.aws-live-streaming.com/true/ch18/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport019
-https://cdn1.aws-live-streaming.com/true/ch19/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport020
-https://cdn1.aws-live-streaming.com/true/ch20/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport021
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",CH3 HD
 https://cdn1.aws-live-streaming.com/true/ch21/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport022
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",CH5 HD
 https://cdn1.aws-live-streaming.com/true/ch22/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport023
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",CH7 HD
 https://cdn1.aws-live-streaming.com/true/ch23/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport024
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",MCOT HD
 https://cdn1.aws-live-streaming.com/true/ch24/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport025
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",ONE HD
 https://cdn1.aws-live-streaming.com/true/ch25/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport026
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",PPV HD
 https://cdn1.aws-live-streaming.com/true/ch26/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport027
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",THAIRAT TV HD
 https://cdn1.aws-live-streaming.com/true/ch27/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport028
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",True Premier Football HD 1
 https://cdn1.aws-live-streaming.com/true/ch28/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport029
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",True Premier Football HD 2
 https://cdn1.aws-live-streaming.com/true/ch29/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport030
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",True Premier Football HD 3
 https://cdn1.aws-live-streaming.com/true/ch30/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport031
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",True Premier Football HD 4
 https://cdn1.aws-live-streaming.com/true/ch31/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport032
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",True Premier Football HD 5
 https://cdn1.aws-live-streaming.com/true/ch32/playlist.m3u8|Referer=https://true24hd.net/
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport033
 https://cdn1.aws-live-streaming.com/true/ch33/playlist.m3u8|Referer=https://true24hd.net/
