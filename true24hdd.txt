@@ -1,66 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch3.png" group-title="ดิจิตอลทีวี",CH3 HD
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch3.png" group-title="Digital TV",CH3 HD
 https://cdn1.aws-live-streaming.com/true/ch21/playlist.m3u8|Referer=https://true24hd.net/
 #EXTINF:-1 tvg-logo="http://udoofree.com/cover/bd72a81b-e87a-4edf-bbe0-cae1dd0f88b9.jpg" group-title="ดิจิตอลทีวี",NBT HD
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcast73_nbt_live1.stream/chunklist_w886273784.m3u8?username=UGMcaRH6k8EGP05HwbyY74yFG47jzAlk&password=fD8FpsG5av0uVOSHXQlk306mauOkl2qo
 
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tpbs.png" group-title="ดิจิตอลทีวี",Thai PBS HD
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tpbs.png" group-title="Digital TV",Thai PBS HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tpbs.png" group-title="ดิจิตอลทีวี",Thai PBS HD
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tpbs.png" group-title="Digital TV",Thai PBS HD
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza63_tpbshd_live1.stream/playlist.m3u8?username=rV8M1VAtcyqVfylE0SDDThhqZvLHSco2&password=tWTu3LqE0cPqmbvhxwHwiUXiGZwv96cj
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tpbs.png" group-title="ดิจิตอลทีวี",Thai PBS HD
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tpbs.png" group-title="Digital TV",Thai PBS HD
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza63_tpbshd_live1.stream/chunklist_w197492236.m3u8?username=rV8M1VAtcyqVfylE0SDDThhqZvLHSco2&password=tWTu3LqE0cPqmbvhxwHwiUXiGZwv96cj
 
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch5.png" group-title="ดิจิตอลทีวี",CH5 HD
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch5.png" group-title="Digital TV",CH5 HD
 https://cdn1.aws-live-streaming.com/true/ch22/playlist.m3u8|Referer=https://true24hd.net/
 
 
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch7.png" group-title="ดิจิตอลทีวี",CH7 HD
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch7.png" group-title="Digital TV",CH7 HD
 https://cdn1.aws-live-streaming.com/true/ch23/playlist.m3u8|Referer=https://true24hd.net/
 
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-mcot.png" group-title="ดิจิตอลทีวี",MCOT HD
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-mcot.png" group-title="Digital TV",MCOT HD
 https://cdn1.aws-live-streaming.com/true/ch24/playlist.m3u8|Referer=https://true24hd.net/
 
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-gmmone.png" group-title="ดิจิตอลทีวี",ONE HD
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-gmmone.png" group-title="Digital TV",ONE HD
 https://cdn1.aws-live-streaming.com/true/ch25/playlist.m3u8|Referer=https://true24hd.net/
 
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-pptv.png" group-title="ดิจิตอลทีวี",PPV HD
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-pptv.png" group-title="Digital TV",PPV HD
 https://cdn1.aws-live-streaming.com/true/ch26/playlist.m3u8|Referer=https://true24hd.net/
 
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-thairath.png" group-title="ดิจิตอลทีวี",THAIRAT TV HD
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-thairath.png" group-title="Digital TV",THAIRAT TV HD
 https://cdn1.aws-live-streaming.com/true/ch27/playlist.m3u8|Referer=https://true24hd.net/
 
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sport",True Premier Football HD 1
 https://cdn1.aws-live-streaming.com/true/ch28/playlist.m3u8|Referer=https://true24hd.net/
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sport",True Premier Football HD 1
-https://cdn1.aws-live-streaming.com/true/ch28/playlist.m3u8|Referer=https://true24hd.net/
-http://139.99.80.237:9998/epl1/index.m3u8?token=920ac28ff8d19fe4956bc8cd2d51be24a94c67a6-698acc553d8640f6c3ef180d8d9b7013-1646138627-1646127827
+
 
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sport",True Premier Football HD 2
 https://cdn1.aws-live-streaming.com/true/ch29/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sport",True Premier Football HD 2
-http://139.99.80.237:9998/epl2/index.m3u8?token=f61c54e8c463067e80051c72b8269a1b513676db-da1757cebd5e363bef242e215ab3ed6b-1646139849-1646129049
-
+#
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Sport",True Premier Football HD 3
 https://cdn1.aws-live-streaming.com/true/ch30/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Sport",True Premier Football HD 3
-http://139.99.80.237:9998/epl3/index.m3u8?token=1cf281e89483e651564da7ae1659ea05a8417411-1708fac81c730794084c922d53afb0d3-1646139903-1646129103
 
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl4.png" group-title="Sport",True Premier Football HD 4
 https://cdn1.aws-live-streaming.com/true/ch31/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl4.png" group-title="Sport",True Premier Football HD 4
-http://139.99.80.237:9998/epl4/index.m3u8?token=c4219160d02918a8bd6d28c649291b419dd4c843-5d2f99ffb6655c5f77025c18ea61f00b-1646140006-1646129206
+
 
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="Sport",True Premier Football HD 5
 https://cdn1.aws-live-streaming.com/true/ch32/playlist.m3u8|Referer=https://true24hd.net/
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="Sport",True Premier Football HD 5
-http://139.99.80.237:9998/epl5/index.m3u8?token=d16b791cd94fa7cf235d5274a71c65e697a96e62-6a830eaa17cc045d70ca0638add3f8d7-1646140046-1646129246
+
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="Sport",True Sport HD 1
 https://cdn1.aws-live-streaming.com/true/ch33/playlist.m3u8|Referer=https://true24hd.net/
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png" group-title="Sport",True Sport HD 2
 https://cdn1.aws-live-streaming.com/true/ch34/playlist.m3u8|Referer=https://true24hd.net/
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png" group-title="Sport",True Sport HD 3
 https://cdn1.aws-live-streaming.com/true/ch35/playlist.m3u8|Referer=https://true24hd.net/
 
@@ -73,22 +68,16 @@ https://cdn1.aws-live-streaming.com/true/ch40/playlist.m3u8|Referer=https://true
 https://cdn1.aws-live-streaming.com/true/ch41/playlist.m3u8|Referer=https://true24hd.net/
 
 #EXTINF:-1 tvg-logo="http://udoofree.com/cover/channels/sky-sports-football-uk.png" group-title="Sport",Sky Sports Football
-http://139.99.80.237:9998/skysportfootball/index.m3u8?token=20518cf699b3c4ea80a20bea4ca1db766c2d4010-c8201b3a8594603d4296d67888524819-1646140132-1646129332
 
 #EXTINF:-1 tvg-logo="http://udoofree.com/cover/channels/sky-sports-f1-uk.png" group-title="Sport",SSky Sports F1
-http://139.99.80.237:9998/skysportf1/index.m3u8?token=35d1c81457b2167c655908f26411a19c90aa2e15-c05ac79012e7231bc2034644d3e9a511-1646140296-1646129496
 
 #EXTINF:-1 tvg-logo="http://udoofree.com/cover/channels/sky-sports-cricket-uk.png" group-title="Sport",Sky Sports Cricket
-http://139.99.80.237:9998/skysportcricket/index.m3u8?token=24ab820d9143541170e6827c503b8f2116a9f492-bea092a0ec5b94535b0939dd296e7df6-1646140329-1646129529
 
 #EXTINF:-1 tvg-logo="http://udoofree.com/cover/channels/sky-sports-arena-uk.png" group-title="Sport",Sky Sports Arena
-http://139.99.80.237:9998/skysportarena/index.m3u8?token=272b753910e7cf698b5573bf8dc2f264144993ad-80debeadba6f852728a03dff74a5b518-1646140487-1646129687
 
 #EXTINF:-1 tvg-logo="http://udoofree.com/cover/channels/sky-sports-action-uk.png" group-title="Sky Sports Action
-http://139.99.80.237:9998/skysportaction/index.m3u8?token=fd7e095cce3bfb283159df8bab40a4cbc591433c-7d69b317a8dcf49039ed74c5de9d7db6-1646140635-1646129835
 
 #EXTINF:-1 tvg-logo="http://udoofree.com/images/channels/astro_arena.png" group-title="Astro Arena
-http://139.99.27.33:9998/astro-arena_720/index.m3u8?token=f106d6ab675314cc75e7074746282aa1cb5b225a-046cf3c1207204dfd0e8f7ce1b3d3872-1646141121-1646130321
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport1.jpg" group-title="Sport",BT Sport 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/btsport1/playlist.m3u8|Referer=https://www.andaman888th.com/
@@ -100,26 +89,19 @@ https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/btsport2/p
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/btsport3/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsporthd.jpg" group-title="Sport",SkynetSport HDxxx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://smart-tv.livedoomovies.com:4431/03_skynetsporthd_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport1.jpg" group-title="Sport",SkynetSport 1
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport1/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport1.jpg" group-title="Sport",SkynetSport 2
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport2/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport3.jpg" group-title="Sport",SkynetSport 3
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport3/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport4.jpg" group-title="Sport",SkynetSport 4
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport4/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chskynetsport5.jpg" group-title="Sport",SkynetSport 5
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport5/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chskynetsport6.jpg" group-title="Sport",SkynetSport 6
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport6/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 
 
