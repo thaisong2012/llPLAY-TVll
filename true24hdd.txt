@@ -27,8 +27,6 @@ https://cdn1.aws-live-streaming.com/true/ch26/playlist.m3u8|Referer=https://true
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-thairath.png" group-title="ดิจิตอลทีวี",THAIRAT TV HD
 https://cdn1.aws-live-streaming.com/true/ch27/playlist.m3u8|Referer=https://true24hd.net/
 
-
-
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sport",True Premier Football HD 1
 https://cdn1.aws-live-streaming.com/true/ch28/playlist.m3u8|Referer=https://true24hd.net/
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sport",True Premier Football HD 1
@@ -37,12 +35,24 @@ http://139.99.80.237:9998/epl1/index.m3u8?token=920ac28ff8d19fe4956bc8cd2d51be24
 
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sport",True Premier Football HD 2
 https://cdn1.aws-live-streaming.com/true/ch29/playlist.m3u8|Referer=https://true24hd.net/
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sport",True Premier Football HD 2
+http://139.99.80.237:9998/epl2/index.m3u8?token=f61c54e8c463067e80051c72b8269a1b513676db-da1757cebd5e363bef242e215ab3ed6b-1646139849-1646129049
+
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Sport",True Premier Football HD 3
 https://cdn1.aws-live-streaming.com/true/ch30/playlist.m3u8|Referer=https://true24hd.net/
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Sport",True Premier Football HD 3
+http://139.99.80.237:9998/epl3/index.m3u8?token=1cf281e89483e651564da7ae1659ea05a8417411-1708fac81c730794084c922d53afb0d3-1646139903-1646129103
+
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl4.png" group-title="Sport",True Premier Football HD 4
 https://cdn1.aws-live-streaming.com/true/ch31/playlist.m3u8|Referer=https://true24hd.net/
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl4.png" group-title="Sport",True Premier Football HD 4
+http://139.99.80.237:9998/epl4/index.m3u8?token=c4219160d02918a8bd6d28c649291b419dd4c843-5d2f99ffb6655c5f77025c18ea61f00b-1646140006-1646129206
+
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="Sport",True Premier Football HD 5
 https://cdn1.aws-live-streaming.com/true/ch32/playlist.m3u8|Referer=https://true24hd.net/
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="Sport",True Premier Football HD 5
+http://139.99.80.237:9998/epl5/index.m3u8?token=d16b791cd94fa7cf235d5274a71c65e697a96e62-6a830eaa17cc045d70ca0638add3f8d7-1646140046-1646129246
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="Sport",True Sport HD 1
 https://cdn1.aws-live-streaming.com/true/ch33/playlist.m3u8|Referer=https://true24hd.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png" group-title="Sport",True Sport HD 2
@@ -57,5 +67,39 @@ https://cdn1.aws-live-streaming.com/true/ch37/playlist.m3u8|Referer=https://true
 https://cdn1.aws-live-streaming.com/true/ch40/playlist.m3u8|Referer=https://true24hd.net/
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein2.jpg" group-title="Sport",Sport",beinSport 2
 https://cdn1.aws-live-streaming.com/true/ch41/playlist.m3u8|Referer=https://true24hd.net/
+
+#EXTINF:-1 tvg-logo="http://udoofree.com/cover/channels/sky-sports-football-uk.png" group-title="Sport",Sky Sports Football
+http://139.99.80.237:9998/skysportfootball/index.m3u8?token=20518cf699b3c4ea80a20bea4ca1db766c2d4010-c8201b3a8594603d4296d67888524819-1646140132-1646129332
+
+#EXTINF:-1 tvg-logo="http://udoofree.com/cover/channels/sky-sports-f1-uk.png" group-title="Sport",SSky Sports F1
+http://139.99.80.237:9998/skysportf1/index.m3u8?token=35d1c81457b2167c655908f26411a19c90aa2e15-c05ac79012e7231bc2034644d3e9a511-1646140296-1646129496
+
+#EXTINF:-1 tvg-logo="http://udoofree.com/cover/channels/sky-sports-cricket-uk.png" group-title="Sport",Sky Sports Cricket
+http://139.99.80.237:9998/skysportcricket/index.m3u8?token=24ab820d9143541170e6827c503b8f2116a9f492-bea092a0ec5b94535b0939dd296e7df6-1646140329-1646129529
+
+#EXTINF:-1 tvg-logo="http://udoofree.com/cover/channels/sky-sports-arena-uk.png" group-title="Sport",Sky Sports Arena
+http://139.99.80.237:9998/skysportarena/index.m3u8?token=272b753910e7cf698b5573bf8dc2f264144993ad-80debeadba6f852728a03dff74a5b518-1646140487-1646129687
+
+#EXTINF:-1 tvg-logo="http://udoofree.com/cover/channels/sky-sports-action-uk.png" group-title="Sky Sports Action
+http://139.99.80.237:9998/skysportaction/index.m3u8?token=fd7e095cce3bfb283159df8bab40a4cbc591433c-7d69b317a8dcf49039ed74c5de9d7db6-1646140635-1646129835
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
