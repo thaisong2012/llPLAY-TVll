@@ -110,10 +110,10 @@ https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetspor
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport4.jpg" group-title="Sport",SkynetSport 4
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport4/playlist.m3u8|Referer=https://www.andaman888th.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport5.jpg" group-title="Sport",SkynetSport 5
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chskynetsport5.jpg" group-title="Sport",SkynetSport 5
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport5/playlist.m3u8|Referer=https://www.andaman888th.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport6.jpg" group-title="Sport",SkynetSport 6
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chskynetsport6.jpg" group-title="Sport",SkynetSport 6
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/skynetsport6/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 
