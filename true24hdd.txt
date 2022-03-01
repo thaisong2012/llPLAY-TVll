@@ -15,7 +15,7 @@ http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza63_tpbshd_live1.s
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://udoofree.com/cover/c299963d-be47-4241-816e-9e1713ba3715.jpg" group-title="ดิจิตอลทีวี",TNN
-http://183.89.246.119:8010/play/a00b/index.m3u8
+http://183.89.246.119:8010/play/a00b/81744545.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-ch5.png" group-title="ดิจิตอลทีวี",CH5 HD
 https://cdn1.aws-live-streaming.com/true/ch22/playlist.m3u8|Referer=https://true24hd.net/
