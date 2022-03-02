@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	1
+https://cdn1.aws-live-streaming.com/ais//ch0/playlist.m3u8|Referer=https://aisplay24hd.com/
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	1
+https://cdn1.aws-live-streaming.com/ais//ch1/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	2
+https://cdn1.aws-live-streaming.com/ais//ch2/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	3
+https://cdn1.aws-live-streaming.com/ais//ch3/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	4
+https://cdn1.aws-live-streaming.com/ais//ch4/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	5
+https://cdn1.aws-live-streaming.com/ais//ch5/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	6
+https://cdn1.aws-live-streaming.com/ais//ch6/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	7
+https://cdn1.aws-live-streaming.com/ais//ch7/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	8
+https://cdn1.aws-live-streaming.com/ais//ch8/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	9
+https://cdn1.aws-live-streaming.com/ais//ch9/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	10
+https://cdn1.aws-live-streaming.com/ais//ch10/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	11
+https://cdn1.aws-live-streaming.com/ais//ch11/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	12
+https://cdn1.aws-live-streaming.com/ais//ch12/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	13
+https://cdn1.aws-live-streaming.com/ais//ch13/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	14
+https://cdn1.aws-live-streaming.com/ais//ch14/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	15
+https://cdn1.aws-live-streaming.com/ais//ch15/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	16
+https://cdn1.aws-live-streaming.com/ais//ch16/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	17
+https://cdn1.aws-live-streaming.com/ais//ch17/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	18
+https://cdn1.aws-live-streaming.com/ais//ch18/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	19
+https://cdn1.aws-live-streaming.com/ais//ch19/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	20
+https://cdn1.aws-live-streaming.com/ais//ch20/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	21
+https://cdn1.aws-live-streaming.com/ais//ch21/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	22
+https://cdn1.aws-live-streaming.com/ais//ch22/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	23
+https://cdn1.aws-live-streaming.com/ais//ch23/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	24
+https://cdn1.aws-live-streaming.com/ais//ch24/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	25
+https://cdn1.aws-live-streaming.com/ais//ch25/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	26
+https://cdn1.aws-live-streaming.com/ais//ch26/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	27
+https://cdn1.aws-live-streaming.com/ais//ch27/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	28
+https://cdn1.aws-live-streaming.com/ais//ch28/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	29
+https://cdn1.aws-live-streaming.com/ais//ch29/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	30
+https://cdn1.aws-live-streaming.com/ais//ch30/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	31
+https://cdn1.aws-live-streaming.com/ais//ch31/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	32
+https://cdn1.aws-live-streaming.com/ais//ch32/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	33
+https://cdn1.aws-live-streaming.com/ais//ch33/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	34
+https://cdn1.aws-live-streaming.com/ais//ch34/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	35
+https://cdn1.aws-live-streaming.com/ais//ch35/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	36
+https://cdn1.aws-live-streaming.com/ais//ch36/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	37
+https://cdn1.aws-live-streaming.com/ais//ch37/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	38
+https://cdn1.aws-live-streaming.com/ais//ch38/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	39
+https://cdn1.aws-live-streaming.com/ais//ch39/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	40
+https://cdn1.aws-live-streaming.com/ais//ch40/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	41
+https://cdn1.aws-live-streaming.com/ais//ch41/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	42
+https://cdn1.aws-live-streaming.com/ais//ch42/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	43
+https://cdn1.aws-live-streaming.com/ais//ch43/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	44
+https://cdn1.aws-live-streaming.com/ais//ch44/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	45
+https://cdn1.aws-live-streaming.com/ais//ch45/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	46
+https://cdn1.aws-live-streaming.com/ais//ch46/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	47
+https://cdn1.aws-live-streaming.com/ais//ch47/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	48
+https://cdn1.aws-live-streaming.com/ais//ch48/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	49
+https://cdn1.aws-live-streaming.com/ais//ch49/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	50
+https://cdn1.aws-live-streaming.com/ais//ch50/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	51
+https://cdn1.aws-live-streaming.com/ais//ch51/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	52
+https://cdn1.aws-live-streaming.com/ais//ch52/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	53
+https://cdn1.aws-live-streaming.com/ais//ch53/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	54
+https://cdn1.aws-live-streaming.com/ais//ch54/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	55
+https://cdn1.aws-live-streaming.com/ais//ch55/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	56
+https://cdn1.aws-live-streaming.com/ais//ch56/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	57
+https://cdn1.aws-live-streaming.com/ais//ch57/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	58
+https://cdn1.aws-live-streaming.com/ais//ch58/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	59
+https://cdn1.aws-live-streaming.com/ais//ch59/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	60
+https://cdn1.aws-live-streaming.com/ais//ch60/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	61
+https://cdn1.aws-live-streaming.com/ais//ch61/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	62
+https://cdn1.aws-live-streaming.com/ais//ch62/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	63
+https://cdn1.aws-live-streaming.com/ais//ch63/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	64
+https://cdn1.aws-live-streaming.com/ais//ch64/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	65
+https://cdn1.aws-live-streaming.com/ais//ch65/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	66
+https://cdn1.aws-live-streaming.com/ais//ch66/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	67
+https://cdn1.aws-live-streaming.com/ais//ch67/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	68
+https://cdn1.aws-live-streaming.com/ais//ch68/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	69
+https://cdn1.aws-live-streaming.com/ais//ch69/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	70
+https://cdn1.aws-live-streaming.com/ais//ch70/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	71
+https://cdn1.aws-live-streaming.com/ais//ch71/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	72
+https://cdn1.aws-live-streaming.com/ais//ch72/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	73
+https://cdn1.aws-live-streaming.com/ais//ch73/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	74
+https://cdn1.aws-live-streaming.com/ais//ch74/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	75
+https://cdn1.aws-live-streaming.com/ais//ch75/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	76
+https://cdn1.aws-live-streaming.com/ais//ch76/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	77
+https://cdn1.aws-live-streaming.com/ais//ch77/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	78
+https://cdn1.aws-live-streaming.com/ais//ch78/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	79
+https://cdn1.aws-live-streaming.com/ais//ch79/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	80
+https://cdn1.aws-live-streaming.com/ais//ch80/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	81
+https://cdn1.aws-live-streaming.com/ais//ch81/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	82
+https://cdn1.aws-live-streaming.com/ais//ch82/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	83
+https://cdn1.aws-live-streaming.com/ais//ch83/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	84
+https://cdn1.aws-live-streaming.com/ais//ch84/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	85
+https://cdn1.aws-live-streaming.com/ais//ch85/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	86
+https://cdn1.aws-live-streaming.com/ais//ch86/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	87
+https://cdn1.aws-live-streaming.com/ais//ch87/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	88
+https://cdn1.aws-live-streaming.com/ais//ch88/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	89
+https://cdn1.aws-live-streaming.com/ais//ch89/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	90
+https://cdn1.aws-live-streaming.com/ais//ch90/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	91
+https://cdn1.aws-live-streaming.com/ais//ch91/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	92
+https://cdn1.aws-live-streaming.com/ais//ch92/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	93
+https://cdn1.aws-live-streaming.com/ais//ch93/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	94
+https://cdn1.aws-live-streaming.com/ais//ch94/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	95
+https://cdn1.aws-live-streaming.com/ais//ch95/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	96
+https://cdn1.aws-live-streaming.com/ais//ch96/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	97
+https://cdn1.aws-live-streaming.com/ais//ch97/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	98
+https://cdn1.aws-live-streaming.com/ais//ch98/playlist.m3u8|Referer=https://aisplay24hd.com/	
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",Sport",beinSport 1	99
+https://cdn1.aws-live-streaming.com/ais//ch99/playlist.m3u8|Referer=https://aisplay24hd.com/	
