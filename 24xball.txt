@@ -11,9 +11,9 @@ https://24xball.googlecdnforstreaming.live:446/24xball/ch23/playlist.m3u8|Refere
 https://24xball.googlecdnforstreaming.live:446/24xball/ch24/playlist.m3u8|Referer=https://24xball.com/    
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="DIGITAL TV",ONE HD
 https://24xball.googlecdnforstreaming.live:446/24xball/ch25/playlist.m3u8|Referer=https://24xball.com/    
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",beinSport 1    26
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="DIGITAL TV",PPTV HD
 https://24xball.googlecdnforstreaming.live:446/24xball/ch26/playlist.m3u8|Referer=https://24xball.com/    
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",beinSport 1    27
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",THAIRAT TV HD
 https://24xball.googlecdnforstreaming.live:446/24xball/ch27/playlist.m3u8|Referer=https://24xball.com/    
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",True Premier Football HD 1
 https://24xball.googlecdnforstreaming.live:446/24xball/ch28/playlist.m3u8|Referer=https://24xball.com/    
