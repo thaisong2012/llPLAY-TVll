@@ -46,9 +46,9 @@ https://24xball.googlecdnforstreaming.live:446/24xball/ch41/playlist.m3u8|Refere
 
 
     
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",beinSport 1    52
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",NBA
 https://24xball.googlecdnforstreaming.live:446/24xball/ch52/playlist.m3u8|Referer=https://24xball.com/    
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",true TENNIS
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",TRUE TENNIS
 https://24xball.googlecdnforstreaming.live:446/24xball/ch53/playlist.m3u8|Referer=https://24xball.com/    
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",GOFT 
 https://24xball.googlecdnforstreaming.live:446/24xball/ch54/playlist.m3u8|Referer=https://24xball.com/    
@@ -77,7 +77,7 @@ https://24xball.googlecdnforstreaming.live:446/24xball/ch63/playlist.m3u8|Refere
 https://24xball.googlecdnforstreaming.live:446/24xball/ch67/playlist.m3u8|Referer=https://24xball.com/   
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",SPORT TV1 HD
 https://24xball.googlecdnforstreaming.live:446/24xball/ch69/playlist.m3u8|Referer=https://24xball.com/    
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",SPORT TV1 HD
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",SPORT TV2 HD
 https://24xball.googlecdnforstreaming.live:446/24xball/ch70/playlist.m3u8|Referer=https://24xball.com/    
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="SPORT",beinSport 1    71
 https://24xball.googlecdnforstreaming.live:446/24xball/ch71/playlist.m3u8|Referer=https://24xball.com/    
