@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movie HD" tvg-logo="https://lh4.googleusercontent.com/proxy/SOycR_tJ20Nd6pbzQiENnDZ0At7btZ6Bl0U-kcciIrKKGoevrVWoZlPgT9RbfBQLReGewhXXhb_aOypsWCK1Ct9g_ZoiSiXkYvLLYiIY56LchQxH09JgwKFOcGJ830xrpLHccHaDrfVJ8mo"Doctor Strange in the Multiverse of Madness (2022) จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://cdn.majorcineplex.com/uploads/movie/2773/thumb_2773.jpg"Doctor Strange in the Multiverse of Madness (2022) จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย
 https://mas-stream2021.xyz/cdn/hls/f3d7ea597f3320369c916508b34b8d18/master.txt?s=6&d=
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
