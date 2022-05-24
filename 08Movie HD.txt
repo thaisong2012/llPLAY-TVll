@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2022/04/sqLowacltbZLoCa4KYye64RvvdQ-200x300.jpg",Free Guy (2021) ขอสักทีพี่จะเป็นฮีโร่
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.img03.xyz/assets/movie_poster/6/60be0f0d30039c9dc9ff58227b33f50a.jpg",Free Guy (2021) ขอสักทีพี่จะเป็นฮีโร่
 https://p2phls.xyz/lzkrgnbyekw0qz06swj72ihble87l35t4pj/720/index.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2022/04/sqLowacltbZLoCa4KYye64RvvdQ-200x300.jpg",UNCHARTED (2022) ผจญภัยล่าขุมทรัพย์สุดขอบโลก
