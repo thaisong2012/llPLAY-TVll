@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.img08.xyz/assets/movie_poster/d/d8544b621cb823df17824af9c20d131a.jpg",โซนิค เดอะ เฮดจ์ฮ็อก 2
+https://server6.cdn-link.com/hls/doNTGLs/file_,1080,720,360,.mp4.urlset/master.m3u8|Referer=https://www.doomovie-hd.com/?r=movie_view&id=29408
+
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/10/thumb_2767.jpg",Top Gun : Maverick ท็อปกัน มาเวอริค
 https://p2phls.xyz/97zus0qnjnjeny4vubrgu6pk9fn2ekxfq5a/720/index.m3u8
 
