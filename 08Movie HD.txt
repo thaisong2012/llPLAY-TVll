@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/12/Mortal-Engines.jpg%B2%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3.jpg",MORTAL ENGINES (2018) สมรภูมิล่าเมือง: จักรกลมรณะ
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/12/Mortal-Engines.jpg",MORTAL ENGINES (2018) สมรภูมิล่าเมือง: จักรกลมรณะ
 https://antiddosleoplayer.com/dyxq42651sjhn4l1jetmm04axas0ewx5kiu/default/index.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/12/Point-Break-2015-%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3.jpg",POINT BREAK (2015) ปล้นข้ามโคตร
