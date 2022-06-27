@@ -25,7 +25,7 @@ https://p2p.cherry1678.com/view/7f7354f5-d50c-5e50-bc8d-2372eee44a6d.txt
 https://mas-stream2021.xyz/cdn/hls/882a664951a2f011bddfac8dc2d8e3b3/master.txt?s=12&d=
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://cdn.majorcineplex.com/uploads/movie/2773/thumb_2773.jpg",Doctor Strange in the Multiverse of Madness (2022) จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย
-https://mas-stream2021.xyz/cdn/hls/f3d7ea597f3320369c916508b34b8d18/master.txt?s=6&d=
+https://swe.1xplay.xyz/media/62b31e2b80ffbAQO/1080/hls/index.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehdfree.net/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
 https://p2p.moviehdfree.xyz/hls/bTUzNW1oWFlNWm1EbDFEZEN3U2RTQ3VzNUNtMnlzM29jR2JYT1p5U3JBWE4vcVJwd1J0clVDbE9DOXEwZ2FUVGFKZVdNRGVxNU85ei9nSUt4U3JZdjVJeWExZU5uM09IM21wUjVJcUZZc0l1anlvQ0V0RDY2dGRxYzZyd0k2cmFBMDVyR0dLc2h5UUhGMkloNTJOTlExNHF4amo1dXlIbjVDQlZtb0JSZnUrclNteVBpTFBYSWZJNzFrZC9KS2Z4b1BLb1lLNXdLQTBDOFI5czdiNGtLQT09/index.m3u8
