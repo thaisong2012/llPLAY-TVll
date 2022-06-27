@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://moviehd2022.com/wp-content/uploads/2022/04/Fantastic-Beasts-The-Secrets-of-Dumbledore-e1650100978446.jpg",สัตว์มหัศจรรย์ ความลับของดัมเบิลดอร์
+https://tera.melaniphi-cc.xyz/media/629ed295cd45dyV3/1080/hls/index.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/12/Mortal-Engines.jpg",MORTAL ENGINES (2018) สมรภูมิล่าเมือง: จักรกลมรณะ
 https://antiddosleoplayer.com/dyxq42651sjhn4l1jetmm04axas0ewx5kiu/default/index.m3u8
