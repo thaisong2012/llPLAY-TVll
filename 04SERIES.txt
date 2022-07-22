@@ -57,7 +57,7 @@ playInNatPlayer: "true"
 {	
 name: "Money Heist | Netflix Season 3 (2019)",  	
 image: "https://www.movie-19.com/wp-content/uploads/2021/09/Money-Heist-Netflix-Season-3.jpg",  	
-url: "https://raw.githubusercontent.com/thaisong2012/Series/main/MONEY%20HEIST%20%7C%20NETFLIX%20SEASON%203",	
+url: "https://raw.githubusercontent.com/thaisong2012/Series/main/MONEY%20HEIST%20%7C%20NETFLIX%20SEASON%203%20(2019)",	
 referer: "https://www.movie-19.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
