@@ -41,7 +41,7 @@ playInNatPlayer: "true"
 {	
 name: "Money Heist | Netflix Season 5 (2021)",  	
 image: "https://www.movie-19.com/wp-content/uploads/2021/09/Money-Heist-Netflix-Season-5.jpg",  	
-url: "https://raw.githubusercontent.com/thaisong2012/Series/main/MONEY%20HEIST%20%7C%20NETFLIX%20SEASON%205%20(2021)",	
+url: "https://raw.githubusercontent.com/thaisong2012/Series/main/Money%20Heist%20%7C%20Netflix%20Season%201-5",	
 referer: "https://www.movie-19.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
