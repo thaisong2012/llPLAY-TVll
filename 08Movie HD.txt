@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/07/The-Gray-Man-%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%86%E0%B9%88%E0%B8%B2-2022-NETFLIX.jpg",THE GRAY MAN | NETFLIX (2022) ล่องหนฆ่า
+https://hlsp2p.com/view/3c67eb35-25f3-5ab6-99e5-df8fa0a80919.txt
+
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/07/The-Tomorrow-War-2021.jpg",THE TOMORROW WAR 
 https://hlsp2p.com/view/c2aa816b-625a-5e83-ad0d-d4ce5912d58e.txt
 
