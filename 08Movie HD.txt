@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/02/Space-Sweepers-2021.png",SPACE SWEEPERS | NETFLIX (2021) ชนชั้นขยะปฏิวัติจักรวาล
+https://antiddosleoplayer.com/onu3h9or6vszjumxmskamo64odo1oi8p6lc/default/index.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/sRFkleW3m42jw00kIgH.jpg",FOCUS (2015) โฟกัส เกมกล เสน่ห์คนเหนือเมฆ 
 https://antiddosleoplayer.com/ul8vxhapz8lb8rdh37vdz1pqzbk1cgzuerz/default/index.m3u8
