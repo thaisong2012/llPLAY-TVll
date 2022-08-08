@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/06/Jurassic-World-3-Dominion-2022-1.jpg",JURASSIC WORLD 3 DOMINION (2022) จูราสสิค เวิลด์ ทวงคืนอาณาจักร
+https://hlsp2p.com/view/efb61cb4-6e1c-5c48-b3b4-64c1e97b0e2d.txt
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/11/Red-Notice-2021.jpg",RED NOTICE | NETFLIX (2021)
 https://hlsp2p.com/view/77a65069-db48-52d6-ab10-80eba29987e1.txt
