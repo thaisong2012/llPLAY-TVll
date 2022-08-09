@@ -17,7 +17,7 @@ playInNatPlayer: "true"
 {	
 name: "THE SANDMAN | NETFLIX (TV SERIES 2022) เดอะ แซนด์แมน (EP.1-EP.10 จบ)",  	
 image: "https://www.037hdmovie.com/wp-content/uploads/2022/08/The-Sandman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%8B%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-S01.jpg",  	
-url: "https://raw.githubusercontent.com/thaisong2012/Series/main/MONEY%20HEIST%20%7C%20NETFLIX%20SEASON%20%201-5",	
+url: "https://raw.githubusercontent.com/thaisong2012/ROOM-SERIES/main/THE%20SANDMAN%20SEASON%201",	
 referer: "https://www.movie-19.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
