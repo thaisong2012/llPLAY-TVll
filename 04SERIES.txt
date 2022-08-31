@@ -22,7 +22,17 @@ referer: "https://www.movie-19.com/",
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },
-	
+{	
+name: "HOUSE OF THE DRAGON (2022) SEASON 1",  	
+image: "https://www.movie-19.com/wp-content/uploads/2022/08/House-of-the-Dragon-2022-Season-1-Ep.1.jpg",  	
+url: "https://raw.githubusercontent.com/thaisong2012/ROOM-SERIES/main/HOUSE%20OF%20THE%20DRAGON%20(2022)%20SEASON%201",	
+referer: "https://www.movie-19.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
+
+
 ]	
 }	
 	
