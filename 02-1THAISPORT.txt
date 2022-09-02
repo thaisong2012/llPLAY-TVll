@@ -94,13 +94,13 @@ https://cdn1.aws-live-streaming.com/true/ch30/playlist.m3u8|Referer=https://true
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf3/playlist.m3u8|Referer=https://www.livestream88.com/
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf3.jpg" group-title="Sport",True Premier Football HD 3
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115510&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115510&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf3.jpg" group-title="Sport",True Premier Football HD 3
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115512&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115512&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf3.jpg" group-title="Sport",True Premier Football HD 3
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115520&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115520&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
@@ -109,6 +109,25 @@ https://cdn1.aws-live-streaming.com/true/ch31/playlist.m3u8|Referer=https://true
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf4/playlist.m3u8|Referer=https://www.livestream88.com/
 
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115768&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115513&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115522&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115523&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115524&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
+
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115525&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
+
+
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf5.jpg" group-title="Sport",True Premier Football HD 5
 https://cdn1.aws-live-streaming.com/true/ch32/playlist.m3u8|Referer=https://true24hd.net/
@@ -116,6 +135,8 @@ https://cdn1.aws-live-streaming.com/true/ch32/playlist.m3u8|Referer=https://true
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf5.jpg" group-title="Sport",True Premier Football HD 5
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf5/playlist.m3u8|Referer=https://www.livestream88.com/
 
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf5.jpg" group-title="Sport",True Premier Football HD 5
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115515&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
 
 
