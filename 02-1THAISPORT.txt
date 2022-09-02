@@ -46,20 +46,20 @@ https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/ch28/playlist.m3u8|Re
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
 https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1-t
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
 https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.123-hd.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1-tt
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115757&extension=ts&play_token","referer": "","userAgent
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1-ttt
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115758&extension=ts&play_token","referer": "","userAgent
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1-tttt
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115760&extension=ts&play_token","referer": "","userAgent
 
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1-ttttt
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115771&extension=ts&play_token","referer": "","userAgent
 
 
