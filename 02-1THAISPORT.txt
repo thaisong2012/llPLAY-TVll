@@ -49,8 +49,8 @@ https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=ht
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1-t
 https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.123-hd.com/
 
-
-
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1-tt
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115771&extension=ts&play_token","referer": "","userAgent
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg" group-title="Sport",True Premier Football HD 2
 https://cdn1.aws-live-streaming.com/true/ch29/playlist.m3u8|Referer=https://true24hd.net/
