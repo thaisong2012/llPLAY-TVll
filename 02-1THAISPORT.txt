@@ -38,7 +38,7 @@ https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/ch41/playlist.m3u8|Re
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/sport/tpf1/chunks.m3u8|Referer=https://dooball2you.com/
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/tpf1/playlist.m3u8|Referer=https://www.andaman888th.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/epl1/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
 https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/ch28/playlist.m3u8|Referer=https://dooball4k.live/
