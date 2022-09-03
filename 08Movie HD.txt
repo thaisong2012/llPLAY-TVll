@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/a4m1YMMMhn4AnyPYXNx.jpg",TRANSCENDENCE (2014) คอมพ์สมองคนพิฆาตโลก 
+https://hlsp2p.com/view/7a38993b-4a66-5592-bb61-1fdb029d3a61.txt
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/Samaritan-%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%99-2022.jpg",SAMARITAN (2022) ซามาริทัน
 https://hlsp2p.com/view/f921eab3-d959-5f77-bf75-a11953bc3241.txt
