@@ -67,7 +67,7 @@ info: "PLAY TV",
 playInNatPlayer: "true"	
 },
 {	
-name:"EPL1-Smart-tv",	
+name:"EPL1",	
 image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
 url:"https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8",	
 referer: "https://www.doomovie-hd.com/",	
