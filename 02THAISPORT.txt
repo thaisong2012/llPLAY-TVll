@@ -87,8 +87,8 @@ playInNatPlayer: "true"
 {	
 name:"EPL1",	
 image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
-url:"https://r3-sn-5fo-c37ed23.googleuservideo.com/ball8k_t1/trueepl1_480p/chunks.m3u8?nimblesessionid=989519&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIyIDEwOjIyOjQ1IEFNJmhhc2hfdmFsdWU9TXVIcDJIM3BCdkNrUzF0UU5tWk1CZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTIzJmlkPTMyMDc3OA==",	
-referer: "https://ufa77.tv/channel?ch=epl1",	
+url:"https://r3-sn-5fo-c37ed23.googleuservideo.com/ball8k_t1/trueepl1_480p/playlist.m3u8",	
+referer: "https://ufa77.tv/",	
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
@@ -96,7 +96,7 @@ playInNatPlayer: "true"
 {	
 name: "EPL1",	
 image: "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
-url: "https://ufa77.tv/channel?ch=epl1",	
+url: "http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115758&extension=ts&play_token",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
