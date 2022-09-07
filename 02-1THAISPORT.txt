@@ -111,15 +111,14 @@ https://r3-sn-5fo-c37ed9.googleuservideo.com/sportpack_x1/trueepl5_480p/playlist
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115515&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
 
-#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png" group-title="Sport",beinSport 1
-https://cdn1.aws-live-streaming.com/true/ch40/playlist.m3u8|Referer=https://true24hd.net/
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png.webp" group-title="Sport",beinSport 1
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8|Referer=https://dooball2you.com/
 
 #EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png" group-title="Sport",beinSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/?r=livetv_schedule
 
 #EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png" group-title="Sport",beinSport 1
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/bein1/playlist.m3u8|Referer=https://www.andaman888th.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8|Referer=https://dooball2you.com/
 
 #EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png" group-title="Sport",beinSport 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/bein1/playlist.m3u8|Referer=https://www.livestream88.com/
@@ -127,7 +126,7 @@ https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/bein1/playlist.m
 
 
 #EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png" group-title="Sport",beinSPORT 2
-https://cdn1.aws-live-streaming.com/true/ch41/playlist.m3u8|Referer=https://true24hd.net/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8|Referer=https://dooball2you.com/
 
 #EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png" group-title="Sport",beinSPORT 2
 https://smart-tv.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
