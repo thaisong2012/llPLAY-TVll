@@ -9,186 +9,180 @@
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/sport/tpf1/chunks.m3u8|Referer=https://dooball2you.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/epl1/playlist.m3u8|Referer=https://www.andaman888th.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/ch28/playlist.m3u8|Referer=https://dooball4k.live/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.123-hd.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115757&extension=ts&play_token","referer": "","userAgent
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115758&extension=ts&play_token","referer": "","userAgent
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115760&extension=ts&play_token","referer": "","userAgent
 
-
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115771&extension=ts&play_token","referer": "","userAgent
 
 
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg" group-title="Sport",True Premier Football HD 2
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="Sport",True Premier Football HD 2
 https://cdn1.aws-live-streaming.com/true/ch29/playlist.m3u8|Referer=https://true24hd.net/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg" group-title="Sport",True Premier Football HD 2
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="Sport",True Premier Football HD 2
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf2/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg" group-title="Sport",True Premier Football HD 2
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="Sport",True Premier Football HD 2
 https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/ch29/playlist.m3u8|Referer=https://dooball4k.live/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg" group-title="Sport",True Premier Football HD 2
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="Sport",True Premier Football HD 2
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg" group-title="Sport",True Premier Football HD 2
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="Sport",True Premier Football HD 2
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115762&extension=ts&play_token","referer": "",""userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg" group-title="Sport",True Premier Football HD 2
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="Sport",True Premier Football HD 2
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115509&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg" group-title="Sport",True Premier Football HD 2
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="Sport",True Premier Football HD 2
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115518&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
 
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf3.jpg" group-title="Sport",True Premier Football HD 3
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="Sport",True Premier Football HD 3
 https://cdn1.aws-live-streaming.com/true/ch30/playlist.m3u8|Referer=https://true24hd.net/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf3.jpg" group-title="Sport",True Premier Football HD 3
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="Sport",True Premier Football HD 3
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf3/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf3.jpg" group-title="Sport",True Premier Football HD 3
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="Sport",True Premier Football HD 3
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115510&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf3.jpg" group-title="Sport",True Premier Football HD 3
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="Sport",True Premier Football HD 3
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115512&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf3.jpg" group-title="Sport",True Premier Football HD 3
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="Sport",True Premier Football HD 3
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115520&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="Sport",True Premier Football HD 4 
 https://cdn1.aws-live-streaming.com/true/ch31/playlist.m3u8|Referer=https://true24hd.net/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="Sport",True Premier Football HD 4 
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/tpf4/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="Sport",True Premier Football HD 4 
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115768&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="Sport",True Premier Football HD 4 
+
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115513&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="Sport",True Premier Football HD 4 
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115522&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="Sport",True Premier Football HD 4 
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115523&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="Sport",True Premier Football HD 4
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115524&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg" group-title="Sport",True Premier Football HD 4 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="Sport",True Premier Football HD 4
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115525&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
 
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf5.jpg" group-title="Sport",True Premier Football HD 5
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="Sport",True Premier Football HD 5
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/epl5/playlist.m3u8|Referer=https://www.andaman888th.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf5.jpg" group-title="Sport",True Premier Football HD 5
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="Sport",True Premier Football HD 5
 https://r3-sn-5fo-c37ed9.googleuservideo.com/sportpack_x1/trueepl5_480p/playlist.m3u8|Referer=https://livesod88.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf5.jpg" group-title="Sport",True Premier Football HD 5
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="Sport",True Premier Football HD 5
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115515&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport 1
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png" group-title="Sport",beinSport 1
 https://cdn1.aws-live-streaming.com/true/ch40/playlist.m3u8|Referer=https://true24hd.net/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport 1
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png" group-title="Sport",beinSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/?r=livetv_schedule
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport 1
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png" group-title="Sport",beinSport 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/bein1/playlist.m3u8|Referer=https://www.andaman888th.com
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="Sport",beinSport 1
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png" group-title="Sport",beinSport 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/bein1/playlist.m3u8|Referer=https://www.livestream88.com/
 
 
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein2.jpg" group-title="Sport",beinSPORT 2
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png" group-title="Sport",beinSPORT 2
 https://cdn1.aws-live-streaming.com/true/ch41/playlist.m3u8|Referer=https://true24hd.net/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein2.jpg" group-title="Sport",beinSPORT 2
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png" group-title="Sport",beinSPORT 2
 https://smart-tv.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein2.jpg" group-title="Sport",beinSPORT 2
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png" group-title="Sport",beinSPORT 2
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/bein2/playlist.m3u8|Referer=https://www.andaman888th.com/
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein2.jpg" group-title="Sport",beinSPORT 2
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png" group-title="Sport",beinSPORT 2
 https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/ch41/playlist.m3u8|Referer=https://dooball4k.live/
 
 
 
-#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/truesporthd.png" group-title="Sport",True Sport HD 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" group-title="Sport",True Sport HD 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesporthd1/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/truesporthd.png" group-title="Sport",True Sport HD 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" group-title="Sport",True Sport HD 1
 https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com
 
-#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/truesporthd2.png" group-title="Sport",True Sport HD 2
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" group-title="Sport",True Sport HD 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesporthd2/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/truesporthd2.png" group-title="Sport",True Sport HD 2
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="Sport",True Sport HD 2
 https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com
 
-#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/TRUE-SPORT-HD-3.png" group-title="Sport",True Sport HD 3 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="Sport",True Sport HD 2
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesporthd3/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/TRUE-SPORT-HD-3.png" group-title="Sport",True Sport HD 3 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" group-title="Sport",True Sport HD 3 
 https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport4.png" group-title="Sport",True Sport HD 4 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="Sport",True Sport HD 4 
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesporthd4/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport4.png" group-title="Sport",True Sport HD 4
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="Sport",True Sport HD 4
 https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tennis.png" group-title="Sport",True Tennis HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="Sport",True Sport 5
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesportsd5/playlist.m3u8|Referer=https://www.livestream88.com/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="Sport",True Sport 7
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesportsd7/playlist.m3u8|Referer=https://www.livestream88.com/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png" group-title="Sport",True Tennis HD
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truetennis/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tennis.png" group-title="Sport",True Tennis HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png" group-title="Sport",True Tennis HD
 https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com
 
 
-#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/2021/08/sd-tsport5.png" group-title="Sport",True Sport 5
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesportsd5/playlist.m3u8|Referer=https://www.livestream88.com/
-
-#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/2021/08/sd-tsport7.png" group-title="Sport",True Sport 7
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/truesportsd7/playlist.m3u8|Referer=https://www.livestream88.com/
-
-
-
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-golf.png" group-title="Sport",GOLF CHANNEL HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png" group-title="Sport",GOLF CHANNEL HD
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/golf/playlist.m3u8|Referer=https://www.livestream88.com/
 
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-golf.png" group-title="Sport",GOLF CHANNEL HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png" group-title="Sport",GOLF CHANNEL HD
 https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com
 
-#EXTINF:-1 tvg-logo="https://www.livestream88.com/wp-content/uploads/nfl-tv.png" group-title="Sport",NFL Network
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/db9e0980-b550-11ea-8fac-236a281cd6c5_320.png" group-title="Sport",NFL Network
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/golf/playlist.m3u8|Referer=https://www.livestream88.com/
 
