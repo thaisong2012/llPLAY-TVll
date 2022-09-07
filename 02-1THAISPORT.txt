@@ -6,7 +6,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/sport/tpf1/chunks.m3u8|Referer=https://dooball2you.com/
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",True Premier Football HD 1
