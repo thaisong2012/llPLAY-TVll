@@ -114,13 +114,13 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115515&extension=
 #EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png.webp" group-title="Sport",beinSport 1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8|Referer=https://dooball2you.com/
 
-#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png" group-title="Sport",beinSport 1
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png.webp" group-title="Sport",beinSport 1
 https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/?r=livetv_schedule
 
-#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png" group-title="Sport",beinSport 1
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png.webp" group-title="Sport",beinSport 1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8|Referer=https://dooball2you.com/
 
-#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png" group-title="Sport",beinSport 1
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png.webp" group-title="Sport",beinSport 1
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_sport/bein1/playlist.m3u8|Referer=https://www.livestream88.com/
 
 
