@@ -38,7 +38,13 @@ referer: "https://moviehdfree.net/",
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },
-
+{	
+name: "WANDAVISION (2021) SEASON 1",  	
+image: "https://www.nung2hdd.com/wp-content/uploads/2021/04/frobUz2X5Pc8OiVZU8Oo5K3NKMM-200x300.jpg",  	
+url: "https://raw.githubusercontent.com/thaisong2012/ROOM-SERIES/main/WANDAVISION%20(2021)%20SEASON%201",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
 
 ]	
 }	
