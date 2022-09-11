@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/Suicide-Squad-2016-125x160.jpg",Suicide Squad ทีมพลีชีพมหาวายร้าย
+https://p2p.stream1688.com/files/6715df0fd4e7189cd60aab81258b48df_original.txt
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/09/Thor-Love-and-thunder-2022-220x300-c-default.jpg",Thor: Love and Thunder ธอร์: ด้วยรักและอัสนี (2022)
 https://p2p.stream1688.com/view/3617840f-faf5-5786-974d-aa3de1fe012a.m3u8
