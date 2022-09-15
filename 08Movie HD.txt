@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/Hidden-Figures-2016.jpg",HIDDEN FIGURES (2016) ทีมเงาอัจฉริยะ
+https://p2p.stream1688.com/files/8cfa66cfefb0c45c6832ae28fad52c6c_original.txt
+
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2014/12/National-Treasure.jpg",NATIONAL TREASURE (2004) ปฏิบัติการเดือด ล่าขุมทรัพย์สุดขอบโลก
 https://p2p.stream1688.com/view/5bf3c090-20e9-5215-b2d0-02fc84bea590.m3u8
 
