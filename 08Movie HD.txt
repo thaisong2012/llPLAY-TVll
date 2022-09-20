@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://1.bp.blogspot.com/-yihud7wAVgc/Vctu2Km0k4I/AAAAAAAARr8/OZBCSfbFEtA/s320/taking-of-pelham-123.jpg",THE TAKING OF PELHAM 123 (2009) ปล้นนรก รถด่วนขบวน 1 2 3
+https://streamhls.com/files/187a067977ee9f5351a493a575371a71_original.txt
+
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/Hidden-Figures-2016.jpg",HIDDEN FIGURES (2016) ทีมเงาอัจฉริยะ
 https://p2p.stream1688.com/files/8cfa66cfefb0c45c6832ae28fad52c6c_original.txt
 
