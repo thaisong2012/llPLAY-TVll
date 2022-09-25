@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/03/Bloodshot-e1583899818151.jpg",BLOODSHOT (2020) จักรกลเลือดดุ
+https://streamhls.com/files/5d411ce8a72eef392d069bd867962a97_original.txt
+
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/09/xS1if6KcyDLHLcdrBYIvz7nN0Mi-200x300.jpg",Jack Reacher 2 Never Go Back (2016) ยอดคนสืบระห่ำ 2
 https://streamhls.com/files/d2ead91c4049d1576baa15eaa06c639d_original.txt
 
