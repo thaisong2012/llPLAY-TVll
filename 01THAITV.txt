@@ -213,7 +213,7 @@ info: "PLAY TV",
 playInNatPlayer: "true"
 },
 {
-name: "Workpoint",
+name: "Workpoint 1080p",
 image: "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
 url: "https://www.dailymotion.com/video/x6g9qjj",
 referer: "https://www.dailymotion.com/",
@@ -277,10 +277,10 @@ info: "PLAY TV",
 playInNatPlayer: "true"
 },
 {
-name: "CH8",
+name: "CH8 1080p",
 image: "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-ch8&api_key=hmcb4rf66f",
-referer: "https://dooball66.com",
+url:"https://www.dailymotion.com/video/x84ukk7",
+referer: "https://www.dailymotion.com/",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 info: "PLAY TV",
 desktop: "true"
