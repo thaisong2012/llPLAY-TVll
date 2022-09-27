@@ -198,7 +198,7 @@ playInNatPlayer: "true"
 {
 name: "Workpoint",
 image: "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f",
+url:"https://www.dailymotion.com/cdn/live/video/x6g9qjj.m3u8?sec=Dy7luKxYb1-JKhrTkgqsFdO7FpkBP164Vsnek5gfN0oraZL4Q46uA7xMlKYSn-xlzNXJXZwill0DyLVFYAi1tw&dmTs=721560&dmV1st=68EC4EF4A44FF648662867573DA4C8B8",
 referer: "https://dooball66.com",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 info: "PLAY TV",
