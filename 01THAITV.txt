@@ -335,10 +335,10 @@ info: "PLAY TV",
 playInNatPlayer: "true"
 },
 {
-name: "MONO29",
+name: "MONO29 1080p",
 image: "https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",
-url: "https://www.adintrend.tv/hd/ch38?t=live",
-referer: "https://www.adintrend.tv/",
+url: "https://mono29.com/livetv",
+referer: "https://mono29.com/",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
