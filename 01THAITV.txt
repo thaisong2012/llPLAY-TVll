@@ -215,8 +215,8 @@ playInNatPlayer: "true"
 {
 name: "Workpoint",
 image: "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
-url: "https://we-play.live/watching/tv/workpoint",
-referer: "https://we-play.live/",
+url: "https://www.dailymotion.com/video/x6g9qjj",
+referer: "https://www.dailymotion.com/",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
