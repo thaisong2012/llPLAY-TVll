@@ -24,7 +24,7 @@ name: "ททบ.5",
 image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch5.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27190",
 referer: "https://www.inwiptv.com/",
-info: "PLAY TV",
+info: "https://www.inwiptv.com/",
 playInNatPlayer: "true"
 },
 {
@@ -32,7 +32,7 @@ name: "ททบ.5",
 image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch5.png",
 url: "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/5hd/playlist.m3u8",
 referer: "https://dooball2you.com/",
-info: "PLAY TV",
+info: "https://dooball2you.com/",
 playInNatPlayer: "true"
 },
 {
