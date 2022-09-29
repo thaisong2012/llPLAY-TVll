@@ -12,7 +12,7 @@ stations: [
 
 {
 name: "ททบ.5",
-image: "https://www.doofree88.com/storage/live/channel-5-hd.png",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch5.png",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f",
 referer: "https://dooball66.com",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -21,7 +21,7 @@ desktop: "true"
 },
 {
 name: "ททบ.5",
-image: "https://www.doofree88.com/storage/live/channel-5-hd.png",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch5.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27190",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -29,7 +29,7 @@ playInNatPlayer: "true"
 },
 {
 name: "ททบ.5",  
-image: "https://www.doofree88.com/storage/live/channel-5-hd.png",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch5.png",
 url: "https://we-play.live/watching/tv/ch5-hd",
 referer: "https://we-play.live/",
 info: "PLAY TV",
@@ -46,7 +46,7 @@ desktop: "true"
 },
 {
 name: "NBT",  
-image: "https://www.doofree88.com/storage/live/nbt.png",  
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-nbt.png",  
 url: "https://www.inwiptv.com/player_demo.php?channel=27189",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -54,7 +54,7 @@ playInNatPlayer: "true"
 },
 {
 name: "NBT",  
-image: "https://www.doofree88.com/storage/live/nbt.png",  
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-nbt.png",  
 url: "https://we-play.live/watching/tv/11-nbt",
 referer: "https://we-play.live/",
 info: "PLAY TV",
@@ -62,14 +62,14 @@ playInNatPlayer: "true"
 },
 {
 name: "TPBS",
-image: "https://www.doofree88.com/storage/live/thai-pbs.png",  
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-tpbs.png",  
 url: "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
 {
 name: "TPBS",
-image: "https://www.doofree88.com/storage/live/thai-pbs.png",  
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-tpbs.png",  
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tpbs&api_key=hmcb4rf66f",
 referer: "https://dooball66.com",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -78,7 +78,7 @@ desktop: "true"
 },
 {
 name: "TPBS",
-image: "https://www.doofree88.com/storage/live/thai-pbs.png",  
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-tpbs.png",  
 url: "https://we-play.live/watching/tv/thai-pbs",
 referer: "https://we-play.live/",
 info: "PLAY TV",
@@ -86,7 +86,7 @@ playInNatPlayer: "true"
 },
 {
 name: "TPBS",
-image: "https://www.doofree88.com/storage/live/thai-pbs.png",  
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-tpbs.png",  
 url: "https://www.inwiptv.com/player_demo.php?channel=27188",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -138,7 +138,7 @@ playInNatPlayer: "true"
 },
 {
 name: "TNN",
-image: "https://static.wikia.nocookie.net/logopedia/images/f/fd/CZCeur17_400x400.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-tnn24.png",
 url:"https://www.livedoomovies.com:4431/02_TNN24_480p/chunklist.m3u8",
 referer: "https://www.livedoomovies.com/",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -147,7 +147,7 @@ desktop: "true"
 },
 {
 name: "TNN",
-image: "https://static.wikia.nocookie.net/logopedia/images/f/fd/CZCeur17_400x400.jpg",  
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-tnn24.png",  
 url: "https://www.inwiptv.com/player_demo.php?channel=27179",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -155,7 +155,7 @@ playInNatPlayer: "true"
 },
 {
 name: "JKN18",
-image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png",
+image: "https://www.img07.xyz/assets/img/ch_logo/JKN.png",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-new&api_key=hmcb4rf66f",
 referer: "https://dooball66.com",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -164,7 +164,7 @@ desktop: "true"
 },
 {
 name: "JKN18",
-image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png",
+image: "https://www.img07.xyz/assets/img/ch_logo/JKN.png",
 url:"https://www.doofootball.com/dootv/live/newtv",
 info: "PLAY TV",
 desktop: "true"
@@ -172,7 +172,7 @@ desktop: "true"
 
 {
 name: "Nation TV",
-image: "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-nation.png",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-nation&api_key=hmcb4rf66f",
 referer: "https://dooball66.com",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -181,7 +181,7 @@ desktop: "true"
 },
 {
 name: "Nation TV",
-image: "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-nation.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27162",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -189,7 +189,7 @@ playInNatPlayer: "true"
 },
 {
 name: "Nation TV",
-image: "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-nation.pngg",
 url: "https://www.adintrend.tv/hd/ch37?t=live",
 referer: "https://www.adintrend.tv/",
 info: "PLAY TV",
@@ -197,7 +197,7 @@ playInNatPlayer: "true"
 },
 {
 name: "Workpoint",
-image: "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-workpoint.png",
 url:"https://www.dailymotion.com/video/x6g9qjj",
 referer: "https://www.dailymotion.com/",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -206,7 +206,7 @@ desktop: "true"
 },
 {
 name: "Workpoint",
-image: "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-workpoint.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27159",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -214,7 +214,7 @@ playInNatPlayer: "true"
 },
 {
 name: "Workpoint 1080p",
-image: "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-workpoint.png",
 url: "https://www.dailymotion.com/video/x6g9qjj",
 referer: "https://www.dailymotion.com/",
 info: "PLAY TV",
@@ -222,14 +222,14 @@ playInNatPlayer: "true"
 },
 {
 name: "True4u",
-image: "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-24u.png",
 url: "https://true4u.com/live/",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
 {
 name: "True4u",
-image: "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-24u.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27156",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -237,7 +237,7 @@ playInNatPlayer: "true"
 },
 {
 name: "True4u",
-image: "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-24u.png",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-24u&api_key=hmcb4rf66f",
 referer: "https://dooball66.com",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -255,7 +255,7 @@ desktop: "true"
 },
 {
 name: "GMM25",
-image: "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-gmmchannel.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27153",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -263,14 +263,14 @@ playInNatPlayer: "true"
 },
 {
 name: "GMM25",
-image: "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-gmmchannel.png",
 url: "https://www.adintrend.tv/hd/m/ch0",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
 {
 name: "GMM25",
-image: "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-gmmchannel.png",
 url: "https://www.we-play.live/watching/tv/gmm25",
 referer: "https://www.we-play.live/",
 info: "PLAY TV",
@@ -278,7 +278,7 @@ playInNatPlayer: "true"
 },
 {
 name: "CH8 1080p",
-image: "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch8.png",
 url:"https://www.dailymotion.com/video/x84ukk7",
 referer: "https://www.dailymotion.com/",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -287,7 +287,7 @@ desktop: "true"
 },
 {
 name: "CH8",
-image: "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch8.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27147",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -295,7 +295,7 @@ playInNatPlayer: "true"
 },
 {
 name: "CH8",
-image: "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch8.png",
 url: "https://www.adintrend.tv/hd/ch33?t=live",
 referer: "https://www.adintrend.tv/",
 info: "PLAY TV",
@@ -303,7 +303,7 @@ playInNatPlayer: "true"
 },
 {
 name: "CH8",
-image: "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch8.png",
 url: "https://www.thaich8.com/live?var_link=720p",
 referer: "https://www.thaich8.com/",
 info: "PLAY TV",
@@ -320,7 +320,7 @@ desktop: "true"
 },
 {
 name: "MONO29",
-image: "https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-mono.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27144",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -328,7 +328,7 @@ playInNatPlayer: "true"
 },
 {
 name: "MONO29",
-image: "https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-mono.png",
 url: "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w942587042.m3u8",
 referer: "https://mono29.com/livetv",
 info: "PLAY TV",
@@ -336,15 +336,15 @@ playInNatPlayer: "true"
 },
 {
 name: "MONO29 1080p",
-image: "https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-mono.png",
 url: "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w518596907.m3u8",
 referer: "https://mono29.com/",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
 {
-name: "Mcot HD",
-image: "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+name: "MCOT HD",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-mcot.png",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-mcot&api_key=hmcb4rf66f",
 referer: "https://dooball66.com",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -352,24 +352,24 @@ info: "PLAY TV",
 desktop: "true"
 },
 {
-name: "Mcot HD",
-image: "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+name: "MCOT HD",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-mcot.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27141",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
 {
-name: "Mcot HD",
-image: "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+name: "MCOT HD",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-mcot.png",
 url: "https://we-play.live/watching/tv/mcot-hd",
 referer: "https://we-play.live/",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
 {
-name: "Mcot HD",
-image: "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+name: "MCOT HD",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-mcot.png",
 url: "https://www.adintrend.tv/hd/ch9",
 referer: "https://www.adintrend.tv/",
 info: "PLAY TV",
@@ -378,7 +378,7 @@ playInNatPlayer: "true"
 
 {
 name: "One31 HD",
-image: "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-gmmone.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27140",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -386,7 +386,7 @@ playInNatPlayer: "true"
 },
 {
 name: "One31 HD",
-image: "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-gmmone.png",
 url: "https://we-play.live/watching/tv/one-hd",
 referer: "https://we-play.live/",
 info: "PLAY TV",
@@ -394,14 +394,14 @@ playInNatPlayer: "true"
 },
 {
 name: "One31 HD",
-image: "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-gmmone.png",
 url: "https://www.one31.net/live",
 info: "PLAY TV",
 playInNatPlayer: "true"
 },
 {
 name: "One31 HD",
-image: "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-gmmone.png",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-gmmone&api_key=hmcb4rf66f",
 referer: "https://dooball66.com",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -418,7 +418,7 @@ playInNatPlayer: "true"
 },
 {
 name: "Thairath HD",
-image: "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-thairath.png",
 url: "https://we-play.live/watching/tv/thairath-tv",
 referer: "https://we-play.live/",
 info: "PLAY TV",
@@ -426,7 +426,7 @@ playInNatPlayer: "true"
 },
 {
 name: "Thairath HD",
-image: "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-thairath.png",
 url: "https://www.adintrend.tv/hd/ch39",
 referer: "https://www.adintrend.tv/",
 info: "PLAY TV",
@@ -434,7 +434,7 @@ playInNatPlayer: "true"
 },
 {
 name: "Thairath HD",
-image: "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-thairath.png",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-thairath&api_key=hmcb4rf66f",
 referer: "https://dooball66.com",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -443,7 +443,7 @@ desktop: "true"
 },
 {
 name: "3HD",
-image: "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch3.png",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-ch3&api_key=hmcb4rf66f",
 referer: "https://dooball66.com",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -452,7 +452,7 @@ desktop: "true"
 },
 {
 name: "3HD",
-image: "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch3.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27137",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -460,7 +460,7 @@ playInNatPlayer: "true"
 },
 {
 name: "3HD",
-image: "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch3.png",
 url: "https://we-play.live/watching/tv/ch3-hd",
 referer: "https://we-play.live/",
 info: "PLAY TV",
@@ -468,7 +468,7 @@ playInNatPlayer: "true"
 },
 {
 name: "3HD",
-image: "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch3.png",
 url: "https://www.adintrend.tv/hd/ch3",
 referer: "https://www.adintrend.tv/",
 info: "PLAY TV",
@@ -476,7 +476,7 @@ playInNatPlayer: "true"
 },
 {
 name: "Amarin TV",
-image: "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-amarin.png",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-amarin&api_key=hmcb4rf66f",
 referer: "https://dooball66.com",
 userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
@@ -485,7 +485,7 @@ desktop: "true"
 },
 {
 name: "Amarin TV",
-image: "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-amarin.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27135",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -493,7 +493,7 @@ playInNatPlayer: "true"
 },
 {
 name: "Amarin TV",
-image: "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-amarin.png",
 url: "https://www.adintrend.tv/hd/ch26",
 referer: "https://www.adintrend.tv/",
 info: "PLAY TV",
@@ -510,7 +510,7 @@ desktop: "true"
 },
 {
 name: "7HD",
-image: "https://www.doofree88.com/storage/live/channel-7-hd.png",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch7.png",
 url: "https://www.inwiptv.com/player_demo.php?channel=27132",
 referer: "https://www.inwiptv.com/",
 info: "PLAY TV",
@@ -518,7 +518,7 @@ playInNatPlayer: "true"
 },
 {
 name: "7HD",
-image: "https://www.doofree88.com/storage/live/channel-7-hd.png",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch7.png",
 url: "https://www.we-play.live/watching/tv/ch7-hd",
 referer: "https://www.we-play.live/",
 info: "PLAY TV",
@@ -526,7 +526,7 @@ playInNatPlayer: "true"
 },
 {
 name: "7HD",
-image: "https://www.doofree88.com/storage/live/channel-7-hd.png",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-ch7.png",
 url: "https://www.ball8k.com/channel?ch=7hd",
 referer: "https://www.ball8k.com/",
 info: "PLAY TV",
@@ -543,7 +543,7 @@ desktop: "true"
 },
 {
 name: "PPTV HD",
-image: "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-pptv.png",
 url: "https://www-live.pptvhd36.com/api/live_player/program/1",
 referer: "https://www-live.pptvhd36.com/",
 info: "PLAY TV",
@@ -551,7 +551,7 @@ playInNatPlayer: "true"
 },
 {
 name: "PPTV HD",
-image: "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-pptv.png",
 url: "https://www.adintrend.tv/hd/ch25",
 referer: "https://www.adintrend.tv/",
 info: "PLAY TV",
@@ -559,7 +559,7 @@ playInNatPlayer: "true"
 },
 {
 name: "PPTV HD",
-image: "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+image: "https://www.img07.xyz/assets/img/ch_logo/hd-pptv.png",
 url: "https://www.ball8k.com/channel?ch=pptv",
 referer: "https://www.ball8k.com/",
 info: "PLAY TV",
