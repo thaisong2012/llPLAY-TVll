@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/07/Halo-4-Forward-Unto-Dawn-2012-200x300.jpg",เฮโล 4 หน่วยฝึกรบมหากาฬ (2012) Halo 4 Forward Unto Dawn
+https://streamhls.com/view/dc2ed264-3604-5467-8d37-1278f6e6d289.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/03/poster_killer-elite.jpg",KILLER ELITE (2011) สามโหดโคตรพันธุ์ดุ
 https://streamhls.com/files/cdcdf825ffd3820c34ba73bc60be5662_original.txt
