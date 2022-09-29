@@ -189,7 +189,7 @@ playInNatPlayer: "true"
 },
 {
 name: "Nation TV",
-image: "https://www.img07.xyz/assets/img/ch_logo/sd-nation.pngg",
+image: "https://www.img07.xyz/assets/img/ch_logo/sd-nation.png",
 url: "https://www.adintrend.tv/hd/ch37?t=live",
 referer: "https://www.adintrend.tv/",
 info: "PLAY TV",
