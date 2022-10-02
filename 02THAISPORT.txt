@@ -96,7 +96,7 @@ playInNatPlayer: "true"
 {	
 name: "EPL1",	
 image: "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
-url: "http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115758&extension=ts&play_token",	
+url: "https://ufabetcompany.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5/?fbclid=IwAR3YNyB1EQ_TFf9l1aYQQ7c6VzCHKEZs3Sm_UXOIH2ezxUKcZXBss5A0XGk#/",	
 referer: "https://www.ball8k.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
