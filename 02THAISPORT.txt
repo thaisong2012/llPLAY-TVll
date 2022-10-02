@@ -104,7 +104,7 @@ playInNatPlayer: "true"
 {	
 name: "EPL1",	
 image: "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
-url: "https://we-play.live/watching/tv/true-premier-football-hd-1",	
+url: "https://doball24.com/player/live.php?ch=dooball66-epl1b",	
 referer: "https://we-play.live/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
