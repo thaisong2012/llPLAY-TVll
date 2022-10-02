@@ -10,16 +10,13 @@
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/sport/tpf1/chunks.m3u8|Referer=https://dooball2you.com/
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/epl1/playlist.m3u8|Referer=https://www.andaman888th.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf1/playlist.m3u8|Referer=https://www.andaman888th.com/
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
-https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/ch28/playlist.m3u8|Referer=https://dooball4k.live/
+https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/tpf1_480/playlist.m3u8|Referer=https://dooball4k.live/
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
-https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.123-hd.com/
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115757&extension=ts&play_token","referer": "","userAgent
