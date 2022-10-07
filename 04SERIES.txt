@@ -46,7 +46,7 @@ info: "PLAY TV",
 playInNatPlayer: "true"	
 },
 {	
-name: "Game of Thrones (2011) มหาศึกชิงบัลลังก์ SEASON 1-5",  	
+name: "Game of Thrones (2011) มหาศึกชิงบัลลังก์ SEASON 1-8",  	
 image: "https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-1-220x300-c-default.jpg",  	
 url: "https://raw.githubusercontent.com/thaisong2012/ROOM-SERIES/main/Game%20of%20Thrones%20SEASON%201-8",	
 info: "PLAY TV",	
