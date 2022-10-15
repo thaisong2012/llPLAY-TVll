@@ -5,7 +5,7 @@
 https://hlsp2p.com/files/f7241051c749b435b93ee151f9eb0c7f_original.txt
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/07/Halo-Nightfall-2014-200x300.jpg",Halo Nightfall (2014) เฮโล ไนท์ฟอล ผ่านรกดาวมฤตยู
-https://streamhls.com/view/c22d3cc7-e8f3-5e8b-8b78-22861a0f915f.m3u8
+https://hlsp2p.com/files/8e67ad73a7fb33145f67a8fc261bf9aa_original.txt
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/07/Halo-4-Forward-Unto-Dawn-2012-200x300.jpg",เฮโล 4 หน่วยฝึกรบมหากาฬ (2012) Halo 4 Forward Unto Dawn
 https://streamhls.com/view/dc2ed264-3604-5467-8d37-1278f6e6d289.m3u8
