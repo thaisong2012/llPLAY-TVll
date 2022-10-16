@@ -4,13 +4,7 @@
 "image": "https://www.logomoose.com/wp-content/uploads/2017/11/plays.tvmoose.png",
 "url": "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/00INDEX",
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
-
-
-
 "groups": [
-
-
-
 {
 "name": "TV Digital",
 "image": "https://www.sequelonline.com/wp-content/uploads/2017/05/tv-digital-1024x356.jpg",
@@ -23,14 +17,12 @@
 "url": "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/02THAISPORT.txt",
 "import": false
 },
-
 {
 "name": "THAI SPORT-2",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV82g-q6ryPsTSbFGLTP5c6h5Zp8vwPFfsKg&usqp=CAU",
 "url": "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/02-1THAISPORT.txt",
 "import": false
 },
-
 {
 "name": "DOCUMENTARY",
 "image": "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_62084817d3888.jpeg",
@@ -49,32 +41,12 @@
 "url": "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04SERIES.txt",
 "import": false
 },
-
-{
-"name": "KIDS",
-"image": "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_62085830b4724.png",
-"url": "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/05KIDS.txt",
-"import": false
-},
-{
-"name": "VARIETY",
-"image": "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_620864d5b7b18.jpeg",
-"url": "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/06VARIETY.txt",
-"import": false
-},
-{
-"name": "MUSIC",
-"image": "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_6208659fe3583.png",
-"url": "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/07MUSICTV.txt",
-"import": false
-},
 {
 "name": "MOVIE HD",
 "image": "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_62085c94cd523.jpeg",
 "url": "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/08Movie%20HD.txt",
 "import": false
 },
-
 
 ]
 }
