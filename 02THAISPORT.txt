@@ -68,16 +68,6 @@ playInNatPlayer: "true"
 },
 
 {	
-name:"testttttttttttttttttttt",	
-image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
-url:"https://server6.oneplayer.online/mp4/eDr08MX/file_720.mp4",	
-referer: "https://www.doomovie-hd.com/",	
-userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},	
-
-{	
 name:"EPL1",	
 image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",	
 url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115758&extension=ts&play_token",	
