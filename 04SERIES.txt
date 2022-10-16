@@ -55,7 +55,7 @@ playInNatPlayer: "true"
 
 {	
 name: "STAR TREK DISCOVERY SEASON 1-4",  	
-image: "https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg",  	
+image: "https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg",  	
 url: "https://raw.githubusercontent.com/thaisong2012/ROOM-SERIES/main/STAR%20TREK%20DISCOVERY.txt",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
