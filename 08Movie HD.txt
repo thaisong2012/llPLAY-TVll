@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/10/Black-Adam-2022.jpg",BLACK ADAM (2022) แบล็ก อดัม
+https://hlsp2p.com/files/8f7b1ddd5232852507842329ba7b149e_original.txt
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/vs4Qx2mUOxIUSrrEXYf.jpg",17 Again (2009) 17 ขวบอีกครั้ง กลับมาแก้ฝันให้เป็นจริง
 https://hlsp2p.com/files/f7241051c749b435b93ee151f9eb0c7f_original.txt
