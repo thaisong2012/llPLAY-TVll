@@ -30,6 +30,8 @@ https://streaming-3.vip-streaming.com:30443/cloudstreaming/true-premier-hd-1/chu
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
 https://rr5---sn-w5nuxa-c33lk-27.googleuservideo.com/168db_e1/trueepl1_480p/playlist.m3u8|Referer=https://168dooball.com/
 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
+https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-1/playlist.m3u8|Referer=https://ufabetcompany.com/
 
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="Sport",True Premier Football HD 2
