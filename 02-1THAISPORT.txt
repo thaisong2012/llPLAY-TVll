@@ -25,10 +25,10 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf1/playlist.m3u8|Refere
 https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-1/playlist.m3u8|Referer=https://ballclub168.com/
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115760&extension=ts&play_token","referer": "","userAgent
+https://streaming-3.vip-streaming.com:30443/cloudstreaming/true-premier-hd-1/chunks.m3u8|Referer=https://ballclub168.com/
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115771&extension=ts&play_token","referer": "","userAgent
+https://rr5---sn-w5nuxa-c33lk-27.googleuservideo.com/168db_e1/trueepl1_480p/playlist.m3u8|Referer=https://168dooball.com/
 
 
 
