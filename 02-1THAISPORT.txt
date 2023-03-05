@@ -34,8 +34,7 @@ https://rr5---sn-w5nuxa-c33lk-27.googleuservideo.com/168db_e1/trueepl1_480p/play
 https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-1/playlist.m3u8|Referer=https://ufabetcompany.com/
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport",True Premier Football HD 1 Ball66
-https://edge-s10.onlineprostream.com:451/hmcb4rf66f-th1/dooball66-epl1_720/chunks.m3u8|Referer=https://dooball66.com/
-
+https://edge-s10.onlineprostream.com:451/hmcb4rf66f-th1/dooball66-epl1_720/chunks.m3u8?nimblesessionid=1971972&wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjMgNDowODoxNSBQTSZoYXNoX3ZhbHVlPXFmdllDVjN2MVRuWUtPRXpvaTlBbWc9PSZ2YWxpZG1pbnV0ZXM9MTAmc3RybV9sZW49MzMmaWQ9NDcxNjk3MHxkb29iYWxsNjYuY29tfE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTAuMC4wLjAgU2FmYXJpLzUzNy4zNnwxNjc4MDMyNDk1fGRvb2JhbGw2Ni1lcGwxXzcyMHw0NzE2OTcwfDQ5LjIzMC4yMi4xNDc=
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="Sport",True Premier Football HD 2
 https://cdn1.aws-live-streaming.com/true/ch29/playlist.m3u8|Referer=https://true24hd.net/
