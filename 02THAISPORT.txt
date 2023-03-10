@@ -11,7 +11,7 @@ stations: [
 {	
 name: "27 February 2022",  	
 image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV82g-q6ryPsTSbFGLTP5c6h5Zp8vwPFfsKg&usqp=CAU",  	
-url: "https://ufa77.tv/home",	
+url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/PlayIDTVOTT.m3u",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },	
