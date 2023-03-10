@@ -24,6 +24,15 @@
 "import": false
 },
 {
+"name": "THAI SPORT-3 ทดสอบ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV82g-q6ryPsTSbFGLTP5c6h5Zp8vwPFfsKg&usqp=CAU",
+"url": "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/PlayIDTVOTT.m3u",
+"import": false
+},
+
+
+
+{
 "name": "DOCUMENTARY",
 "image": "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_62084817d3888.jpeg",
 "url": "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/03DOCUMENTARY.txt",
