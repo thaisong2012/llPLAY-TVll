@@ -761,7 +761,7 @@ https://movie.7yup.net/live/sport7/index.m3u8
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesportsd7/playlist.m3u8
 
 #EXTINF:-0 tvg-id="SPOTV" tvg-name="" tvg-logo="https://images.livebox.co/images/tv/png/hd-spotv.png" group-title="SportsTH",TH SPOTV
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
 #EXTINF:-0 tvg-id="SPOTV.kr" tvg-name="TH - SPOTV" tvg-logo="https://images.livebox.co/images/tv/png/hd-spotv.png" group-title="SportsTH",TH SPOTV
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
