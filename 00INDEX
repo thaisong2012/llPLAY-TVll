@@ -62,6 +62,11 @@
 "url": "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/08Movie%20HD.txt",
 "import": false
 },
-
+{
+"name": "MOVIE HD",
+"image": "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_62085c94cd523.jpeg",
+"url": "https://freenote.biz/raw/khwy94yegf",
+"import": false
+},
 ]
 }
