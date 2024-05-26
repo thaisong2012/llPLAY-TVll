@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Atlas.jpg",ATLAS (2024) ล่าข้ามจักรวาล
+https://streamhls.com/view/f3001541-180a-5676-b23f-4f13f379a874.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes.jpg",KINGDOM OF THE PLANET OF THE APES (2024) อาณาจักรแห่งพิภพวานร
 https://streamhls.com/view/bde2a062-ded1-53a9-9e8a-e020aeb3b8ae.m3u8
