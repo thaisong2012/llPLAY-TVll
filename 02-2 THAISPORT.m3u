@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Playidturl1/epgtv/main/tv.trueid.net.channels.xml,https://raw.githubusercontent.com/Playidturl1/epgtv/main/tv.trueid.net.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/Playidturl1/epgtv/main/playidtvepg.xml,http://keereeboon.streaming-fast.com/TIVIMATE/guide.xml" url="https://rebrand.ly/Ott1234"
+#EXTM3U 
 
 #EXTINF:-1 group-title="" tvg-logo="https://dl.dropbox.com/s/fx0g2xi4e0anijl/20230212_105723.jpg?dl=0", 10-2023
 https://rebrand.ly/Ott1234
