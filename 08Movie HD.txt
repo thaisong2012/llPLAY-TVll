@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2019/05/The-Wandering-Earth-2019.jpg",THE WANDERING EARTH (2019) ปฏิบัติการฝ่าสุริยะ
+https://streamhls.com/view/44e96b9c-fa35-58e5-b495-2a6ac56b4cbf.m3u8
+
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga.jpg",FURIOSA: A MAD MAX SAGA (2024) ฟูริโอซ่า: มหากาพย์ แมด แม็กซ์
 https://streamhls.com/view/164cbe38-aa3d-54cf-a708-eac0df26020a.m3u8
 
