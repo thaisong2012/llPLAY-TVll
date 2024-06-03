@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga.jpg",FURIOSA: A MAD MAX SAGA (2024) ฟูริโอซ่า: มหากาพย์ แมด แม็กซ์
+https://streamhls.com/view/164cbe38-aa3d-54cf-a708-eac0df26020a.m3u8
+
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Atlas.jpg",ATLAS (2024) ล่าข้ามจักรวาล
 https://streamhls.com/view/f3001541-180a-5676-b23f-4f13f379a874.m3u8
 
