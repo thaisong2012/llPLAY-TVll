@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2014/08/GRAVITY.jpg",Gravity (2013) กราวิตี้ มฤตยูแรงโน้มถ่วง HD
-https://hlsp2p.xyz/files/83efa70c423982e920bb7d560f327cb0_original.txt
+https://hot.24playerhd.com/autoplaylist/f209916da449cf6d3e3416ffe1a86829/f209916da449cf6d3e3416ffe1a86829.m3u8
 
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2016/06/fmGzaX.jpg",London Has Fallen ยุทธการถล่มลอนดอน
 https://streamhls.com/files/32d6e36b3c073db1300f914d4db34661_original.txt
