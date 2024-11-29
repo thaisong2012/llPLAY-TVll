@@ -8,7 +8,7 @@ url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04SERIES
 {	
 name: "Love Game in Eastern Fantasy (2024)",  	
 image: "https://i.mydramalist.com/VXOLzy_4f.jpg",  	
-url: "https://raw.githubusercontent.com/thaisong2012/ROOM-SERIES/main/MONEY%20HEIST%20%7C%20NETFLIX%20SEASON%201-5",	
+url: "https://raw.githubusercontent.com/thaisong2012/SERIES/refs/heads/main/Love%20Game%20in%20Eastern%20Fantasy%20(2024)/Love%20Game%20in%20Eastern%20Fantasy%20(2024).txt",	
 referer: "https://www.movie-19.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
