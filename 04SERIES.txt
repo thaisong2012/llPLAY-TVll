@@ -6,6 +6,14 @@ url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04SERIES
 		
 "groups": [	
 {	
+name: "Guardians of the Dafeng (2024) พากย์ไทย",  	
+image: "https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",  	
+url: "https://raw.githubusercontent.com/thaisong2012/SERIES/refs/heads/main/Guardians%20of%20the%20Dafeng%20(2024)/Guardians%20of%20the%20Dafeng%20(2024)",	
+referer: "https://series-full.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+{	
 name: "Love Game in Eastern Fantasy (2024)",  	
 image: "https://i.mydramalist.com/VXOLzy_4f.jpg",  	
 url: "https://raw.githubusercontent.com/thaisong2012/SERIES/refs/heads/main/Love%20Game%20in%20Eastern%20Fantasy%20(2024)/Love%20Game%20in%20Eastern%20Fantasy%20(2024).txt",	
