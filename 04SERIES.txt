@@ -4,7 +4,17 @@ author: "@PLAY TV",
 image: "https://raw.githubusercontent.com/thaisong2012/Logo/main/bloggif_6208b536d1ab8.jpeg",	
 url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04SERIES.txt",	
 		
-"groups": [	
+"groups": [
+{	
+name: "Si Jin (2025) ซื่อจิ่น หวนรักประดับใจ พากย์ไทย",  	
+image: "https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",  	
+url: "https://raw.githubusercontent.com/thaisong2012/SERIES/refs/heads/main/Si%20Jin%20(2025)/Si%20Jin%20(2025).txt",	
+referer: "https://series-full.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
+
 {	
 name: "Guardians of the Dafeng (2024) พากย์ไทย",  	
 image: "https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",  	
