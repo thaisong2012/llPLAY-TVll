@@ -8,7 +8,7 @@ url: "https://raw.githubusercontent.com/thaisong2012/llPLAY-TVll/master/04SERIES
 {	
 name: "Si Jin (2025) ซื่อจิ่น หวนรักประดับใจ พากย์ไทย",  	
 image: "https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",  	
-url: "https://raw.githubusercontent.com/thaisong2012/SERIES/refs/heads/main/Mirror%20A%20Tale%20of%20Twin%20Cities/Mirror%20A%20Tale%20of%20Twin%20Cities",	
+url: "https://raw.githubusercontent.com/thaisong2012/SERIES/refs/heads/main/Si%20Jin%20(2025)/Si%20Jin%20(2025)",	
 referer: "https://series-full.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
@@ -16,7 +16,7 @@ playInNatPlayer: "true"
 {	
 name: "Mirror: A Tale of Twin Cities",  	
 image: "https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",  	
-url: "https://raw.githubusercontent.com/thaisong2012/SERIES/refs/heads/main/Si%20Jin%20(2025)/Si%20Jin%20(2025)",	
+url: "https://raw.githubusercontent.com/thaisong2012/SERIES/refs/heads/main/Mirror%20A%20Tale%20of%20Twin%20Cities/Mirror%20A%20Tale%20of%20Twin%20Cities",	
 referer: "https://series-full.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
