@@ -104,9 +104,9 @@ playInNatPlayer: "true"
 },
 
 {	
-name: "The Love You Give Me รักนี้เธอมอบให้ SEASON 1",  	
-image: "https://sls-prod.api-onscene.com/partner_files/trueidintrend/359386/cover_image/The%20love%20you%20give%20me%20%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B9%89.png",  	
-url: "https://raw.githubusercontent.com/thaisong2012/SERIES/main/The%20Love%20You%20Give%20Me/The%20Love%20You%20Give%20Me.txt",	
+name: "Bon Appetit Your Majesty (2025)",  	
+image: "https://www.seriesday-hd.com/wp-content/uploads/2025/08/Bon-Appetit-Your-Majesty-2025-240x300.jpg",  	
+url: "https://raw.githubusercontent.com/thaisong2012/SERIES/refs/heads/main/Bon%20Appetit%20Your%20Majesty%20(2025)",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },
